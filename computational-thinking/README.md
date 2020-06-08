@@ -1,8 +1,19 @@
 # Module: Computational Thinking
 
-## Aim
+> Introduce Computational thinking process for Problem Solving.
 
-Introduce Computational thinking process for Problem Solving.
+<dl>
+<dt>Total Duration</dt>
+<dd>10 weeks</dd>
+<dt>Lectures and Self Learning</dt>
+<dd>50 hours</dd>
+<dt>Tutorials and Labs</dt>
+<dd>50 hours</dd>
+<dt>Topics</dt>
+<dd>5</dd>
+</dl>
+
+## Introduction
 
 Computers are dumb machines. Before you can think about programming a computer, you need to work out exactly what it is you want the computer to do. Thinking through the problem and preparing it to be fed to a computer is Computational Thinking. Computational Thinking allows us to take complex problems, understand what the problem is, and develop solutions. We can present these solutions in a way that both computers and people can understand.
 
@@ -16,7 +27,7 @@ Computers are dumb machines. Before you can think about programming a computer, 
 
 ## Topics
 
-| Lesson                                     | Details                                        |
+| Topic                                      | Details                                        |
 | ------------------------------------------ | ---------------------------------------------- |
 | Fundamental concepts of Programming        | [View Details](./01-fundamental-concepts.md)   |
 | Data Structures and Algorithms             | [View Details](./02-data-struct-and-algo.md)   |
