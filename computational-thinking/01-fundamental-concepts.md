@@ -1,6 +1,11 @@
-# Computational Thinking > Fundamental Concepts
+> Computational Thinking
 
-## Lesson 1
+# Fundamental Concepts
+
+1. [Familiarize by playing a game](http://...#lesson1)
+2. [Learn by creating games](http://...#lesson2)
+
+## <a name="lesson1"></a>Lesson 1: Familiarize by playing a game
 
 <dl>
 <dt>Self Learning Duration</dt>
@@ -27,10 +32,12 @@ https://lightbot.com/hour-of-code.html
 
 Discussion about programming concepts through [lightbot](https://lightbot.com/hour-of-code.html) game. Discuss how programs are made out of sequence of instructions. Discuss about procedures. Explain why loops and recursion are required.
 
-### Lab Tutorials
+### Lab and tutorials
 
 Play LightBot and complete all levels of 'Procedures' and 'Loops'
 
 ### Assessment
 
 None
+
+## <a name="lesson1"></a>Lesson 2: Learn by creating games
