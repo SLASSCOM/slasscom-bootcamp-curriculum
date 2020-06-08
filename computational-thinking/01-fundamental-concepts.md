@@ -42,10 +42,6 @@ Discussion about programming concepts through [lightbot](https://lightbot.com/ho
 
 Play LightBot and complete all levels of 'Procedures' and 'Loops'
 
-### Assessment
-
-None
-
 ## Lesson 2
 
 > Learn concepts by creating games with SCRATCH
@@ -189,6 +185,8 @@ Use simple HTML and Javascript code to demonstrate event generates by user compo
 Write a 200+ word blog post on how user interactions are captured and handled in code when writing programs. Use simple HTML code blocks to explain the concepts.
 
 ## Assessment 1
+
+> Fundamental concepts in computational thinking
 
 MCQ assessment verifying the understanding of the students in the following programming concepts. Preferably use a gamified assessment tool such as Kahoot.
 
