@@ -145,3 +145,9 @@ Discuss the need of common algorithms in programming. There is no need to teach 
 ### Lab and tutorials
 
 Write 3 code snippets to demonstrate use of each of above algorithms using any language. Use already existing data structures in the language. Student does not need to write the algorithm itself, but should learn to use the existing data structures that support the algorithms. Use Cloud9 IDE.
+
+## Assessment 2
+
+> Algorithms
+
+MCQ assessment verifying the understanding of the students in proper use of algorithms. Preferably use a gamified assessment tool such as Kahoot.
