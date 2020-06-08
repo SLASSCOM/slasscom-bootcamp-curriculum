@@ -5,8 +5,9 @@
 1. [Familiarize concepts by playing a game](#lesson-1)
 1. [Learn concepts by creating games](#lesson-2)
 1. [Information storage and manipulation](#lesson-3)
-1. [Event driven programming](#lesson-4)
-1. [Topic review](#lesson-5)
+1. [Event driven programming concepts](#lesson-4)
+1. [Events in HTML](#lesson-5)
+1. [Topic Review and Assessment](#assessment-1)
 
 ## Lesson 1
 
@@ -189,7 +190,7 @@ Write a 200+ word blog post on how user interactions are captured and handled in
 
 ## Assessment 1
 
-MCQ assessment verifying the understanding of the students in the following programming concepts
+MCQ assessment verifying the understanding of the students in the following programming concepts. Preferably use a gamified assessment tool such as Kahoot.
 
 - What's computer programming
 - Instructions and sequence
