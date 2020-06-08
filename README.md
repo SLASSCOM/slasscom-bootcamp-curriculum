@@ -19,3 +19,7 @@ The purpose of SLASSCOM Bootcamp curriculum is to serve as a guidance to educati
 | Industry Knowledge             | [View Topics](./industry-knowledge/README.md)             |
 | Entrepreneur Thinking          | [View Topics](./enterprenuor-thinking/README.md)          |
 | Life Skills for 21st Century   | [View Topics](./life-skills/README.md)                    |
+
+## How to contribute?
+
+This repository is maintained as a community effort of the industry. If you like to contribute, please read the following [guide](./CONTRIBUTE.md).
