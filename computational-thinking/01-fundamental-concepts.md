@@ -1,4 +1,4 @@
-# [Computational Thinking](./README.md) > Fundamental Concepts
+# Computational Thinking > Fundamental Concepts
 
 ## Lesson 1
 
