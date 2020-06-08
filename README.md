@@ -23,3 +23,9 @@ The purpose of SLASSCOM Bootcamp curriculum is to serve as a guidance to educati
 ## How to contribute?
 
 This repository is maintained as a community effort of the industry. If you like to contribute, please read the following [guide](./CONTRIBUTE.md).
+
+## Related Links
+
+- [Parent Git Repository](https://github.com/SLASSCOM/SLASSCOM-Bootcamp-Curriculum)
+- [Curriculum Website](https://slasscom.github.io/SLASSCOM-Bootcamp-Curriculum/)
+- [SLASSCOM Website](https://slasscom.lk)
