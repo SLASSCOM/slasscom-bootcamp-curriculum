@@ -86,9 +86,6 @@ Create one new Games that uses all 3 principles selection, iteration and procedu
 Write a 200+ word Blog post regarding one of the following topics. In the blog post, include the reference to the Game created by the student at the Lab and Tutorials as an example code demonstrating the blog content.
 
 - Computer Programs are essentially a sequence of instructions
-
 - What is 'selection' in programing and why 'selection' is a most used concept in computer programs
-
 - How 'Iteration' can make programs smaller and simpler
-
 - How 'procedures' can make your program more readable
