@@ -2,10 +2,12 @@
 
 # Fundamental Concepts
 
-1. [Familiarize by playing a game](http://...#lesson1)
-2. [Learn by creating games](http://...#lesson2)
+1. [Familiarize by playing a game](#Lesson-1)
+2. [Learn further by creating games](#Lesson-2)
 
-## <a name="lesson1"></a>Lesson 1: Familiarize by playing a game
+## Lesson 1
+
+> Familiarize by playing a game
 
 <dl>
 <dt>Self Learning Duration</dt>
@@ -40,4 +42,6 @@ Play LightBot and complete all levels of 'Procedures' and 'Loops'
 
 None
 
-## <a name="lesson1"></a>Lesson 2: Learn by creating games
+## Lesson 2
+
+> Learn by creating games
