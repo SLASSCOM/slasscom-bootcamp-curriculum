@@ -18,10 +18,10 @@ of industry representatives and academics.
 
 | Module                         | Topics                                                    |
 | ------------------------------ | --------------------------------------------------------- |
-| Life Skills for 21st Century   | [View Topics](./life-skills/README.md)                    |
 | Computational Thinking         | [View Topics](./computational-thinking/README.md)         |
 | Working with Data              | [View Topics](./working-with-data/README.md)              |
 | Web Application Development    | [View Topics](./web-application-development/README.md)    |
 | Mobile Application Development | [View Topics](./mobile-application-development/README.md) |
 | Industry Knowledge             | [View Topics](./industry-knowledge/README.md)             |
 | Entrepreneur Thinking          | [View Topics](./enterprenuor-thinking/README.md)          |
+| Life Skills for 21st Century   | [View Topics](./life-skills/README.md)                    |
