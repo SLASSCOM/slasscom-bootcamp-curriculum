@@ -1,9 +1,9 @@
-> Computational Thinking
+> Module: Computational Thinking
 
 # Fundamental Concepts
 
-1. [Familiarize by playing a game](#Lesson-1)
-2. [Learn further by creating games](#Lesson-2)
+1. [Familiarize by playing a game](#lesson-1)
+2. [Learn further by creating games](#lesson-2)
 
 ## Lesson 1
 
