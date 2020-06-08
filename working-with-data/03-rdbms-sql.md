@@ -6,7 +6,7 @@
 
 ## Lesson 1
 
-> Introduction to relational databases
+> Introduction to SQL , Uses of tables , CRUD operations
 
 <dl>
 <dt>Self Learning Duration</dt>
