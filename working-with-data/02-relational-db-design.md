@@ -42,6 +42,8 @@ None
 <dd>180 mins</dd>
 <dt>Lecture Duration</dt>
 <dd>240 mins</dd>
+<dt>Lab Tutorial Duration</dt>
+<dd>120 mins</dd>
 </dl>
 
 ### Self learning content
