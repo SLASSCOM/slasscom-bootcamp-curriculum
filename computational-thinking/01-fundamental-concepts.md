@@ -2,12 +2,12 @@
 
 # Fundamental Concepts
 
-1. [Familiarize concepts by playing a game](#lesson-1)
-1. [Learn concepts by creating games](#lesson-2)
-1. [Information storage and manipulation](#lesson-3)
-1. [Event driven programming concepts](#lesson-4)
-1. [Events in HTML](#lesson-5)
-1. [Topic Review and Assessment](#assessment-1)
+1. Lesson: [Familiarize concepts by playing a game](#lesson-1)
+1. Lesson: [Learn concepts by creating games](#lesson-2)
+1. Lesson: [Information storage and manipulation](#lesson-3)
+1. Lesson: [Event driven programming concepts](#lesson-4)
+1. Lesson: [Events in HTML](#lesson-5)
+1. Assessment: [Topic Review and Assessment](#assessment-1)
 
 ## Lesson 1
 
