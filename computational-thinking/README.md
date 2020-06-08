@@ -15,7 +15,7 @@
 
 ## Introduction
 
-Computers are dumb machines. Before you can think about programming a computer, you need to work out exactly what it is you want the computer to do. Thinking through the problem and preparing it to be fed to a computer is Computational Thinking. Computational Thinking allows us to take complex problems, understand what the problem is, and develop solutions. We can present these solutions in a way that both computers and people can understand.
+Computers are dumb machines unless you make it smart through your program. Before you can think about programming a computer, you need to work out exactly what it is you want the computer to do. Thinking through the problem and preparing it to be fed to a computer is Computational Thinking. Computational Thinking allows us to take complex problems, understand what the problem is, and develop solutions. We can present these solutions in a way that both computers and people can understand.
 
 ## Learning Outcomes
 
