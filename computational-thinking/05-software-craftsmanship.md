@@ -8,17 +8,21 @@
 1. Lesson: [Testing software systems](#lesson-4)
 1. Assessment: [Assessment](#assessment-1)
 
+---
+
+---
+
 ## Lesson 1
 
 > Clean code practices
 
 <dl>
 <dt>Self Learning Duration</dt>
-<dd> mins</dd>
+<dd>0 mins</dd>
 <dt>Lecture Duration</dt>
-<dd> mins</dd>
+<dd>120 mins</dd>
 <dt>Lab Tutorial Duration</dt>
-<dd> mins</dd>
+<dd>180 mins</dd>
 </dl>
 
 ### Self learning content
@@ -39,6 +43,10 @@ Discuss the code review process in the industry and associated tool that can be 
 ### Lab and tutorials
 
 Select a open source code repository and run code quality analysis tools and write a report (4-5 page) on the code quality of that repository code.
+
+---
+
+---
 
 ## Lesson 2
 
@@ -75,6 +83,10 @@ Dependency Inversion principle.
 
 Write code snippets to demonstrate the use of at least 3 of the SOLID practices using any language. Use those code snippets in a blog post which introduces SOLID principles.
 
+---
+
+---
+
 ## Lesson 3
 
 > Exception handling
@@ -105,6 +117,10 @@ Demonstrate exception handling on below 3 programming languages through simple c
 - C#
 - Python
 - JavaScript
+
+---
+
+---
 
 ## Lesson 4
 
@@ -140,6 +156,10 @@ Talk about different type of tests used in a project:
 ### Lab and tutorials
 
 Write a simple calculator code and write an unit-test which will validate the workings of the calculator code.
+
+---
+
+---
 
 ## Assessment 1
 
