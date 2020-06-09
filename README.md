@@ -1,24 +1,23 @@
 ## Introduction
 
-_For whom?_
+<dl>
+<dt>For whom?</dt>
+<dd>SLASSCOM Bootcamp curriculum is intended to be used as a guidance for educational and vocational institutes in teaching ICT.</dd>
+<dt>Which career?</dt>
+<dd>This is for students pursue a career in software development.</dd>
 
-SLASSCOM Bootcamp curriculum is intended to be used as a guidance for educational and vocational institutes in teaching ICT.
+<dt>Which level?</dt>
+<dd>Intended for diploma level qualifications to pursue an entry level job.</dd>
 
-_Which career?_
+<dt>Recommended Duration?</dt>
+<dd>Through a short (~6 months) intensive course.</dd>
 
-This is for students pursue a career in software development.
+<dt>Who maintains this?</dt>
+<dd>This is an open source curriculum. SLASSCOM (together with the industry) expects to keep it up-to-date to reflect the latest entry level skill demands in the Industry.</dd>
 
-_Which level?_
-
-Intended for diploma level qualifications.
-
-_Recommended Duration?_
-
-Through a short (~6 months) intensive course.
-
-_Who maintains this?_
-
-This is an open source curriculum. SLASSCOM expects to keep it up-to-date to reflect the latest entry level skill demands in the Industry.
+<dt></dt>
+<dd></dd>
+</dl>
 
 ## Summary of the modules
 
