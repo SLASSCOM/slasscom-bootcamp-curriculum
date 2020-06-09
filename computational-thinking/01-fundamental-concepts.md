@@ -9,6 +9,10 @@
 1. Lesson: [Events in HTML](#lesson-5)
 1. Assessment: [Topic Review and Assessment](#assessment-1)
 
+---
+
+---
+
 ## Lesson 1
 
 > Familiarize by playing a game
@@ -42,6 +46,10 @@ Discussion about programming concepts through [lightbot](https://lightbot.com/ho
 ### Lab and tutorials
 
 Play LightBot and complete all levels of 'Procedures' and 'Loops'
+
+---
+
+---
 
 ## Lesson 2
 
@@ -87,6 +95,10 @@ Write a 200+ word Blog post regarding one of the following topics. In the blog p
 - How 'Iteration' can make programs smaller and simpler
 - How 'procedures' can make your program more readable
 
+---
+
+---
+
 ## Lesson 3
 
 > Learn more concepts by creating games with SCRATCH
@@ -127,6 +139,10 @@ Make one or more games with Scratch using variables to demonstrate 3 different u
 
 Write a 200+ word blog post on what variables are and how they are useful in programming
 
+---
+
+---
+
 ## Lesson 4
 
 > Learn concepts of event driven programming by creating games with SCRATCH
@@ -159,6 +175,10 @@ Make one more Scratch game using events to demonstrate all of the following
 2. Key press events
 3. Message broadcast
 
+---
+
+---
+
 ## Lesson 5
 
 > Pragmatic event driven programming with HTML.
@@ -185,6 +205,10 @@ Use simple HTML and Javascript code to demonstrate event generates by user compo
 ### Lab and tutorials
 
 Write a 200+ word blog post on how user interactions are captured and handled in code when writing programs. Use simple HTML code blocks to explain the concepts.
+
+---
+
+---
 
 ## Assessment 1
 

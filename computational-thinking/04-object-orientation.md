@@ -6,6 +6,10 @@
 1. Lesson: [OOD and UML](#lesson-2)
 1. Assessment: [Assessment](#assessment-1)
 
+---
+
+---
+
 ## Lesson 1
 
 > Introduction to OOP
@@ -47,6 +51,10 @@ Discuss OOP concepts:
 
 Create a simple program (2-3 classes) using Java or C# to demonstrate the use of OOP concepts. E.g. Program to keep Student records such as marks.
 
+---
+
+---
+
 ## Lesson 2
 
 > OOD and UML
@@ -77,6 +85,10 @@ Briefly discuss other diagram types commonly used in UML.
 ### Lab and tutorials
 
 Create a Software Design Specification document for a 'Uber' or 'AirB&B' using UML notations
+
+---
+
+---
 
 ## Assessment 1
 

@@ -9,6 +9,10 @@
 1. Lesson: [Common algorithms in programming - part 2](#lesson-4)
 1. Assessment: [Algorithms Assessment](#assessment-2)
 
+---
+
+---
+
 ## Lesson 1
 
 > Representation of data through data types
@@ -39,6 +43,10 @@ Discuss common data types and structures:
 ### Lab and tutorials
 
 Write a blog post about 'Why programming require different data types"
+
+---
+
+---
 
 ## Lesson 2
 
@@ -80,11 +88,19 @@ Make following programs (e.g. command line) to use different types of variables.
 - Remember a list of words user enter and display all of it at once - Python (array/list)
 - Postal code display of a given city using Java (dictionary)
 
+---
+
+---
+
 ## Assessment 1
 
 > Data Structures
 
 Create a StackOverFlow account (if not existing) and answer minimum 3 questions related to data types (e.g. data type conversions) in programming.
+
+---
+
+---
 
 ## Lesson 3
 
@@ -117,6 +133,10 @@ Discuss the need of common algorithms in programming. There is no need to teach 
 
 Write 3 code snippets to demonstrate use of each of above algorithms using any language. Use already existing data structures in the language. Student does not need to write the algorithm itself, but should learn to use the existing data structures that support the algorithms. Use Cloud9 IDE.
 
+---
+
+---
+
 ## Lesson 4
 
 > Common algorithms in programming - part 2
@@ -145,6 +165,10 @@ Discuss the need of common algorithms in programming. There is no need to teach 
 ### Lab and tutorials
 
 Write 3 code snippets to demonstrate use of each of above algorithms using any language. Use already existing data structures in the language. Student does not need to write the algorithm itself, but should learn to use the existing data structures that support the algorithms. Use Cloud9 IDE.
+
+---
+
+---
 
 ## Assessment 2
 

@@ -1,11 +1,15 @@
 [Home](../README.md) > [Working with Data](./README.md) > Big data
 
-> Module: Big data
+> Module: Working with Data
 
-# Fundamental Concepts
+# Topic: Big data
 
-1. [What is big data (Volume, Velocity ..)](#lesson-1)
-1. [Introduction to NoSQL](#lesson-1)
+1. Lesson: [What is big data (Volume, Velocity ..)](#lesson-1)
+1. Lesson: [Introduction to NoSQL](#lesson-2)
+
+---
+
+---
 
 ## Lesson 1
 
@@ -30,9 +34,9 @@ https://www.oracle.com/big-data/guide/what-is-big-data.html
 
 None
 
-### Assessment
+---
 
-None
+---
 
 ## Lesson 2
 
@@ -54,9 +58,5 @@ https://www.youtube.com/watch?v=-D3dmMfQ9p0
 https://university.mongodb.com/courses/M001/about
 
 ### Lab and tutorials
-
-None
-
-### Assessment
 
 None

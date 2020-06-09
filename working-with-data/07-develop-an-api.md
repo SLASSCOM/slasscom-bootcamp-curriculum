@@ -1,10 +1,15 @@
 [Home](../README.md) > [Working with Data](./README.md) > Develop an API
 
-> Module: Develop an API
+> Module: Working with Data
 
-# Fundamental Concepts
+# Develop an API
 
-1. [Develop simple API and consume it](#lesson-1)
+1. Lesson: [Develop simple API and consume it](#lesson-1)
+1. Assessment: [Assessment 1](#assessment-1)
+
+---
+
+---
 
 ## Lesson 1
 
@@ -32,6 +37,14 @@ https://www.youtube.com/watch?v=rtWH70_MMHM
 
 Create simple APIs for the shopping cart system and test those APIs using postman
 
-### Assessment
+---
+
+---
+
+## Assessment 1
 
 Working API endpoints for shopping cart system
+
+---
+
+---

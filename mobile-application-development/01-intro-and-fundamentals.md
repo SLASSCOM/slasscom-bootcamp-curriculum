@@ -8,6 +8,10 @@
 1. Lesson: [Lesson](#lesson-4)
 1. Assessment: [Assessment](#assessment-1)
 
+---
+
+---
+
 ## Lesson 1
 
 > Lesson Name
@@ -32,6 +36,10 @@
 ### Lab and tutorials
 
 ...
+
+---
+
+---
 
 ## Lesson 2
 

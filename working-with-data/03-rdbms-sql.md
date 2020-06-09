@@ -2,9 +2,14 @@
 
 > Module: RDBMS & SQL
 
-# Fundamental Concepts
+# Topic:RDBMS & SQL
 
-1. [Introduction to SQL , Uses of tables , CRUD operations](#lesson-1)
+1. Lesson: [Introduction to SQL , Uses of tables , CRUD operations](#lesson-1)
+1. Assessment: [Assessment 1](#assessment-1)
+
+---
+
+---
 
 ## Lesson 1
 
@@ -33,6 +38,6 @@ https://www.youtube.com/watch?v=7S_tz1z_5bA
 - Create a shopping cart database system using MySQL, MariaDB or PostgreSQL
 - Create a simple program that connects to a database and tryout CURD operations
 
-### Assessment
+## Assessment 1
 
-Database for shopping cart system
+Create a Database for shopping cart system using SQL statements.
