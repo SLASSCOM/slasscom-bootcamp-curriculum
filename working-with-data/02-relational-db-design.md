@@ -1,11 +1,16 @@
 [Home](../README.md) > [Working with Data](./README.md) > Relational databases - Designing
 
-> Module: Relational databases - Designing
+> Module: Working with Data
 
-# Fundamental Concepts
+# Topic: Relational databases - Designing
 
-1. [Introduction to relational databases](#lesson-1)
-1. [Designing relational databases](#lesson-2)
+1. Lesson: [Introduction to relational databases](#lesson-1)
+1. Lesson: [Designing relational databases](#lesson-2)
+1. Assessment: [Assessment 1](#assessment-1)
+
+---
+
+---
 
 ## Lesson 1
 
@@ -34,6 +39,10 @@ None
 
 None
 
+---
+
+---
+
 ## Lesson 2
 
 > How to design a relational databases
@@ -60,6 +69,6 @@ https://www3.ntu.edu.sg/home/ehchua/programming/sql/Relational_Database_Design.h
 
 Students are suppose to create an ERD for a business case (Shopping cart, Student reg sys)
 
-### Assessment
+## Assessment 1
 
-ERD diagram for shopping cart system
+Create an ER diagram for a shopping cart system.

@@ -6,6 +6,10 @@
 1. Lesson: [Computer Thinking in Applications](#lesson-2)
 1. Assessment: [Assessment](#assessment-1)
 
+---
+
+---
+
 ## Lesson 1
 
 > Introduction to problem solving through CT
@@ -42,6 +46,10 @@ Complete Week 2 of the same course to learn followings:
 
 - Expressing and analyzing algorithms
 
+---
+
+---
+
 ## Lesson 2
 
 > Computer Thinking in Applications
@@ -77,6 +85,10 @@ Demonstrate how to
 Complete Week 4 of the same course to learn followings:
 
 - Applied Computational Thinking Using Python
+
+---
+
+---
 
 ## Assessment 1
 
