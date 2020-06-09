@@ -1,4 +1,4 @@
-[Home](../README.md) > [Computational Thinking](./README.md) > Topic Name
+[Home](../README.md) > [Industry Knowledge](./README.md) > Topic Name
 
 # Topic: Topic Name
 

@@ -150,4 +150,4 @@ Write 3 code snippets to demonstrate use of each of above algorithms using any l
 
 > Algorithms
 
-MCQ assessment verifying the understanding of the students in proper use of algorithms. Preferably use a gamified assessment tool such as Kahoot.
+MCQ assessment (~20 Questions) verifying the understanding of the students in proper use of algorithms. Preferably use a gamified assessment tool such as Kahoot.
