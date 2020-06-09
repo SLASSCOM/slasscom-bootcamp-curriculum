@@ -1,5 +1,7 @@
 # How can you contribute?
 
+**Before stepping-in, please ensure you have read and understood the [Underline Principles](./README.md#underline-principles) of this curriculum**
+
 Below is the community practice for you to follow in contributing to develop this curriculum
 
 - Create a GitHub account if you done have one already
