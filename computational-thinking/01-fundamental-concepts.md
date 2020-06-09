@@ -32,6 +32,7 @@ Get to know few of the programming concepts through playing a game
 ### Self learning content
 
 Play LightBot and complete the _basic_ level which covers the topic of 'sequence'
+
 [https://lightbot.com/hour-of-code.html](https://lightbot.com/hour-of-code.html)
 
 ### Lecture content
@@ -64,6 +65,7 @@ Learn the following concepts through creating Scratch based games.
 ### Self learning content
 
 Learn Scratch by going through the official tutorials:
+
 [https://scratch.mit.edu/projects/editor/?tutorial=getStarted](https://scratch.mit.edu/projects/editor/?tutorial=getStarted)
 
 ### Lecture content
@@ -103,7 +105,9 @@ Write a 200+ word Blog post regarding one of the following topics. In the blog p
 Watch and learn the content of the below videos and be familiarize with variables and lists:
 
 [https://www.youtube.com/watch?v=wS1QETPfgGE](https://www.youtube.com/watch?v=wS1QETPfgGE)
+
 [https://www.youtube.com/watch?v=1rb226XBBMo](https://www.youtube.com/watch?v=1rb226XBBMo)
+
 [https://www.youtube.com/watch?v=\_4pCzOTE8PY](https://www.youtube.com/watch?v=_4pCzOTE8PY)
 
 ### Lecture content
