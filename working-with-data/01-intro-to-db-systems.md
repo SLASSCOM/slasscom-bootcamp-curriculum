@@ -4,7 +4,7 @@
 
 1. [What is data & overview on Databases](#lesson-1)
 1. [Why not traditional file systems (Discussion points)](#lesson-2)
-1. [High level introduction to morden databases](#lesson-3)
+1. [High level introduction to modern databases](#lesson-3)
 
 ## Lesson 1
 
