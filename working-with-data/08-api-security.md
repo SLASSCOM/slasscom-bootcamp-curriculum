@@ -1,3 +1,5 @@
+[Home](../README.md) > [Working with Data](./README.md) > API Security
+
 > Module: API Security
 
 # Fundamental Concepts
@@ -6,9 +8,9 @@
 1. [Keep it Simple. Secure an API/System](#lesson-1)
 1. [Always Use HTTPS](#lesson-1)
 1. [Use Password Hash](#lesson-1)
-1. [Never expose information on URLs](#lesson-1) 
-1. [Consider OAuth](#lesson-1) 
-1. [Consider Adding Timestamp in Request](#lesson-1) 
+1. [Never expose information on URLs](#lesson-1)
+1. [Consider OAuth](#lesson-1)
+1. [Consider Adding Timestamp in Request](#lesson-1)
 1. [Input Parameter Validation](#lesson-1)
 
 ## Lesson 1
@@ -27,7 +29,6 @@
 ### Self learning content
 
 https://www.redhat.com/en/topics/security/api-security
-
 
 ### Lecture content
 

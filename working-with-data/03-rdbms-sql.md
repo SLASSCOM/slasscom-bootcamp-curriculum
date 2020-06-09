@@ -1,4 +1,6 @@
-> Module: Relational Database Management Systems & SQL
+[Home](../README.md) > [Working with Data](./README.md) > RDBMS & SQL
+
+> Module: RDBMS & SQL
 
 # Fundamental Concepts
 
@@ -20,7 +22,6 @@
 ### Self learning content
 
 https://www.youtube.com/watch?v=7S_tz1z_5bA
-
 
 ### Lecture content
 

@@ -1,6 +1,6 @@
 [Home](../README.md) > [Computational Thinking](./README.md) > Data Structures and Algorithms
 
-# Data Structures and Algorithms
+# Topic: Data Structures and Algorithms
 
 1. Lesson: [Representation of data through data types](#lesson-1)
 1. Lesson: [Data types in different languages](#lesson-2)

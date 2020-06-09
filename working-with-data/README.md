@@ -1,3 +1,5 @@
+[Home](../README.md) > Working with Data
+
 # Module: Working with Data
 
 > Introduce Database Management Systems and APIs.
@@ -34,9 +36,8 @@ API is an abbreviation for Application Programming Interface which is a collecti
 
 - Describe the fundamental elements of relational database management systems .
 - Explain the basic concepts of relational data model, entity-relationship model, relational
-database design, relational algebra and SQL.
+  database design, relational algebra and SQL.
 - Design ER-models to represent simple database application scenarios
 - Convert the ER-model to relational tables, populate relational database and formulate SQL
-queries on data. 
-- Design APIs and exporse data to other applications
-
+  queries on data.
+- Design APIs and expose data to other applications
