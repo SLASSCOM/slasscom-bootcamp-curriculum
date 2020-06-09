@@ -1,6 +1,6 @@
 [Home](../README.md) > [Working with Data](./README.md) > Introduction to database systems
 
-> Module: Introduction to database systems
+> Module: Working with Data
 
 # Topic: Fundamental Concepts
 

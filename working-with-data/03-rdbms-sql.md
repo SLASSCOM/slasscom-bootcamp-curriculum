@@ -1,6 +1,6 @@
 [Home](../README.md) > [Working with Data](./README.md) > RDBMS & SQL
 
-> Module: RDBMS & SQL
+> Module: Working with Data
 
 # Topic:RDBMS & SQL
 
