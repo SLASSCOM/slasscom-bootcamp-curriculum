@@ -1,4 +1,4 @@
-> Module: Computational Thinking
+[Home](../README.md) > [Computational Thinking](./README.md) > Data Structures and Algorithms
 
 # Data Structures and Algorithms
 
