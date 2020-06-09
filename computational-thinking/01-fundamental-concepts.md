@@ -1,11 +1,11 @@
 [Home](../README.md) > [Computational Thinking](./README.md) > Fundamental Concepts
 
-# Fundamental Concepts
+# Topic: Fundamental Concepts
 
 1. Lesson: [Familiarize concepts by playing a game](#lesson-1)
 1. Lesson: [Learn concepts by creating games](#lesson-2)
 1. Lesson: [Information storage and manipulation](#lesson-3)
-1. Lesson: [Event driven programming concepts](#lesson-4)
+1. Lesson: [Event driven programming](#lesson-4)
 1. Lesson: [Events in HTML](#lesson-5)
 1. Assessment: [Topic Review and Assessment](#assessment-1)
 
@@ -129,7 +129,7 @@ Write a 200+ word blog post on what variables are and how they are useful in pro
 
 ## Lesson 4
 
-> Learn concepts of Learn event driven programming by creating games with SCRATCH
+> Learn concepts of event driven programming by creating games with SCRATCH
 
 <dl>
 <dt>Self Learning Duration</dt>

@@ -1,12 +1,14 @@
+[Home](../README.md) > [Working with Data](./README.md) > API Concepts
+
 > Module: API Concepts
 
 # Fundamental Concepts
 
 1. [Basic concepts of API](#lesson-1)
 1. [What are HTTP Requests & Response?](#lesson-1)
-1. [What are the HTTP Methods?](#lesson-1) 
-1. [What are the Status Codes?](#lesson-1) 
-1. [What is REST?](#lesson-1) 
+1. [What are the HTTP Methods?](#lesson-1)
+1. [What are the Status Codes?](#lesson-1)
+1. [What is REST?](#lesson-1)
 1. [What is Basic Authentication & Digest Authentication?](#lesson-1)
 1. [HTTP Basic Authentication](#lesson-1)
 
@@ -24,7 +26,6 @@
 ### Self learning content
 
 https://seleniumbycharan.com/2016/05/01/basic-concepts-of-api/
-
 
 ### Lecture content
 
