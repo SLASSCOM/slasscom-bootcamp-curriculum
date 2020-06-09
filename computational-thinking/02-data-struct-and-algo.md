@@ -103,7 +103,7 @@ Create a StackOverFlow account (if not existing) and answer minimum 3 questions 
 
 Watch the video and get a brief understanding of the importance of algorithms:
 
-https://www.youtube.com/watch?v=rL8X2mlNHPM
+[https://www.youtube.com/watch?v=rL8X2mlNHPM](https://www.youtube.com/watch?v=rL8X2mlNHPM)
 
 ### Lecture content
 
