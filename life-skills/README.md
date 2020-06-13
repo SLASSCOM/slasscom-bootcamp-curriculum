@@ -1,6 +1,6 @@
 [Home](../README.md) > Life Skills for 21st Century
 
-# Module: Module Name
+# Module: Life Skills for 21st Century
 
 > description
 
