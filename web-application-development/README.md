@@ -24,7 +24,7 @@ Web application development is the process and practice of developing web applic
 1. [Evolution and Fundamentals of Web](./01-evolution-and-fundamentals-of-web.md)
 2. [HTML: Structuring the Web](./02-html-structuring-the-web.md)
 3. [CSS: Styling the Web](./03-css-styling-the-web.md)
-4. [Server Side Web Programming](./04.server-side-web-programming.md)
+4. [Server Side Web Programming](./04-server-side-web-programming.md)
 5. [JavaScript: Client-side Scripting](./05-javascript-client-side-scripting.md)
 6. [Development Techniques](./06-development-techniques.md)
 7. [React: Web Framework](./07-react-web-framework.md)
