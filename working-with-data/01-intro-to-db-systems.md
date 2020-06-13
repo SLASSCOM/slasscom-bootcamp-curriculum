@@ -2,7 +2,7 @@
 
 > Module: Working with Data
 
-# Topic: Fundamental Concepts
+# Topic: Introduction to database systems
 
 1. Lesson: [What is data & overview on Databases](#lesson-1)
 1. Lesson: [Why not traditional file systems (Discussion points)](#lesson-2)
