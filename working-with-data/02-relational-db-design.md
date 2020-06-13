@@ -29,6 +29,8 @@ https://www.youtube.com/watch?v=QpdhBUYk7Kk
 
 ### Lecture content
 
+Brief introduction about relational database technologies and the concept of relations.
+
 http://www.nyu.edu/classes/jcf/CSCI-GA.2433-001_sp12/slides/session3/EnterpriseDataModelingUsingTheEntity-RelationshipModel.pdf
 
 ### Lab and tutorials
@@ -63,6 +65,7 @@ https://www3.ntu.edu.sg/home/ehchua/programming/sql/Relational_Database_Design.h
 ### Lecture content
 
 - Discuss about relationships
+- How to identify relationships based on shopping card system scenario
 - Design an ERD diagram for shopping cart system
 
 ### Lab and tutorials

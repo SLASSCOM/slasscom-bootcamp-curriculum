@@ -28,6 +28,8 @@ https://www.youtube.com/watch?v=bAyrObl7TYE
 
 ### Lecture content
 
+Briefly introduced what is BIG data and why it’s come to the place. Discuss about real world scenarios where BIG data come into the place.
+
 https://www.oracle.com/big-data/guide/what-is-big-data.html
 
 ### Lab and tutorials
@@ -54,6 +56,8 @@ None
 https://www.youtube.com/watch?v=-D3dmMfQ9p0
 
 ### Lecture content
+
+Briefly introduced about NoSQL database technologies and there use cases.
 
 https://university.mongodb.com/courses/M001/about
 
