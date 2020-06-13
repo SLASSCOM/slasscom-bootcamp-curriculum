@@ -16,7 +16,7 @@
 <dd>This is an open source curriculum. SLASSCOM (together with the industry) expects to keep it up-to-date to reflect the latest entry level skill demands in the Industry.</dd>
 
 <dt>Partner organizations</dt>
-<dd>YOULEAD (https://www.youlead.lk/) has provided guidance and financial support to SLASSCOM in developing this curriculum.</dd>
+<dd>YOULEAD (https://www.youlead.lk/) has provided guidance and financial support in developing this curriculum.</dd>
 
 <dt></dt>
 <dd></dd>
