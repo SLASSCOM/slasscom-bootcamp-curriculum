@@ -30,7 +30,7 @@ https://www.youtube.com/watch?v=rtWH70_MMHM
 
 ### Lecture content
 
-Design simple APIs which contains basic http methods (GET, POST, DELETE & UPDATE).
+Design simple APIs which contains basic http methods (GET, POST, DELETE & PUT).
 
 - https://www.youtube.com/watch?v=vCUhok3qZPQ
 - http://learningprogramming.net/java/spring-mvc/build-shopping-cart-in-spring-mvc/
