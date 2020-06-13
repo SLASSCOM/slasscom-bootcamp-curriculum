@@ -5,6 +5,7 @@
 # API Security
 
 1. Lesson: [Importance of API Security](#lesson-1)
+1. Assessment: [Assessment 1](#assessment-1)
 
 
 ---
