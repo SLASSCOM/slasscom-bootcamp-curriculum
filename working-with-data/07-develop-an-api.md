@@ -4,7 +4,7 @@
 
 # Develop an API
 
-1. Lesson: [Develop simple API and consume it](#lesson-1)
+1. Lesson: [API Development](#lesson-1)
 1. Assessment: [Assessment 1](#assessment-1)
 
 ---
@@ -13,7 +13,7 @@
 
 ## Lesson 1
 
-> Introduction to relational databases
+> API Development
 
 <dl>
 <dt>Self Learning Duration</dt>
@@ -29,6 +29,8 @@
 https://www.youtube.com/watch?v=rtWH70_MMHM
 
 ### Lecture content
+
+Design simple APIs which contains basic http methods (GET, POST, DELETE & UPDATE).
 
 - https://www.youtube.com/watch?v=vCUhok3qZPQ
 - http://learningprogramming.net/java/spring-mvc/build-shopping-cart-in-spring-mvc/

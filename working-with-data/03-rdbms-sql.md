@@ -2,7 +2,7 @@
 
 > Module: Working with Data
 
-# Topic:RDBMS & SQL
+# Topic: RDBMS & SQL
 
 1. Lesson: [Introduction to SQL , Uses of tables , CRUD operations](#lesson-1)
 1. Assessment: [Assessment 1](#assessment-1)
@@ -31,6 +31,7 @@ https://www.youtube.com/watch?v=7S_tz1z_5bA
 ### Lecture content
 
 - Based on the ER diagram, create the table structure.
+- Introduction to SQL and SQL syntaxes
 - Insert, delete, read and update data using SQL queries
 
 ### Lab and tutorials
