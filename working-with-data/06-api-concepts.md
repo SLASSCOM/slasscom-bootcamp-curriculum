@@ -4,7 +4,7 @@
 
 # API Concepts
 
-1. Lesson: Application Programming Interface
+1. Lesson: [Application Programming Interface](#lesson-1)
 
 ---
 
