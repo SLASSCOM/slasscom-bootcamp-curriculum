@@ -1,6 +1,6 @@
-[Home](../README.md) > Module Name
+[Home](../README.md) > Industry Knowledge
 
-# Module: Module Name
+# Module: Industry Knowledge
 
 > description
 

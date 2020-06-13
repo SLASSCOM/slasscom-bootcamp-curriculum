@@ -1,6 +1,6 @@
-[Home](../README.md) > Module Name
+[Home](../README.md) > Mobile Application Development
 
-# Module: Module Name
+# Module: Mobile Application Development
 
 > description
 
