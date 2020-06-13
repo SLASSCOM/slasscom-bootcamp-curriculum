@@ -1,9 +1,16 @@
-> Module: Relational databases - Designing
+[Home](../README.md) > [Working with Data](./README.md) > Relational databases - Designing
 
-# Fundamental Concepts
+> Module: Working with Data
 
-1. [Introduction to relational databases](#lesson-1)
-1. [How to design a relational databases](#lesson-2)
+# Topic: Relational databases - Designing
+
+1. Lesson: [Introduction to relational databases](#lesson-1)
+1. Lesson: [Designing relational databases](#lesson-2)
+1. Assessment: [Assessment 1](#assessment-1)
+
+---
+
+---
 
 ## Lesson 1
 
@@ -20,7 +27,6 @@
 
 https://www.youtube.com/watch?v=QpdhBUYk7Kk
 
-
 ### Lecture content
 
 http://www.nyu.edu/classes/jcf/CSCI-GA.2433-001_sp12/slides/session3/EnterpriseDataModelingUsingTheEntity-RelationshipModel.pdf
@@ -32,6 +38,10 @@ None
 ### Assessment
 
 None
+
+---
+
+---
 
 ## Lesson 2
 
@@ -52,14 +62,13 @@ https://www3.ntu.edu.sg/home/ehchua/programming/sql/Relational_Database_Design.h
 
 ### Lecture content
 
-- Discuss about relationships 
+- Discuss about relationships
 - Design an ERD diagram for shopping cart system
 
 ### Lab and tutorials
 
 Students are suppose to create an ERD for a business case (Shopping cart, Student reg sys)
 
-### Assessment
+## Assessment 1
 
-ERD diagram for shopping cart system
-
+Create an ER diagram for a shopping cart system.

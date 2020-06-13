@@ -1,8 +1,15 @@
-> Module: Develop an API
+[Home](../README.md) > [Working with Data](./README.md) > Develop an API
 
-# Fundamental Concepts
+> Module: Working with Data
 
-1. [Develop simple API and consume it](#lesson-1)
+# Develop an API
+
+1. Lesson: [Develop simple API and consume it](#lesson-1)
+1. Assessment: [Assessment 1](#assessment-1)
+
+---
+
+---
 
 ## Lesson 1
 
@@ -21,16 +28,23 @@
 
 https://www.youtube.com/watch?v=rtWH70_MMHM
 
-
 ### Lecture content
 
-- https://www.youtube.com/watch?v=vCUhok3qZPQ 
+- https://www.youtube.com/watch?v=vCUhok3qZPQ
 - http://learningprogramming.net/java/spring-mvc/build-shopping-cart-in-spring-mvc/
 
 ### Lab and tutorials
 
 Create simple APIs for the shopping cart system and test those APIs using postman
 
-### Assessment
+---
+
+---
+
+## Assessment 1
 
 Working API endpoints for shopping cart system
+
+---
+
+---

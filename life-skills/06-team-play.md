@@ -1,4 +1,4 @@
-[Home](../README.md) > [Entrepreneur Thinking](./README.md) > Topic Name
+[Home](../README.md) > [Life Skills](./README.md) > Topic Name
 
 # Topic: Topic Name
 

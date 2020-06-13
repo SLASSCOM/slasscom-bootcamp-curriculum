@@ -1,10 +1,16 @@
-> Module: Introduction to database systems
+[Home](../README.md) > [Working with Data](./README.md) > Introduction to database systems
 
-# Fundamental Concepts
+> Module: Working with Data
 
-1. [What is data & overview on Databases](#lesson-1)
-1. [Why not traditional file systems (Discussion points)](#lesson-2)
-1. [High level introduction to morden databases](#lesson-3)
+# Topic: Fundamental Concepts
+
+1. Lesson: [What is data & overview on Databases](#lesson-1)
+1. Lesson: [Why not traditional file systems (Discussion points)](#lesson-2)
+1. Lesson: [High level introduction to modern databases](#lesson-3)
+
+---
+
+---
 
 ## Lesson 1
 
@@ -29,9 +35,9 @@ https://www.guru99.com/what-is-dbms.html
 
 None
 
-### Assessment
+---
 
-None
+---
 
 ## Lesson 2
 
@@ -56,9 +62,9 @@ https://www.youtube.com/watch?v=5t0Y13AkWgc
 
 None
 
-### Assessment
+---
 
-None
+---
 
 ## Lesson 3
 
@@ -80,9 +86,5 @@ https://www.youtube.com/watch?v=wR0jg0eQsZA
 https://dzone.com/articles/the-types-of-modern-databases
 
 ### Lab and tutorials
-
-None
-
-### Assessment
 
 None

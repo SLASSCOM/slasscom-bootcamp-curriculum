@@ -1,11 +1,17 @@
-> Module: What is an API
+[Home](../README.md) > [Working with Data](./README.md) > What is an API
 
-# Fundamental Concepts
+> Module: Working with Data
 
-1. [Why we needed APIs](#lesson-1)
-1. [Application: These can be apps that you use on your smartphone or a software program that you use](#lesson-1)
-1. [Programming: Developers use APIs to write software](#lesson-1)
-1. [Interface: How you interact with the application](#lesson-1)
+# Topic: What is an API
+
+1. Lesson: [Why we needed APIs](#lesson-1)
+1. Lesson: [Application: These can be apps that you use on your smartphone or a software program that you use](#lesson-2)
+1. Lesson: [Programming: Developers use APIs to write software](#lesson-3)
+1. Lesson: [Interface: How you interact with the application](#lesson-4)
+
+---
+
+---
 
 ## Lesson 1
 
@@ -24,7 +30,6 @@
 
 https://www.youtube.com/watch?v=s7wmiS2mSXY
 
-
 ### Lecture content
 
 https://blog.cloudrail.com/api-tutorial-for-beginners/
@@ -34,6 +39,6 @@ https://blog.cloudrail.com/api-tutorial-for-beginners/
 - Try-out the online APIs
 - https://cloud.google.com/vision/docs/drag-and-drop"
 
-### Assessment
+---
 
-None
+---
