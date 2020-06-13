@@ -14,7 +14,7 @@
 
 ## Lesson 1
 
-> What is data & overview on Databases
+> What is data & overview on Databases.  
 
 <dl>
 <dt>Self Learning Duration</dt>
@@ -28,6 +28,8 @@
 https://www.youtube.com/watch?v=FR4QIeZaPeM
 
 ### Lecture content
+
+For here we are going to discuss about data and why it's very important in nowadays. Discuss about how data is being storing and then moving to the database systems. 
 
 https://www.guru99.com/what-is-dbms.html
 
