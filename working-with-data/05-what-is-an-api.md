@@ -5,9 +5,6 @@
 # Topic: What is an API
 
 1. Lesson: [Why we needed APIs](#lesson-1)
-1. Lesson: [Application: These can be apps that you use on your smartphone or a software program that you use](#lesson-2)
-1. Lesson: [Programming: Developers use APIs to write software](#lesson-3)
-1. Lesson: [Interface: How you interact with the application](#lesson-4)
 
 ---
 
@@ -31,6 +28,8 @@
 https://www.youtube.com/watch?v=s7wmiS2mSXY
 
 ### Lecture content
+
+Discuss about application programming interfaces. Benefits of APIs. Discuss when API come into picture in software development.
 
 https://blog.cloudrail.com/api-tutorial-for-beginners/
 
