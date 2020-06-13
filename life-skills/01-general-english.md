@@ -18,6 +18,14 @@
 1. Lesson: [Food & Drinks](#lesson-14)
 1. Lesson: [Teacher](#lesson-15)
 1. Lesson: [Picture Descriptions](#lesson-16)
+1. Lesson: [Newspaper Article Discussion](#lesson-17)
+1. Lesson: [Role Play Practice - at the supermarket](#lesson-18)
+1. Lesson: [Picture Description](#lesson-19)
+1. Lesson: [Phonetic Practice / Newspaper Discussion](#lesson-20)
+1. Lesson: [Role Play Practice - at the shop](#lesson-21)
+1. Lesson: [Comprehension - The song of an old mother](#lesson-22)
+1. Lesson: [Role Play Practice - Job Interview](#lesson-23)
+1. Lesson: [Comprehension - Bed Time](#lesson-24)
 
 ---
 
@@ -485,7 +493,7 @@ None
 
 ---
 
-## Lesson 15
+## Lesson 16
 
 > Picture Descriptions
 
@@ -506,6 +514,245 @@ None
 
 - Describe a picture - Pair activity.
 - Dialogue Practice
+- Grammar - Revision Activities
+
+### Lab and tutorials
+
+None
+
+---
+
+---
+
+## Lesson 17
+
+> Newspaper Article Discussion
+
+<dl>
+<dt>Self Learning Duration</dt>
+<dd>0 mins</dd>
+<dt>Lecture Duration</dt>
+<dd>90 mins</dd>
+<dt>Lab Tutorial Duration</dt>
+<dd>0 mins</dd>
+</dl>
+
+### Self learning content
+
+None
+
+### Lecture content
+
+- Read an article and discussion done in pairs / groups
+- Grammar Revision
+
+### Lab and tutorials
+
+None
+
+---
+
+---
+
+## Lesson 18
+
+> Newspaper Article Discussion
+
+<dl>
+<dt>Self Learning Duration</dt>
+<dd>0 mins</dd>
+<dt>Lecture Duration</dt>
+<dd>90 mins</dd>
+<dt>Lab Tutorial Duration</dt>
+<dd>0 mins</dd>
+</dl>
+
+### Self learning content
+
+None
+
+### Lecture content
+
+- Pair / Group practice
+
+### Lab and tutorials
+
+None
+
+---
+
+---
+
+## Lesson 19
+
+> Picture Description
+
+<dl>
+<dt>Self Learning Duration</dt>
+<dd>0 mins</dd>
+<dt>Lecture Duration</dt>
+<dd>90 mins</dd>
+<dt>Lab Tutorial Duration</dt>
+<dd>0 mins</dd>
+</dl>
+
+### Self learning content
+
+None
+
+### Lecture content
+
+- Describe a picture / Group & Pair
+
+### Lab and tutorials
+
+None
+
+---
+
+---
+
+## Lesson 20
+
+> Phonetic Practice / Newspaper Discussion
+
+<dl>
+<dt>Self Learning Duration</dt>
+<dd>0 mins</dd>
+<dt>Lecture Duration</dt>
+<dd>90 mins</dd>
+<dt>Lab Tutorial Duration</dt>
+<dd>0 mins</dd>
+</dl>
+
+### Self learning content
+
+None
+
+### Lecture content
+
+- Introduction of phonetics
+- Discussion of an article
+
+### Lab and tutorials
+
+None
+
+---
+
+---
+
+## Lesson 21
+
+> Role Play Practice - at the shop
+
+<dl>
+<dt>Self Learning Duration</dt>
+<dd>0 mins</dd>
+<dt>Lecture Duration</dt>
+<dd>90 mins</dd>
+<dt>Lab Tutorial Duration</dt>
+<dd>0 mins</dd>
+</dl>
+
+### Self learning content
+
+None
+
+### Lecture content
+
+- Pair and Group Practice
+- Grammar Revision
+
+### Lab and tutorials
+
+None
+
+---
+
+---
+
+## Lesson 22
+
+> Comprehension - The song of an old mother
+
+<dl>
+<dt>Self Learning Duration</dt>
+<dd>0 mins</dd>
+<dt>Lecture Duration</dt>
+<dd>90 mins</dd>
+<dt>Lab Tutorial Duration</dt>
+<dd>0 mins</dd>
+</dl>
+
+### Self learning content
+
+None
+
+### Lecture content
+
+- Read aloud
+- Comprehension
+
+### Lab and tutorials
+
+None
+
+---
+
+---
+
+## Lesson 23
+
+> Role Play Practice - Job Interview
+
+<dl>
+<dt>Self Learning Duration</dt>
+<dd>0 mins</dd>
+<dt>Lecture Duration</dt>
+<dd>90 mins</dd>
+<dt>Lab Tutorial Duration</dt>
+<dd>0 mins</dd>
+</dl>
+
+### Self learning content
+
+None
+
+### Lecture content
+
+- Discussion
+- Role Play Practice
+
+### Lab and tutorials
+
+None
+
+---
+
+---
+
+## Lesson 24
+
+> Comprehension - Bed Time
+
+<dl>
+<dt>Self Learning Duration</dt>
+<dd>0 mins</dd>
+<dt>Lecture Duration</dt>
+<dd>90 mins</dd>
+<dt>Lab Tutorial Duration</dt>
+<dd>0 mins</dd>
+</dl>
+
+### Self learning content
+
+None
+
+### Lecture content
+
+- Read aloud
+- Comprehension
 - Grammar - Revision Activities
 
 ### Lab and tutorials
