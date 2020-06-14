@@ -1,6 +1,6 @@
-[Home](../README.md) > [Industry Knowledge](./README.md) > Software Lifecycle
+[Home](../README.md) > [Industry Knowledge](./README.md) > Continuous Delivery
 
-# Topic: Software Lifecycle
+# Topic: Continuous Delivery
 
 1. Lesson: [Lesson](#lesson-1)
 1. Lesson: [Lesson](#lesson-2)

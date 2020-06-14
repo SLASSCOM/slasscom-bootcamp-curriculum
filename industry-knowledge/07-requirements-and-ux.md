@@ -1,6 +1,6 @@
-[Home](../README.md) > [Industry Knowledge](./README.md) > Software Lifecycle
+[Home](../README.md) > [Industry Knowledge](./README.md) > Requirements and UX
 
-# Topic: Software Lifecycle
+# Topic: Requirements and UX
 
 1. Lesson: [Lesson](#lesson-1)
 1. Lesson: [Lesson](#lesson-2)

@@ -2,7 +2,7 @@
 
 # Module: Entrepreneurial Mindset
 
-> description
+> Develop entrepreneurship capabilities.
 
 <dl>
 <dt>Total Duration</dt>

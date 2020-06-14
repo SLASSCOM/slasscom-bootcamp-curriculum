@@ -2,7 +2,7 @@
 
 # Module: Life Skills for 21st Century
 
-> description
+> Skills and attitude required for a winning career.
 
 <dl>
 <dt>Total Duration</dt>
