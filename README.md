@@ -21,7 +21,7 @@
 | Working with Data              | [View Topics](./working-with-data/README.md)              |
 | Web Application Development    | [View Topics](./web-application-development/README.md)    |
 | Mobile Application Development | [View Topics](./mobile-application-development/README.md) |
-| Industry Knowledge             | [View Topics](./industry-knowledge/README.md)             |
+| IT Industrial Knowledge        | [View Topics](./industry-knowledge/README.md)             |
 | Entrepreneurial Mindset        | [View Topics](./entrepreneurial-mindset/README.md)        |
 | Life Skills for 21st Century   | [View Topics](./life-skills/README.md)                    |
 

@@ -1,6 +1,6 @@
-[Home](../README.md) > Industry Knowledge
+[Home](../README.md) > IT Industrial Knowledge
 
-# Module: Industry Knowledge
+# Module: IT Industrial Knowledge
 
 > description
 
