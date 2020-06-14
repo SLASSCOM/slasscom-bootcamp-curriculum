@@ -1,12 +1,12 @@
-[Home](../README.md) > [Mobile Application Development](./README.md) > Making Feature Rich Applications
+[Home](../README.md) > [Mobile Application Development](./README.md) > Learn React Native
 
-# Topic: Making Feature Rich Applications
+# Topic: Topic Name
 
-1. Lesson: [Data Persistance](#lesson-1)
-2. Lesson: [Network Communication](#lesson-2)
-3. Lesson: [Accessing Device Functionality](#lesson-3)
-4. Lesson: [Mobile Application Security](#lesson-4)
-5. Lesson: [Working with Native Modules](#lesson-5)
+1. Lesson: [Recap of React learnt in Web Application Development Module](#lesson-1)
+2. Lesson: [Introduction to React Native](#lesson-2)
+3. Lesson: [Creating UIs with React Native](#lesson-3)
+4. Lesson: [Components that every app needs](#lesson-4)
+5. Lesson: [More and more screens](#lesson-5)
 6. Assessment: [Assessment](#assessment-1)
 
 ---
@@ -15,7 +15,7 @@
 
 ## Lesson 1
 
-> Data Persistance
+> Recap of React Learnt in Web Application Development Module
 
 <dl>
 <dt>Self Learning Duration</dt>
@@ -44,7 +44,7 @@
 
 ## Lesson 2
 
-> Network Communication
+> Introduction to React Native
 
 <dl>
 <dt>Self Learning Duration</dt>
@@ -73,7 +73,7 @@
 
 ## Lesson 3
 
-> Accessing Device Functionality
+> Creating UIs with React Native
 
 <dl>
 <dt>Self Learning Duration</dt>
@@ -95,14 +95,13 @@
 ### Lab and tutorials
 
 ...
-
 ---
 
 ---
 
 ## Lesson 4
 
-> Mobile Application Security
+> Components that every app needs
 
 <dl>
 <dt>Self Learning Duration</dt>
@@ -124,14 +123,13 @@
 ### Lab and tutorials
 
 ...
-
 ---
 
 ---
 
 ## Lesson 5
 
-> Working with Native Modules
+> More and more screens
 
 <dl>
 <dt>Self Learning Duration</dt>
