@@ -28,7 +28,7 @@
 
 Get to know few of the programming concepts through playing a game
 
-- sequence
+- instructions and sequence
 - procedures (sub routes)
 - iteration (loops)
 - recursion
