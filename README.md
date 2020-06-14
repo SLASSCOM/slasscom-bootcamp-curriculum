@@ -3,19 +3,19 @@
 <dl>
 <dt>For whom?</dt>
 <dd>SLASSCOM Bootcamp curriculum is intended to be used as a guidance for educational and vocational institutes in teaching ICT.</dd>
-<dt>Which career and qualification level?</dt>
+<dt>Which career qualification level?</dt>
 <dd>This is for students pursue a career in software development. Intended for diploma level qualifications to pursue an entry level job.</dd>
 <dt>Recommended Duration?</dt>
 <dd>Through a short (~6 months) intensive course.</dd>
 <dt>Is this free to use?</dt>
 <dd>This is an open source curriculum under Creative Commons license - https://creativecommons.org/licenses/by/4.0/. You are free to use this for commercial, non-commercial use under the terms of the license. </dd>
-<dt>Partner organizations</dt>
+<dt>Who are behind this?</dt>
 <dd>SLASSCOM (together with the industry) expects to maintain this up-to-date to reflect the latest entry level skill demands in the Industry. YOULEAD (https://www.youlead.lk/) has provided guidance and financial support in developing this curriculum.</dd>
 </dl>
 
 ## Summary of the modules
 
-| Module                         | Topics                                                    |
+| Module                         | Details                                                   |
 | ------------------------------ | --------------------------------------------------------- |
 | Computational Thinking         | [View Topics](./computational-thinking/README.md)         |
 | Working with Data              | [View Topics](./working-with-data/README.md)              |
@@ -25,7 +25,7 @@
 | Entrepreneurial Mindset        | [View Topics](./entrepreneurial-mindset/README.md)        |
 | Life Skills for 21st Century   | [View Topics](./life-skills/README.md)                    |
 
-## Underline Principles
+## Underline principles
 
 This curriculum is built based on the following ground principles. If you wish to become a contributor, it is essential to understand and adhere to these principles.
 
@@ -52,8 +52,8 @@ Skills development and capacity building are vital in achieving the [SLASSCOM](h
 
 The National IT-BPM workforce survey 2019, conducted by the ICT Agency of Sri Lanka (ICTA), reveals that the IT-BPM workforce's annual shortage is 12,140. The local universities produce only 9,076 graduates a year, and the annual demand stands at 21,216. This supply-demand gap is shown to keep growing with the industry's expansion and has become a significant bottleneck impacting the growth of the sector.
 
-## Related Links
+## Related links
 
-- [Parent Git Repository](https://github.com/SLASSCOM/SLASSCOM-Bootcamp-Curriculum)
 - [Curriculum Website](https://slasscom.github.io/SLASSCOM-Bootcamp-Curriculum/)
+- [Parent Git Repository](https://github.com/SLASSCOM/SLASSCOM-Bootcamp-Curriculum)
 - [SLASSCOM Website](https://slasscom.lk)
