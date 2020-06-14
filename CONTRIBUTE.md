@@ -11,16 +11,16 @@ Below is the community practice for you to follow in contributing to develop thi
 
 - Fork the below repository into your GiHub account.
   [https://github.com/SLASSCOM/SLASSCOM-Bootcamp-Curriculum](https://github.com/SLASSCOM/SLASSCOM-Bootcamp-Curriculum)
-  ![Github Fork](./_images/github_fork.png)
+  ![Github Fork](./assets/img/github_fork.png)
 
 - On the forked repository, goto the file you wish to edit, and click on the edit button.
-  ![Github Edit](./_images/github_edit.png)
+  ![Github Edit](./assets/img/github_edit.png)
 
 - After editing a file, you should commit the changes (this is similar to saving).
-  ![Github Commit](./_images/github_commit.png)
+  ![Github Commit](./assets/img/github_commit.png)
 
 - Edit all the files you need. Once the editing session is done you should submit your changes to the SLASSCOM repository. This is called creating a 'Pull Request'. Go to the root of your local repository and click the button below to submit a pull request.
-  ![Github PR](./_images/github_pr.png)
+  ![Github PR](./assets/img/github_pr.png)
 
 - You may similarly perform other file operations such as create new files, delete files, upload files, etc.
 
