@@ -17,6 +17,8 @@
 <dd>30 mins</dd>
 <dt>Lecture Duration</dt>
 <dd>30 mins</dd>
+<dt>Lab Tutorial Duration</dt>
+<dd>N/A</dd>
 </dl>
 
 ### Self learning content

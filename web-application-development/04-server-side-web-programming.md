@@ -18,7 +18,7 @@
 <dt>Lecture Duration</dt>
 <dd> mins</dd>
 <dt>Lab Tutorial Duration</dt>
-<dd> 120 mins</dd>
+<dd>120 mins</dd>
 </dl>
 
 ### Self learning content
@@ -32,7 +32,3 @@
 ### Lab and tutorials
 
 [Backend Web API With C# (ASP.NET): Step-by-Step Tutorial](https://dzone.com/articles/backend-web-api-with-c-step-by-step-tutorial)
-
----
-
----

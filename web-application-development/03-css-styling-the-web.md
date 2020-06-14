@@ -15,11 +15,11 @@
 
 <dl>
 <dt>Self Learning Duration</dt>
-<dd> 5 hours</dd>
+<dd>5 hours</dd>
 <dt>Lecture Duration</dt>
-<dd> 5 * 60 mins lectures</dd>
+<dd>5 * 60 mins lectures</dd>
 <dt>Lab Tutorial Duration</dt>
-<dd> 4 * 60 mins</dd>
+<dd>4 * 60 mins</dd>
 </dl>
 
 ### Self learning content

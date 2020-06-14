@@ -15,11 +15,11 @@
 
 <dl>
 <dt>Self Learning Duration</dt>
-<dd> 5 hours</dd>
+<dd>5 hours</dd>
 <dt>Lecture Duration</dt>
-<dd> 6 * 60 mins lectures</dd>
+<dd>6 * 60 mins lectures</dd>
 <dt>Lab Tutorial Duration</dt>
-<dd> 60 mins</dd>
+<dd>60 mins</dd>
 </dl>
 
 Web Application Development with HTML

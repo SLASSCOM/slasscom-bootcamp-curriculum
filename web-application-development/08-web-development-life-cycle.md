@@ -32,8 +32,4 @@
 
 ### Lab and tutorials
 
-- Lab for Selenium 
-
----
-
----
+Lab for Selenium

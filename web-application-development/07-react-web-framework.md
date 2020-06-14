@@ -14,11 +14,11 @@
 
 <dl>
 <dt>Self Learning Duration</dt>
-<dd> 480 mins</dd>
+<dd>480 mins</dd>
 <dt>Lecture Duration</dt>
-<dd> 10 * 60 mins lectures</dd>
+<dd>10 * 60 mins lectures</dd>
 <dt>Lab Tutorial Duration</dt>
-<dd> 300 mins</dd>
+<dd>300 mins</dd>
 </dl>
 
 ### Self learning content
@@ -39,7 +39,3 @@ Teach following React concepts with live coding or code samples.
 
 - Tutorial: [Intro to React with tic-tac-toe](https://reactjs.org/tutorial/tutorial.html) using the online IDE
 - Follow [How to get started with React — a modern project-based guide for beginners](https://www.freecodecamp.org/news/getting-started-with-react-a-modern-project-based-guide-for-beginners-including-hooks-2/)
-
----
-
----
