@@ -1,6 +1,17 @@
-# How can you contribute?
+[Home](../README.md) > How to Contribute
+
+# How to Contribute
 
 **Before stepping-in, please ensure you have read and understood the [Underline Principles](./README.md#underline-principles) of this curriculum**
+
+What to contribute:
+
+- Content reviews and improvements (technical)
+- Content reviews and improvements (English, presentation)
+- Add missing content
+- Develop student assignments
+- Add further descriptions to Modules, Topics, Lessons
+- Add self study material in Lessons
 
 ## For basic GitHub users (Edit on web UI)
 
