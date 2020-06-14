@@ -1,12 +1,8 @@
-[Home](../README.md) > [Web Application Development](./README.md) > Topic Name
+[Home](../README.md) > [Web Application Development](./README.md) > Cloud Basics
 
-# Topic: Topic Name
+# Topic: Cloud Basics
 
-1. Lesson: [Lesson](#lesson-1)
-1. Lesson: [Lesson](#lesson-2)
-1. Lesson: [Lesson](#lesson-3)
-1. Lesson: [Lesson](#lesson-4)
-1. Assessment: [Assessment](#assessment-1)
+1. Lesson: [Cloud Basics](#lesson-1)
 
 ---
 
@@ -14,54 +10,32 @@
 
 ## Lesson 1
 
-> Lesson Name
+> Cloud Basics
 
 <dl>
 <dt>Self Learning Duration</dt>
-<dd> mins</dd>
+<dd>60 mins</dd>
 <dt>Lecture Duration</dt>
-<dd> mins</dd>
+<dd>120 mins</dd>
 <dt>Lab Tutorial Duration</dt>
-<dd> mins</dd>
+<dd>240 mins</dd>
 </dl>
 
 ### Self learning content
 
-...
+- Read [What is cloud computing](https://aws.amazon.com/what-is-cloud-computing/)
 
 ### Lecture content
 
-...
+- Intro to cloud and why we use
+- What is IaaS PaaS and SaaS
+- What is Public, Private and Hybrid cloud
+- What is serverless
 
 ### Lab and tutorials
 
-...
-
----
-
----
-
-## Lesson 2
-
-> Lesson Name
-
-<dl>
-<dt>Self Learning Duration</dt>
-<dd> mins</dd>
-<dt>Lecture Duration</dt>
-<dd> mins</dd>
-<dt>Lab Tutorial Duration</dt>
-<dd> mins</dd>
-</dl>
-
-### Self learning content
-
-...
-
-### Lecture content
-
-...
-
-### Lab and tutorials
-
-...
+Follow below QwikLabs labs
+- [Introduction to Amazon EC2](https://www.qwiklabs.com/focuses/10430)
+- [Introduction to Amazon Simple Storage Service (S3)](https://www.qwiklabs.com/focuses/10488)
+- [Introduction to AWS Lambda](https://www.qwiklabs.com/focuses/10541)
+- [GCP Cloud Functions: Qwik Start](https://www.qwiklabs.com/focuses/1763)
