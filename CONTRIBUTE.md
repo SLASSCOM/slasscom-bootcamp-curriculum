@@ -1,4 +1,4 @@
-[Home](../README.md) > How to Contribute
+[Home](./README.md) > How to Contribute
 
 # How to Contribute
 
