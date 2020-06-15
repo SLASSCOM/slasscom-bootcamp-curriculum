@@ -1,12 +1,13 @@
-[Home](../README.md) > [Mobile Application Development](./README.md) > Designing Mobile Applications
+[Home](../README.md) > [Mobile Application Development](./README.md) > Learn React Native
 
-# Topic: Designing Mobile Applications
+# Topic: Topic Name
 
-1. Lesson: [How users use mobile devices](#lesson-1)
-2. Lesson: [Mobile User Experience](#lesson-2)
-3. Lesson: [Design great mobile apps](#lesson-3)
-4. Lesson: [Do users like your app?](#lesson-4)
-5. Assessment: [Assessment](#assessment-1)
+1. Lesson: [Recap of React learnt in Web Application Development Module](#lesson-1)
+2. Lesson: [Introduction to React Native](#lesson-2)
+3. Lesson: [Creating UIs with React Native](#lesson-3)
+4. Lesson: [Components that every app needs](#lesson-4)
+5. Lesson: [More and more screens](#lesson-5)
+6. Assessment: [Assessment](#assessment-1)
 
 ---
 
@@ -14,7 +15,7 @@
 
 ## Lesson 1
 
-> How users use mobile devices
+> Recap of React Learnt in Web Application Development Module
 
 <dl>
 <dt>Self Learning Duration</dt>
@@ -43,7 +44,7 @@
 
 ## Lesson 2
 
-> Mobile User Experience
+> Introduction to React Native
 
 <dl>
 <dt>Self Learning Duration</dt>
@@ -72,7 +73,7 @@
 
 ## Lesson 3
 
-> Design great mobile apps
+> Creating UIs with React Native
 
 <dl>
 <dt>Self Learning Duration</dt>
@@ -94,14 +95,13 @@
 ### Lab and tutorials
 
 ...
-
 ---
 
 ---
 
 ## Lesson 4
 
-> Do users like your app?
+> Components that every app needs
 
 <dl>
 <dt>Self Learning Duration</dt>
@@ -123,4 +123,31 @@
 ### Lab and tutorials
 
 ...
+---
 
+---
+
+## Lesson 5
+
+> More and more screens
+
+<dl>
+<dt>Self Learning Duration</dt>
+<dd> mins</dd>
+<dt>Lecture Duration</dt>
+<dd> mins</dd>
+<dt>Lab Tutorial Duration</dt>
+<dd> mins</dd>
+</dl>
+
+### Self learning content
+
+...
+
+### Lecture content
+
+...
+
+### Lab and tutorials
+
+...
