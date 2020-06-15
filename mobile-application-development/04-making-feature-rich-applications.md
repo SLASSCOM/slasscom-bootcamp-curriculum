@@ -1,12 +1,13 @@
-[Home](../README.md) > [Mobile Application Development](./README.md) > Designing Mobile Applications
+[Home](../README.md) > [Mobile Application Development](./README.md) > Making Feature Rich Applications
 
-# Topic: Designing Mobile Applications
+# Topic: Making Feature Rich Applications
 
-1. Lesson: [How users use mobile devices](#lesson-1)
-2. Lesson: [Mobile User Experience](#lesson-2)
-3. Lesson: [Design great mobile apps](#lesson-3)
-4. Lesson: [Do users like your app?](#lesson-4)
-5. Assessment: [Assessment](#assessment-1)
+1. Lesson: [Data Persistance](#lesson-1)
+2. Lesson: [Network Communication](#lesson-2)
+3. Lesson: [Accessing Device Functionality](#lesson-3)
+4. Lesson: [Mobile Application Security](#lesson-4)
+5. Lesson: [Working with Native Modules](#lesson-5)
+6. Assessment: [Assessment](#assessment-1)
 
 ---
 
@@ -14,7 +15,7 @@
 
 ## Lesson 1
 
-> How users use mobile devices
+> Data Persistance
 
 <dl>
 <dt>Self Learning Duration</dt>
@@ -43,7 +44,7 @@
 
 ## Lesson 2
 
-> Mobile User Experience
+> Network Communication
 
 <dl>
 <dt>Self Learning Duration</dt>
@@ -72,7 +73,7 @@
 
 ## Lesson 3
 
-> Design great mobile apps
+> Accessing Device Functionality
 
 <dl>
 <dt>Self Learning Duration</dt>
@@ -101,7 +102,7 @@
 
 ## Lesson 4
 
-> Do users like your app?
+> Mobile Application Security
 
 <dl>
 <dt>Self Learning Duration</dt>
@@ -124,3 +125,31 @@
 
 ...
 
+---
+
+---
+
+## Lesson 5
+
+> Working with Native Modules
+
+<dl>
+<dt>Self Learning Duration</dt>
+<dd> mins</dd>
+<dt>Lecture Duration</dt>
+<dd> mins</dd>
+<dt>Lab Tutorial Duration</dt>
+<dd> mins</dd>
+</dl>
+
+### Self learning content
+
+...
+
+### Lecture content
+
+...
+
+### Lab and tutorials
+
+...

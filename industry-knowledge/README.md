@@ -17,7 +17,8 @@
 
 ## Introduction
 
-This module introduces essential professional concepts students must know to join the industry. All these topics are practically used by most of the IT companies in executing their projects.
+IT industry is evolving rapidly and you hear new technologies, methodologies and techniques every day. As an IT professional it is essential to stay up to date with what industry wants as we see that there's a huge skill gap between the supply and demand chain. The industry expects a certain readiness and technical skills when they recruit a student for their internship.
+This module introduces essential professional concepts a student must know to join the industry and some of the general but main gaps the industry most often sees in new graduates. All these topics are practically used by most of the IT companies in executing their projects.
 
 ## Topics
 
