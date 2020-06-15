@@ -40,7 +40,7 @@ There are some different ICT diploma curriculums in-use by public and private ed
 
 This curriculum is not a comprehensive lesson plan to cover all the skills in-use in the industry. Instead, it is a limited scope good enough for a student to find an entry-level job opportunity as a developer.
 
-In developing this, we have adapted some structural elements of [TRACE re:Start](https://www.facebook.com/ReSTART-Bootcamp-1393254084149029) curriculum at the beginning, but the content of the modules are developed independently by contributors from the industry.
+In developing this, we have adapted some structural elements of [TRACE re:start](https://www.facebook.com/ReSTART-Bootcamp-1393254084149029) curriculum, but the content of the lessons are developed independently by contributors from the industry.
 
 ## Underline principles
 
