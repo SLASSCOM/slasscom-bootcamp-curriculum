@@ -4,9 +4,9 @@ SLASSCOM Bootcamp Curriculum is intended to be used as a guidance by educational
 
 <dl>
 
-<dt>Which career qualification level?</dt>
+<dt>Which career qualification?</dt>
 <dd>This is for students passionate in a software development related career. Intended for diploma level qualifications to pursue an entry level job.</dd>
-<dt>Recommended Duration?</dt>
+<dt>Recommended duration?</dt>
 <dd>Through a short (~6 months) intensive course.</dd>
 <dt>Is this free to use?</dt>
 <dd>This is an open source curriculum under Creative Commons license - https://creativecommons.org/licenses/by/4.0/. You are free to use this for commercial, non-commercial use under the terms of the license. </dd>
@@ -26,7 +26,7 @@ SLASSCOM Bootcamp Curriculum is intended to be used as a guidance by educational
 | Entrepreneurial Mindset        | [View Topics](./entrepreneurial-mindset/README.md)        |
 | Life Skills for 21st Century   | [View Topics](./life-skills/README.md)                    |
 
-## Problem Overview
+## Problem overview
 
 Skills development and capacity building are vital in achieving the [SLASSCOM](https://slasscom.lk) Vision 2022 of USD 5 billion in revenue, 200,000 jobs, and 1000 startups.
 
@@ -49,17 +49,20 @@ This curriculum is built based on the following ground principles. If you wish t
 <dl>
 <dt>Applicability before theory</dt>
 <dd>A common mistake of most curriculums is that they teach a lot of theory to students before they understand how and when to apply such. This curriculum is built in a way students experience and understand the usage first so that they appreciate the theory when learned later. For example, students should use 'sorting' practically before learning to write a 'bubble sort' algorithm.</dd>
-<dt>Hands-on lecturing</dt>
+<dt>Hands-on teaching</dt>
 <dd>Rather than long presentation slides and descriptions, the lecturer should show/write 'real code' and explain the concepts to students.</dd>
 <dt>Continuous evaluations</dt>
 <dd>Student evaluation should be continuous and shouldn't happen at a final examination. Use interactive, gamified tools (such as Kahoot) to do fast and frequent evaluations. 
 </dd>
-<dt>Focused learning</dt>
-<dd>If the curriculum is shallow and broad, students may learn many things but won't master any. If you keep the curriculum narrow and deep, students will learn a limited scope well enough to make practical use of it. Since this curriculum is for six months and entry levels, we propose focusing on a few things and teach those well for a student to find an entry-level job.
+<dt>Focus on essentials</dt>
+<dd>If the curriculum is shallow and broad, students may learn many things but won't master any. If you keep the curriculum narrow and deep, students will learn a limited scope well enough to make practical use of it. Since this curriculum is for six months and entry levels, we propose focusing on a few things and teach them well for a student to find an entry-level job.
+</dd>
+<dt>Pair lecturing</dt>
+<dd>Pair a professional from the industry with the lecturer when delivering the lessons. Lesson should take a discussion format between the lecturer and professional allowing students to participate by asking questions.
 </dd>
 </dl>
 
-## How to contribute?
+## How to contribute
 
 This repository is maintained as a community effort in the industry. If you like to contribute, please go through the following link:
 
