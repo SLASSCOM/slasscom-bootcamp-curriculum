@@ -31,4 +31,7 @@ This module introduces essential professional concepts students must know to joi
 
 ## Learning Outcomes
 
-TBD
+- Be familiar with new technological terms and methodologies that are heavily used in the industry
+- Demonstrate the ability to use industry standards and best practices
+- Apply processes and methodologies to make the project lifecycle more effective and efficient
+- Understand and empathize the user journey of the end-user and make the solution user friendly
