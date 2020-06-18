@@ -1,6 +1,6 @@
-[Home](../README.md) > [Industry Knowledge](./README.md) > Topic Name
+[Home](../README.md) > [Industry Knowledge](./README.md) > Agile Processes
 
-# Topic: Topic Name
+# Topic: Agile Processes
 
 1. Lesson: [Lesson](#lesson-1)
 1. Lesson: [Lesson](#lesson-2)

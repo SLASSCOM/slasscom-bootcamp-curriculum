@@ -1,6 +1,6 @@
-[Home](../README.md) > [Industry Knowledge](./README.md) > Software Lifecycle
+[Home](../README.md) > [Industry Knowledge](./README.md) > Quality Assurance
 
-# Topic: Software Lifecycle
+# Topic: Quality Assurance
 
 1. Lesson: [Lesson](#lesson-1)
 1. Lesson: [Lesson](#lesson-2)

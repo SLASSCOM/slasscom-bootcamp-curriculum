@@ -1,4 +1,4 @@
-[Home](../README.md) > [Mobile Application Development](./README.md) > Topic Name
+[Home](../README.md) > [Entrepreneur Thinking](./README.md) > Topic Name
 
 # Topic: Topic Name
 

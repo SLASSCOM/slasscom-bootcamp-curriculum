@@ -28,11 +28,11 @@ Web application development is the process and practice of developing web applic
 5. [JavaScript: Client-side Scripting](./05-javascript-client-side-scripting.md)
 6. [Development Techniques](./06-development-techniques.md)
 7. [React: Web Framework](./07-react-web-framework.md)
-8. [Web Development-Life Cycle](./08-web-development-life-cycle.md)
+8. [Web Development Life Cycle](./08-web-development-life-cycle.md)
 9. [Cloud Basics](./09-cloud-basics.md)
 
 ## Learning Outcomes
 
 - Explain the concepts of the Internet and the World Wide Web (WWW).
-- Be thorough with the most up-to-date concepts of the web application development
-- Develop web applications that are effectively running with the latest web standards
+- Be thorough with the most up-to-date concepts of the web application development.
+- Develop web applications that are effectively running with the latest web standards.

@@ -1,0 +1,22 @@
+--- 
+---
+
+@import "{{ site.theme }}";
+
+body {
+    background-color: #fff;
+    font-size: 15px;
+}
+
+td {
+    background: #eeeeee;
+}
+
+a {
+    font-weight: 400;
+}
+
+header li {
+    font-size: 13px;
+    width: 150px;
+}

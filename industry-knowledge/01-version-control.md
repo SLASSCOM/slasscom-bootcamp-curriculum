@@ -1,6 +1,6 @@
-[Home](../README.md) > [Industry Knowledge](./README.md) > Topic Name
+[Home](../README.md) > [Industry Knowledge](./README.md) > Version Control
 
-# Topic: Topic Name
+# Topic: Version Control
 
 1. Lesson: [Lesson](#lesson-1)
 1. Lesson: [Lesson](#lesson-2)

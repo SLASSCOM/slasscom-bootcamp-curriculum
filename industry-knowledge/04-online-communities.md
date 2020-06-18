@@ -1,6 +1,6 @@
-[Home](../README.md) > [Industry Knowledge](./README.md) > Software Lifecycle
+[Home](../README.md) > [Industry Knowledge](./README.md) > Online Communities
 
-# Topic: Software Lifecycle
+# Topic: Online Communities
 
 1. Lesson: [Lesson](#lesson-1)
 1. Lesson: [Lesson](#lesson-2)

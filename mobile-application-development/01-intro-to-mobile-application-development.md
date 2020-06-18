@@ -1,12 +1,10 @@
-[Home](../README.md) > [Industry Knowledge](./README.md) > Software Lifecycle
+[Home](../README.md) > [Mobile Application Development](./README.md) > Introduction to Mobile Application Development
 
-# Topic: Software Lifecycle
+# Topic: Introduction to Mobile Application Development
 
-1. Lesson: [Lesson](#lesson-1)
-1. Lesson: [Lesson](#lesson-2)
-1. Lesson: [Lesson](#lesson-3)
-1. Lesson: [Lesson](#lesson-4)
-1. Assessment: [Assessment](#assessment-1)
+1. Lesson: [Meet popular Mobile Application Platforms](#lesson-1)
+2. Lesson: [Getting ready to build mobile applications](#lesson-2)
+3. Assessment: [Assessment](#assessment-1)
 
 ---
 
@@ -14,7 +12,7 @@
 
 ## Lesson 1
 
-> Lesson Name
+> Meet popular Mobile Application Platforms
 
 <dl>
 <dt>Self Learning Duration</dt>
@@ -43,7 +41,7 @@
 
 ## Lesson 2
 
-> Lesson Name
+> Getting ready to build mobile applications
 
 <dl>
 <dt>Self Learning Duration</dt>
