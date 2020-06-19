@@ -5,7 +5,6 @@
 1. Lesson: [Clean code practices](#lesson-1)
 1. Lesson: [SOLID design principles](#lesson-2)
 1. Lesson: [Exception handling](#lesson-3)
-1. Lesson: [Testing software systems](#lesson-4)
 1. Assessment: [Assessment](#assessment-1)
 
 ---
@@ -95,7 +94,7 @@ Write code snippets to demonstrate the use of at least 3 of the SOLID practices 
 <dt>Self Learning Duration</dt>
 <dd>0 mins</dd>
 <dt>Lecture Duration</dt>
-<dd>120 mins</dd>
+<dd>90 mins</dd>
 <dt>Lab Tutorial Duration</dt>
 <dd>180 mins</dd>
 </dl>
@@ -117,45 +116,6 @@ Demonstrate exception handling on below 3 programming languages through simple c
 - C#
 - Python
 - JavaScript
-
----
-
----
-
-## Lesson 4
-
-> Testing software systems
-
-<dl>
-<dt>Self Learning Duration</dt>
-<dd>30 mins</dd>
-<dt>Lecture Duration</dt>
-<dd>90 mins</dd>
-<dt>Lab Tutorial Duration</dt>
-<dd>150 mins</dd>
-</dl>
-
-### Self learning content
-
-Watch the videos to get an understanding to the topic of software testing:
-
-[https://www.youtube.com/watch?v=jrus212djPs&list=PLngnoZX8cAn-wnIWYBbA45iAGxCxJ87w7&index=3](https://www.youtube.com/watch?v=jrus212djPs&list=PLngnoZX8cAn-wnIWYBbA45iAGxCxJ87w7&index=3)
-
-[https://www.youtube.com/watch?v=H4Hf3pji7Fw&list=PLngnoZX8cAn-wnIWYBbA45iAGxCxJ87w7&index=2](https://www.youtube.com/watch?v=H4Hf3pji7Fw&list=PLngnoZX8cAn-wnIWYBbA45iAGxCxJ87w7&index=2)
-
-### Lecture content
-
-Talk about different type of tests used in a project:
-
-- System Testing (Manual)
-- Functional Testing (Manual)
-- Automated testing
-- Unit Testing
-- etc.
-
-### Lab and tutorials
-
-Write a simple calculator code and write an unit-test which will validate the workings of the calculator code.
 
 ---
 

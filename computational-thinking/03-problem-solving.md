@@ -3,7 +3,7 @@
 # Topic: Problem solving through computational thinking (CT)
 
 1. Lesson: [Introduction to problem solving through CT](#lesson-1)
-1. Lesson: [Computer Thinking in Applications](#lesson-2)
+1. Lesson: [Computer Thinking in Practice](#lesson-2)
 1. Assessment: [Assessment](#assessment-1)
 
 ---
@@ -31,7 +31,7 @@ Create a free Coursera account. Complete the week1 of the following free course 
 
 ### Lecture content
 
-Discuss the 4 pillars of computational thinking through examples.
+Discuss the 4 pillars of computational thinking that helps in solving problems. Take problem examples in discussing how each of the below helps in solving those problems.
 
 - decomposition
 - pattern recognition
@@ -52,7 +52,7 @@ Complete Week 2 of the same course to learn followings:
 
 ## Lesson 2
 
-> Computer Thinking in Applications
+> Computer Thinking in Practice
 
 <dl>
 <dt>Self Learning Duration</dt>
