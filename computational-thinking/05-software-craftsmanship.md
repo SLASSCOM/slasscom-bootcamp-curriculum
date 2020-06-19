@@ -2,9 +2,11 @@
 
 # Topic: Software Craftsmanship
 
-1. Lesson: [Clean code practices](#lesson-1)
-1. Lesson: [SOLID design principles](#lesson-2)
-1. Lesson: [Exception handling](#lesson-3)
+1. Lesson: [Clean code practices - Part 1](#lesson-1)
+1. Lesson: [Clean code practices - Part 2](#lesson-2)
+1. Lesson: [SOLID design principles - Part 1](#lesson-3)
+1. Lesson: [SOLID design principles - Part 2](#lesson-4)
+1. Lesson: [Exception handling](#lesson-5)
 1. Assessment: [Assessment](#assessment-1)
 
 ---
@@ -13,7 +15,7 @@
 
 ## Lesson 1
 
-> Clean code practices
+> Clean code practices - Part 1
 
 <dl>
 <dt>Self Learning Duration</dt>
@@ -21,7 +23,7 @@
 <dt>Lecture Duration</dt>
 <dd>120 mins</dd>
 <dt>Lab Tutorial Duration</dt>
-<dd>180 mins</dd>
+<dd>0 mins</dd>
 </dl>
 
 ### Self learning content
@@ -30,14 +32,37 @@ None
 
 ### Lecture content
 
-Discuss the main concepts from: https://www.icta.lk/icta-assets/uploads/2018/12/Final-Online-Book.pdf
+- Discuss the main concepts from: https://www.icta.lk/icta-assets/uploads/2018/12/Final-Online-Book.pdf
 
-Discuss different static code analyzers
+### Lab and tutorials
 
-- IDE based
-- Server based (SonarCube etc.)
+None
 
-Discuss the code review process in the industry and associated tool that can be used.
+---
+
+## Lesson 2
+
+> Clean code practices - Part 2
+
+<dl>
+<dt>Self Learning Duration</dt>
+<dd>0 mins</dd>
+<dt>Lecture Duration</dt>
+<dd>120 mins</dd>
+<dt>Lab Tutorial Duration</dt>
+<dd>120 mins</dd>
+</dl>
+
+### Self learning content
+
+None
+
+### Lecture content
+
+- Discuss different static code analyzers
+  - IDE based
+  - Server based (SonarCube etc.)
+- Discuss the code review process in the industry and associated tool that can be used.
 
 ### Lab and tutorials
 
@@ -47,9 +72,9 @@ Select a open source code repository and run code quality analysis tools and wri
 
 ---
 
-## Lesson 2
+## Lesson 3
 
-> SOLID design principles
+> SOLID design principles - Part 1
 
 <dl>
 <dt>Self Learning Duration</dt>
@@ -68,15 +93,42 @@ Watch and try to understand the SOLID principles with this video:
 
 ### Lecture content
 
-What are SOLID Design principles and why are they important.
+- What are SOLID Design principles and why are they important.
+- With examples, discuss the purpose of:
+  - Single-responsibility Principle.
+  - Open-closed Principle.
 
-Discuss the purpose of:
+### Lab and tutorials
 
-Single-responsibility Principle.
-Open-closed Principle.
-Liskov substitution principle.
-Interface segregation principle.
-Dependency Inversion principle.
+Write code snippets to demonstrate the use of at least 1 of the above SOLID practices using any language. Use those code snippets in a blog post which introduces SOLID principles.
+
+---
+
+---
+
+## Lesson 4
+
+> SOLID design principles - Part 2
+
+<dl>
+<dt>Self Learning Duration</dt>
+<dd>0 mins</dd>
+<dt>Lecture Duration</dt>
+<dd>120 mins</dd>
+<dt>Lab Tutorial Duration</dt>
+<dd>180 mins</dd>
+</dl>
+
+### Self learning content
+
+None
+
+### Lecture content
+
+- With examples, discuss the purpose of:
+  - Liskov substitution principle.
+  - Interface segregation principle.
+  - Dependency Inversion principle.
 
 ### Lab and tutorials
 
@@ -86,7 +138,7 @@ Write code snippets to demonstrate the use of at least 3 of the SOLID practices 
 
 ---
 
-## Lesson 3
+## Lesson 5
 
 > Exception handling
 
@@ -105,9 +157,9 @@ None
 
 ### Lecture content
 
-Discuss the need for exception handling.
-Demonstrate Exception handling best practices in coding.
-Discuss how different programming languages handle exceptions differently.
+- Discuss the need for exception handling.
+- Demonstrate Exception handling best practices in coding.
+- Discuss how different programming languages handle exceptions differently.
 
 ### Lab and tutorials
 
