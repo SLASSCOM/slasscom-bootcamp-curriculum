@@ -29,9 +29,9 @@ None
 
 ### Lecture content
 
-Explain differences and give examples
-Use following as a discussion guide:
-[https://keydifferences.com/difference-between-businessman-and-entrepreneur.html](https://keydifferences.com/difference-between-businessman-and-entrepreneur.html)
+- Explain differences and give examples
+- Use following as a discussion guide:
+  [https://keydifferences.com/difference-between-businessman-and-entrepreneur.html](https://keydifferences.com/difference-between-businessman-and-entrepreneur.html)
 
 ### Lab and tutorials
 
@@ -60,13 +60,12 @@ None
 
 ### Lecture content
 
-Discuss empathy and why thats important in problem solving
-Discuss the Lab exercise
+- Discuss empathy and why thats important in problem solving
+- Discuss the Lab exercise
 
 ### Lab and tutorials
 
 - Ask students to ideate to bring solutions to the 'traffic problem' in the country
-
 - They may use [Traffic Problem](./resources/traffic-problem.pptx) as a template
 
 ---
@@ -88,14 +87,14 @@ Discuss the Lab exercise
 
 ### Self learning content
 
-What is MVP? [https://www.youtube.com/watch?v=0P7nCmln7PM](https://www.youtube.com/watch?v=0P7nCmln7PM)
-3 awesome MVPs [https://www.youtube.com/watch?v=xPJoq_QVsY4](https://www.youtube.com/watch?v=xPJoq_QVsY4)
+- What is MVP? [https://www.youtube.com/watch?v=0P7nCmln7PM](https://www.youtube.com/watch?v=0P7nCmln7PM)
+- 3 awesome MVPs [https://www.youtube.com/watch?v=xPJoq_QVsY4](https://www.youtube.com/watch?v=xPJoq_QVsY4)
 
 ### Lecture content
 
-Creating a pitch deck
-What is a MVP?
-Explain the importance of prototyping
+- Creating a pitch deck
+- What is a MVP?
+- Explain the importance of prototyping
 
 ### Lab and tutorials
 
