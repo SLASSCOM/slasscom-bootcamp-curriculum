@@ -27,7 +27,7 @@
 
 ### Self learning content
 
-First, complete the Week 1 of the following free course on Coursera before coming to class:
+Complete the Week 1 of the following free course on Coursera before coming to class:
 
 [coursera.org/learn/introduction-git-github](https://www.coursera.org/learn/introduction-git-github)
 
