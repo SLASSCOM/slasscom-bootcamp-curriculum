@@ -97,3 +97,22 @@ Git patterns to compare:
 >
 > 1. Slide decks or presentations for the demo is not expected.
 > 2. Microsoft Teams, Google Meet, or similar software can be used for screen sharing that also supports recording.
+
+---
+
+---
+
+## Assessment 1
+
+> GitHub Pages: Create a **Hello, World** Blog
+
+Watch and try to get familiar with GitHub Pages to create your own Blog as instructed in this video tutorial:
+
+[https://www.youtube.com/watch?v=RaKX4A5EiQo](https://www.youtube.com/watch?v=RaKX4A5EiQo)
+
+Create a Git repository named `hello-world` with GitHub Pages. Use either Jekyll or DocsifyJS for this assignment.
+
+Blog posts to create:
+
+- Create blog posts for each YouTube video you have created in previous assignments.
+- Create blog posts for articles you have published in other media.
