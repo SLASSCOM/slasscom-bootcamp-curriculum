@@ -78,11 +78,12 @@ Explain the differences of each Git pattern. Prepare the students to use Git by 
 
 Git Patterns:
 
-- Git Flows
+- Conventional Commits
+- GitFlow Workflow
 - Trunk-based Development
+- Forking Workflow
 - GitHub Flows
 - Release Flows, and
-- Conventional Commits
 
 ### Lab and tutorials
 
@@ -90,7 +91,7 @@ Make a tech talk video (~10 minutes) comparing below Git patterns with examples 
 
 Git patterns to compare:
 
-- Git Flows using Azure DevOps, and
+- GitFlow Workflows using Azure DevOps, and
 - GitHub Flows on GitHub
 
 > **Tips:** 
