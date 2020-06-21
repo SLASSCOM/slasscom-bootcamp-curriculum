@@ -2,8 +2,9 @@
 
 # Topic: Version Control
 
-1. Lesson: [Introduction to Version Control](#lesson-1)
-2. Lesson: [Common Git Patterns](#lesson-2)
+1. Lesson: [Introduction to VCS](#lesson-1)
+1. Lesson: [Git in Practice](#lesson-1)
+2. Lesson: [Familiarize Git Patterns](#lesson-2)
 3. Assessment: [Assessment](#assessment-1)
 
 ---
@@ -12,7 +13,7 @@
 
 ## Lesson 1
 
-> Introduction to Version Control
+> Introduction to Version Control Systems
 
 <dl>
 <dt>Self Learning Duration</dt>
@@ -29,11 +30,6 @@ First, complete the Week 1 of the following free course on Coursera before comin
 
 [coursera.org/learn/introduction-git-github](https://www.coursera.org/learn/introduction-git-github)
 
-Next, learn briefly about following version control tools and create `hello-world` project using each of the tool. This is in preparation of learning the tools for contributing to rest of the tutorials and assessments.
-
-- TFS project using Azure DevOps, and
-- Git project using GitHub
-
 ### Lecture content
 
 - Discuss about the history of version control systems and how it has been evolved from file systems to VSS, TFS, Subversion, Git.
@@ -41,11 +37,7 @@ Next, learn briefly about following version control tools and create `hello-worl
 
 ### Lab and tutorials
 
-First, watch and try to get familiar with common usage of Git commands as instructed in this simple guide:
-
-[rogerdudler.github.io/git-guide/](https://rogerdudler.github.io/git-guide/)
-
-Next, migrate the TFS project `hello-world` on Azure DevOps to your choice of Git repository, preferably GitHub.
+None
 
 ---
 
@@ -53,7 +45,7 @@ Next, migrate the TFS project `hello-world` on Azure DevOps to your choice of Gi
 
 ## Lesson 2
 
-> Common Git Patterns
+> Git in Practice
 
 <dl>
 <dt>Self Learning Duration</dt>
@@ -66,15 +58,49 @@ Next, migrate the TFS project `hello-world` on Azure DevOps to your choice of Gi
 
 ### Self learning content
 
-Complete rest of the Weeks (2-4) of the below free Coursera course to learn followings before coming to class:
+None
 
-[coursera.org/learn/introduction-git-github](https://www.coursera.org/learn/introduction-git-github)
+### Lecture content
 
-Learning topics:
+Discuss the techniques from: [coursera.org/learn/introduction-git-github](https://www.coursera.org/learn/introduction-git-github)
 
 - Using Git Locally
 - Working with Remotes, and
 - Collaboration
+
+### Lab and tutorials
+
+First, learn and try to get familiar with common usage of Git commands as instructed in this simple guide:
+
+[rogerdudler.github.io/git-guide/](https://rogerdudler.github.io/git-guide/)
+
+Next, learn briefly about following version control tools and create `hello-world` project using each of the tool.
+
+- TFS project using Azure DevOps, and
+- Git project using GitHub
+
+Then, migrate the TFS project `hello-world` on Azure DevOps to your choice of Git repository, preferably GitHub.
+
+---
+
+---
+
+## Lesson 3
+
+> Familiarize Git Patterns
+
+<dl>
+<dt>Self Learning Duration</dt>
+<dd> mins</dd>
+<dt>Lecture Duration</dt>
+<dd> mins</dd>
+<dt>Lab Tutorial Duration</dt>
+<dd> mins</dd>
+</dl>
+
+### Self learning content
+
+None
 
 ### Lecture content
 
