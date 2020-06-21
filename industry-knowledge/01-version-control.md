@@ -36,8 +36,8 @@ Learn briefly about following version control systems and create `hello-world` p
 
 ### Lecture content
 
-- Discuss about the history of version control systems and how it has been evolved from file systems to VSS, TFS, Subversion, Git
-- Demonstrate the variation of techniques used by TFS and Git
+- Discuss about the history of version control systems and how it has been evolved from file systems to VSS, TFS, Subversion, Git.
+- Demonstrate the variation of techniques used by TFS and Git.
 
 ### Lab and tutorials
 
@@ -86,7 +86,7 @@ Git Patterns:
 
 ### Lab and tutorials
 
-Make a tech talk video (~10 minutes) comparing below Git patterns with examples and publish onto YouTube. Use simple HTML code snippets to explain each concept.
+Make a tech talk video (~10 minutes) comparing below Git patterns with examples and publish onto YouTube. Use simple HTML code snippets to explain each of the Git patterns.
 
 Git patterns to compare:
 
@@ -95,5 +95,5 @@ Git patterns to compare:
 
 > **Tips:** 
 >
-> 1. No need of preparing a slide decks or presentation for the demo.
+> 1. Slide decks or presentations for the demo is not expected.
 > 2. Microsoft Teams, Google Meet, or similar software can be used for screen sharing that also supports recording.
