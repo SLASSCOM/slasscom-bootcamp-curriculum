@@ -45,7 +45,7 @@ First, watch and try to get familiar with common usage of Git commands as instru
 
 [https://rogerdudler.github.io/git-guide/](https://rogerdudler.github.io/git-guide/)
 
-Next, migrate the TFS project on Azure DevOps to your choice of Git repository, preferably GitHub.
+Next, migrate the TFS project `hello-world` on Azure DevOps to your choice of Git repository, preferably GitHub.
 
 ---
 
