@@ -110,9 +110,11 @@ Watch and try to get familiar with GitHub Pages to create your own Blog as instr
 
 [https://www.youtube.com/watch?v=RaKX4A5EiQo](https://www.youtube.com/watch?v=RaKX4A5EiQo)
 
-Create a Git repository named `hello-world` with GitHub Pages. Use either Jekyll or DocsifyJS for this assignment.
+Create a `public` Git repository named `https://github.com/<<your-username>>/hello-world`, if you have not, and enable GitHub Pages. Use either Jekyll or DocsifyJS ([https://docsify.js.org/](https://docsify.js.org/#/?id=docsify)) for this assessment.
 
 Blog posts to create:
 
-- Create blog posts for each YouTube video you have created in previous assignments.
+- Create blog posts for each YouTube video you have created in previous assessments.
 - Create blog posts for articles you have published in other media.
+
+> **Tip**: Once the blog is published, it can be accessible using the link `https://<<your-username>>.github.io/hello-world`.
