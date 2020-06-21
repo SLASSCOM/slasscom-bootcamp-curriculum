@@ -27,7 +27,7 @@
 
 First, complete the Week 1 of the following free course on Coursera before coming to class:
 
-[https://www.coursera.org/learn/introduction-git-github](https://www.coursera.org/learn/introduction-git-github)
+[coursera.org/learn/introduction-git-github](https://www.coursera.org/learn/introduction-git-github)
 
 Next, learn briefly about following version control tools and create `hello-world` project using each of the tool. This is in preparation of learning the tools for contributing to rest of the tutorials and assessments.
 
@@ -43,7 +43,7 @@ Next, learn briefly about following version control tools and create `hello-worl
 
 First, watch and try to get familiar with common usage of Git commands as instructed in this simple guide:
 
-[https://rogerdudler.github.io/git-guide/](https://rogerdudler.github.io/git-guide/)
+[rogerdudler.github.io/git-guide/](https://rogerdudler.github.io/git-guide/)
 
 Next, migrate the TFS project `hello-world` on Azure DevOps to your choice of Git repository, preferably GitHub.
 
@@ -68,7 +68,7 @@ Next, migrate the TFS project `hello-world` on Azure DevOps to your choice of Gi
 
 Complete rest of the Weeks (2-4) of the below free Coursera course to learn followings before coming to class:
 
-[https://www.coursera.org/learn/introduction-git-github](https://www.coursera.org/learn/introduction-git-github)
+[coursera.org/learn/introduction-git-github](https://www.coursera.org/learn/introduction-git-github)
 
 Learning topics:
 
@@ -114,9 +114,9 @@ Git patterns to demonstrate:
 
 First, watch and try to get familiar with GitHub Pages to create your own Blog as instructed in this video tutorial:
 
-[https://www.youtube.com/watch?v=RaKX4A5EiQo](https://www.youtube.com/watch?v=RaKX4A5EiQo)
+[youtube.com/watch?v=RaKX4A5EiQo](https://www.youtube.com/watch?v=RaKX4A5EiQo)
 
-Next, create a `public` Git repository named `https://github.com/<<your-username>>/hello-world`, if you have not, and enable GitHub Pages. Use either Jekyll or DocsifyJS ([https://docsify.js.org/](https://docsify.js.org/#/?id=docsify)) for this assessment.
+Next, create a `public` Git repository named `https://github.com/<<your-username>>/hello-world`, if you have not, and enable GitHub Pages. Use either Jekyll or DocsifyJS ([docsify.js.org](https://docsify.js.org/#/?id=docsify)) for this assessment.
 
 Blog posts to create:
 
