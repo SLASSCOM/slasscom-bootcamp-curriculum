@@ -25,11 +25,11 @@
 
 ### Self learning content
 
-Complete the Week 1 of the following free course on Coursera before coming to class.
+First, complete the Week 1 of the following free course on Coursera before coming to class.
 
 [https://www.coursera.org/learn/introduction-git-github](https://www.coursera.org/learn/introduction-git-github)
 
-Learn briefly about following version control tools and create `hello-world` project using each of the tool. This is in preparation of learning the tools for contributing to assessment.
+Next, learn briefly about following version control tools and create `hello-world` project using each of the tool. This is in preparation of learning the tools for contributing to rest of the tutorials and assessments.
 
 - TFS project using Azure DevOps, and
 - Git project using GitHub
@@ -41,9 +41,11 @@ Learn briefly about following version control tools and create `hello-world` pro
 
 ### Lab and tutorials
 
-Watch and try to get familiar with common usage of git tool as instructed in this simple guide and migrate the TFS project on Azure DevOps to your choice of Git repository:
+First, watch and try to get familiar with common usage of Git commands as instructed in this simple guide:
 
 [https://rogerdudler.github.io/git-guide/](https://rogerdudler.github.io/git-guide/)
+
+Next, migrate the TFS project on Azure DevOps to your choice of Git repository, preferably GitHub.
 
 ---
 
@@ -89,15 +91,15 @@ Git Patterns:
 
 Make a tech talk video (~15 minutes) comparing below Git patterns with examples and publish onto YouTube. Use simple HTML code snippets to explain each of the Git patterns.
 
-Git patterns to compare:
+Git patterns to demonstrate:
 
-- Demonstrate Conventional Commits
+- Conventional Commits
 - GitFlow Workflows using Azure DevOps, and
 - GitHub Flows on GitHub
 
 > **Tips:** 
 >
-> 1. Slide decks or presentations for the demo is not expected.
+> 1. Slide decks and presentations for the demo and video are not expected.
 > 2. Microsoft Teams, Google Meet, or similar software can be used for screen sharing that also supports recording.
 
 ---
@@ -108,11 +110,11 @@ Git patterns to compare:
 
 > GitHub Pages: Create a **Hello, World** Blog
 
-Watch and try to get familiar with GitHub Pages to create your own Blog as instructed in this video tutorial:
+First, watch and try to get familiar with GitHub Pages to create your own Blog as instructed in this video tutorial:
 
 [https://www.youtube.com/watch?v=RaKX4A5EiQo](https://www.youtube.com/watch?v=RaKX4A5EiQo)
 
-Create a `public` Git repository named `https://github.com/<<your-username>>/hello-world`, if you have not, and enable GitHub Pages. Use either Jekyll or DocsifyJS ([https://docsify.js.org/](https://docsify.js.org/#/?id=docsify)) for this assessment.
+Next, create a `public` Git repository named `https://github.com/<<your-username>>/hello-world`, if you have not, and enable GitHub Pages. Use either Jekyll or DocsifyJS ([https://docsify.js.org/](https://docsify.js.org/#/?id=docsify)) for this assessment.
 
 Blog posts to create:
 
