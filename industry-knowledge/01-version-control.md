@@ -25,7 +25,7 @@
 
 ### Self learning content
 
-First, complete the Week 1 of the following free course on Coursera before coming to class.
+First, complete the Week 1 of the following free course on Coursera before coming to class:
 
 [https://www.coursera.org/learn/introduction-git-github](https://www.coursera.org/learn/introduction-git-github)
 
@@ -66,9 +66,11 @@ Next, migrate the TFS project `hello-world` on Azure DevOps to your choice of Gi
 
 ### Self learning content
 
+Complete rest of the Weeks (2-4) of the below free Coursera course to learn followings before coming to class:
+
 [https://www.coursera.org/learn/introduction-git-github](https://www.coursera.org/learn/introduction-git-github)
 
-Complete rest of the Weeks (2-4) of the above free Coursera course to learn followings before coming to class:
+Learning topics:
 
 - Using Git Locally
 - Working with Remotes, and
