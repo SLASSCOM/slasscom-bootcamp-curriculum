@@ -25,11 +25,11 @@
 
 ### Self learning content
 
-Create a free Coursera account, if you have not. Complete the Week 1 of the following free course before coming to class.
+Complete the Week 1 of the following free course on Coursera before coming to class.
 
-[https://www.coursera.org/learn/agile-software-development](https://www.coursera.org/learn/agile-software-development)
+[https://www.coursera.org/learn/introduction-git-github](https://www.coursera.org/learn/introduction-git-github)
 
-Learn briefly about following version control systems and create `hello-world` project using each of the tool. This is in preparation of learning the tools for contributing to projects.
+Learn briefly about following version control tools and create `hello-world` project using each of the tool. This is in preparation of learning the tools for contributing to assessment.
 
 - TFS project using Azure DevOps, and
 - Git project using GitHub
@@ -41,13 +41,9 @@ Learn briefly about following version control systems and create `hello-world` p
 
 ### Lab and tutorials
 
-[https://www.coursera.org/learn/agile-software-development](https://www.coursera.org/learn/agile-software-development)
+Watch and try to get familiar with common usage of git tool as instructed in this simple guide and migrate the TFS project on Azure DevOps to your choice of Git repository:
 
-Complete rest of the Weeks (2-4) of the above course to learn followings:
-
-- Using Git Locally
-- Working with Remotes, and
-- Collaboration
+[https://rogerdudler.github.io/git-guide/](https://rogerdudler.github.io/git-guide/)
 
 ---
 
@@ -68,9 +64,13 @@ Complete rest of the Weeks (2-4) of the above course to learn followings:
 
 ### Self learning content
 
-Watch and try to get familiar with common usage of git tool as instructed in this simple guide:
+[https://www.coursera.org/learn/introduction-git-github](https://www.coursera.org/learn/introduction-git-github)
 
-[https://rogerdudler.github.io/git-guide/](https://rogerdudler.github.io/git-guide/)
+Complete rest of the Weeks (2-4) of the above free Coursera course to learn followings before coming to class:
+
+- Using Git Locally
+- Working with Remotes, and
+- Collaboration
 
 ### Lecture content
 
@@ -87,10 +87,11 @@ Git Patterns:
 
 ### Lab and tutorials
 
-Make a tech talk video (~10 minutes) comparing below Git patterns with examples and publish onto YouTube. Use simple HTML code snippets to explain each of the Git patterns.
+Make a tech talk video (~15 minutes) comparing below Git patterns with examples and publish onto YouTube. Use simple HTML code snippets to explain each of the Git patterns.
 
 Git patterns to compare:
 
+- Demonstrate Conventional Commits
 - GitFlow Workflows using Azure DevOps, and
 - GitHub Flows on GitHub
 
