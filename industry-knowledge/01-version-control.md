@@ -3,9 +3,10 @@
 # Topic: Version Control
 
 1. Lesson: [Introduction to VCS](#lesson-1)
-1. Lesson: [Git in Practice](#lesson-1)
-2. Lesson: [Familiarize Git Patterns](#lesson-2)
-3. Assessment: [Assessment](#assessment-1)
+2. Lesson: [Git in Practice](#lesson-2)
+3. Lesson: [Familiarize Git Patterns](#lesson-3)
+4. Lesson: [Git Patterns in Practice](#lesson-4)
+5. Assessment: [Assessment](#assessment-1)
 
 ---
 
@@ -104,16 +105,48 @@ None
 
 ### Lecture content
 
-Explain the differences of each Git pattern. Prepare the students to use Git by providing basic understanding of applying various Git patterns and their values. Further discuss how big companies use Git patterns in their day-to-day engineering activities.
+Explain the differences of each Git pattern. Prepare the students to use Git by providing basic understanding of applying various Git patterns and their values.
 
 Git Patterns:
 
-- Conventional Commits
 - GitFlow Workflow
 - Trunk-based Development
 - Forking Workflow
-- GitHub Flows
-- Release Flows, and
+
+### Lab and tutorials
+
+None
+
+---
+
+---
+
+## Lesson 4
+
+> Git Patterns in Practice
+
+<dl>
+<dt>Self Learning Duration</dt>
+<dd> mins</dd>
+<dt>Lecture Duration</dt>
+<dd> mins</dd>
+<dt>Lab Tutorial Duration</dt>
+<dd> mins</dd>
+</dl>
+
+### Self learning content
+
+None
+
+### Lecture content
+
+Discuss how billion dollar companies and popular OSS projects around the world use Git patterns in their day-to-day engineering activities.
+
+Git Patterns:
+
+- **Conventional Commits** introduced by Angular Team
+- **GitHub Flows** in GitHub and many OSS projects, and
+- **Release Flows** practices at Facebook Engineering and Microsoft
 
 ### Lab and tutorials
 
