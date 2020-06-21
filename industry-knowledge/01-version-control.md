@@ -4,7 +4,7 @@
 
 1. Lesson: [Introduction to Version Control](#lesson-1)
 2. Lesson: [Common Git Patterns](#lesson-2)
-3. Assessment: [Topic Review and Assignment](#assessment-1)
+3. Assessment: [Assessment](#assessment-1)
 
 ---
 
