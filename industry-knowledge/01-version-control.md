@@ -111,7 +111,7 @@ None
   - GitFlow Workflow
   - Trunk-based Development
   - Forking Workflow
-- Prepare the students to use Git by providing basic understanding of applying various Git patterns and their values.
+- Prepare the students to use Git in a real-world project by providing basic understanding of applying various Git patterns and their values.
 
 ### Lab and tutorials
 
