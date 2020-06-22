@@ -33,7 +33,8 @@ Complete the Week 1 of the following free course on Coursera before coming to cl
 
 ### Lecture content
 
-- Discuss about the history of version control systems and how it has been evolved from file systems to VSS, TFS, Subversion, Git.
+- Discuss about the history of version control systems
+- How it has been evolved from file systems to VSS, TFS, Subversion, Git.
 - Demonstrate the variation of techniques used by TFS and Git.
 
 ### Lab and tutorials
@@ -105,13 +106,12 @@ None
 
 ### Lecture content
 
-Explain the differences of each Git pattern. Prepare the students to use Git by providing basic understanding of applying various Git patterns and their values.
-
-Git Patterns:
-
-- GitFlow Workflow
-- Trunk-based Development
-- Forking Workflow
+- Discuss what 'Git patterns' are and why they are important
+- Explain the differences of each Git pattern.
+  - GitFlow Workflow
+  - Trunk-based Development
+  - Forking Workflow
+- Prepare the students to use Git by providing basic understanding of applying various Git patterns and their values.
 
 ### Lab and tutorials
 
@@ -158,7 +158,7 @@ Git patterns to demonstrate:
 - GitFlow Workflows using Azure DevOps, and
 - GitHub Flows on GitHub
 
-> **Tips:** 
+> **Tips:**
 >
 > 1. Slide decks and presentations for the demo and video are not expected.
 > 2. Microsoft Teams, Google Meet, or similar software can be used for screen sharing that also supports recording.
