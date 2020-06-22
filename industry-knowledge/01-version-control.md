@@ -114,7 +114,7 @@ MCQ assessment (~20 Questions) verifying the understanding of the students in pu
 
 Learn and try to get familiar with common usage of Git commands as instructed in this simple guide before coming to class:
 
-[rogerdudler.github.io/git-guide/](https://rogerdudler.github.io/git-guide/)
+[rogerdudler.github.io/git-guide](https://rogerdudler.github.io/git-guide/)
 
 ### Lecture content
 
