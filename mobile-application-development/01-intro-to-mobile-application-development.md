@@ -3,8 +3,9 @@
 # Topic: Introduction to Mobile Application Development
 
 1. Lesson: [Meet popular Mobile Application Platforms](#lesson-1)
-2. Lesson: [Getting ready to build mobile applications](#lesson-2)
-3. Assessment: [Assessment](#assessment-1)
+2. Lesson: [Choosing the right platform for your requirement](#lesson-2)
+3. Lesson: [Getting ready to build mobile applications](#lesson-3)
+4. Assessment: [Assessment](#assessment-1)
 
 ---
 
