@@ -27,9 +27,9 @@
 ### Self learning content
 
 Watch videos:
-- https://www.youtube.com/watch?v=PLVIiyu_zmo
-- https://www.youtube.com/watch?v=PvSSqfy3fm8
-- https://www.youtube.com/watch?v=45JWJfss9GA 
+- [https://www.youtube.com/watch?v=PLVIiyu_zmo](https://www.youtube.com/watch?v=PLVIiyu_zmo)
+- [https://www.youtube.com/watch?v=PvSSqfy3fm8](https://www.youtube.com/watch?v=PvSSqfy3fm8)
+- [https://www.youtube.com/watch?v=45JWJfss9GA](https://www.youtube.com/watch?v=PvSSqfy3fm8)
 
 
 ### Lecture content
@@ -62,8 +62,8 @@ Write and publish a blog post comparing different mobile application platforms
 ### Self learning content
 
 Watch videos
-- https://www.youtube.com/watch?v=45JWJfss9GA
-- https://www.youtube.com/watch?v=4m7msadL5iA
+- [https://www.youtube.com/watch?v=45JWJfss9GA](https://www.youtube.com/watch?v=45JWJfss9GA)
+- [https://www.youtube.com/watch?v=4m7msadL5iA](https://www.youtube.com/watch?v=4m7msadL5iA)
 
 ### Lecture content
 
@@ -94,7 +94,7 @@ Do a research into most popular applications (2 each) in following industries. S
 
 ### Self learning content
 
-Follow through: https://reactnative.dev/docs/getting-started
+Follow through: [https://reactnative.dev/docs/getting-started](https://reactnative.dev/docs/getting-started)
 
 ### Lecture content
 
