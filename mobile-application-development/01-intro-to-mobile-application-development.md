@@ -104,3 +104,20 @@ Follow through: [https://reactnative.dev/docs/getting-started](https://reactnati
 ### Lab and tutorials
 
 Create a hello world application using React Native. BONUS = Run it on your mobile phone!
+
+---
+
+---
+
+## Assessment 1
+
+> Introduction to Mobile Application Development
+
+MCQ assessment verifying the understanding of the students in the following concepts and areas. Preferably use a gamified assessment tool such as Kahoot.
+
+ - What are different mobile device platforms available
+ - Differences of such platforms
+ - Advantages and Disadvantages of Native / Hybrid
+ - Ability to set up development environment
+
+Review the answers of any common mistakes at the end of the session
