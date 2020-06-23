@@ -77,8 +77,6 @@ Do a research into most popular applications (2 each) in following industries. S
 
 ---
 
-https://www.youtube.com/watch?v=4m7msadL5iA
-
 
 ## Lesson 3
 
