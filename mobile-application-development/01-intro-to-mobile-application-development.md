@@ -52,11 +52,11 @@ Write and publish a blog post comparing different mobile application platforms
 
 <dl>
 <dt>Self Learning Duration</dt>
-<dd> mins</dd>
+<dd>30 mins</dd>
 <dt>Lecture Duration</dt>
 <dd>45 mins</dd>
 <dt>Lab Tutorial Duration</dt>
-<dd> mins</dd>
+<dd>45 mins</dd>
 </dl>
 
 ### Self learning content
