@@ -79,10 +79,10 @@ Discuss briefly about common terminology in use:
 
 First, learn briefly about following version control tools and create `hello-world` project using each of the tool:
 
-- TFS project using Azure DevOps, and
+- TFVC project using Azure DevOps, and
 - Git project using GitHub
 
-Then, migrate the TFS project `hello-world` on Azure DevOps to your choice of Git repository, preferably GitHub.
+Then, migrate the TFVC `hello-world` project on Azure DevOps to your choice of Git repository, preferably GitHub.
 
 ---
 
