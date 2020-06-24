@@ -4,7 +4,7 @@
 
 1. Lesson: [How users use mobile devices](#lesson-1)
 2. Lesson: [Mobile User Experience](#lesson-2)
-3. Lesson: [Design great mobile apps](#lesson-3)
+3. Lesson: [Designing great mobile apps](#lesson-3)
 4. Lesson: [Do users like your app?](#lesson-4)
 5. Assessment: [Assessment](#assessment-1)
 
@@ -20,7 +20,7 @@
 <dt>Self Learning Duration</dt>
 <dd> mins</dd>
 <dt>Lecture Duration</dt>
-<dd> mins</dd>
+<dd>45 mins</dd>
 <dt>Lab Tutorial Duration</dt>
 <dd> mins</dd>
 </dl>
@@ -49,7 +49,7 @@
 <dt>Self Learning Duration</dt>
 <dd> mins</dd>
 <dt>Lecture Duration</dt>
-<dd> mins</dd>
+<dd>60 mins</dd>
 <dt>Lab Tutorial Duration</dt>
 <dd> mins</dd>
 </dl>
@@ -72,13 +72,13 @@
 
 ## Lesson 3
 
-> Design great mobile apps
+> Designing great mobile apps
 
 <dl>
 <dt>Self Learning Duration</dt>
 <dd> mins</dd>
 <dt>Lecture Duration</dt>
-<dd> mins</dd>
+<dd>60 mins</dd>
 <dt>Lab Tutorial Duration</dt>
 <dd> mins</dd>
 </dl>
@@ -107,7 +107,7 @@
 <dt>Self Learning Duration</dt>
 <dd> mins</dd>
 <dt>Lecture Duration</dt>
-<dd> mins</dd>
+<dd>45 mins</dd>
 <dt>Lab Tutorial Duration</dt>
 <dd> mins</dd>
 </dl>
@@ -124,3 +124,19 @@
 
 ...
 
+---
+
+---
+
+## Assessment 3
+
+> Designing Mobile Applications
+
+MCQ assessment verifying the understanding of the students in the following concepts and areas. Preferably use a gamified assessment tool such as Kahoot.
+
+ - Device fragmentation
+ - User cognition / context
+ - Prototyping
+ - User Tests and tools
+
+Review the answers of any common mistakes at the end of the session

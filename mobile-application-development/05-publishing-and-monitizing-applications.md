@@ -4,7 +4,7 @@
 
 1. Lesson: [Distributing your app](#lesson-1)
 2. Lesson: [Platform Specific Rules & Guidelines](#lesson-2)
-3. Lesson: [Monitizing Mobile Applications](#lesson-3)
+3. Lesson: [Monetizing Mobile Applications](#lesson-3)
 4. Assessment: [Assessment](#assessment-1)
 
 ---
@@ -19,7 +19,7 @@
 <dt>Self Learning Duration</dt>
 <dd> mins</dd>
 <dt>Lecture Duration</dt>
-<dd> mins</dd>
+<dd>120 mins</dd>
 <dt>Lab Tutorial Duration</dt>
 <dd> mins</dd>
 </dl>
@@ -48,7 +48,7 @@
 <dt>Self Learning Duration</dt>
 <dd> mins</dd>
 <dt>Lecture Duration</dt>
-<dd> mins</dd>
+<dd>60 mins</dd>
 <dt>Lab Tutorial Duration</dt>
 <dd> mins</dd>
 </dl>
@@ -71,13 +71,13 @@
 
 ## Lesson 3
 
-> Monitizing Mobile Applications
+> Monetizing Mobile Applications
 
 <dl>
 <dt>Self Learning Duration</dt>
 <dd> mins</dd>
 <dt>Lecture Duration</dt>
-<dd> mins</dd>
+<dd>90 mins</dd>
 <dt>Lab Tutorial Duration</dt>
 <dd> mins</dd>
 </dl>
@@ -93,3 +93,47 @@
 ### Lab and tutorials
 
 ...
+---
+
+---
+
+## Lesson 4
+
+> Different Monitizing Models
+
+<dl>
+<dt>Self Learning Duration</dt>
+<dd> mins</dd>
+<dt>Lecture Duration</dt>
+<dd>45 mins</dd>
+<dt>Lab Tutorial Duration</dt>
+<dd> mins</dd>
+</dl>
+
+### Self learning content
+
+...
+
+### Lecture content
+
+...
+
+### Lab and tutorials
+
+...
+---
+
+---
+
+## Assessment 4
+
+> Making Feature Rich Applications
+
+MCQ assessment verifying the understanding of the students in the following concepts and areas. Preferably use a gamified assessment tool such as Kahoot.
+
+ - Data persistance
+ - Network communication
+ - Device specific features
+ - Security
+
+Review the answers of any common mistakes at the end of the session
