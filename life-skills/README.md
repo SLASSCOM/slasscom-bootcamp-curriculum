@@ -25,8 +25,8 @@ Do you want to learn the 21st century skills employers are looking for today? Th
 
 1. [General English](./01-general-english.md)
 1. [Communication](./02-communication.md)
-1. [Making it Happen](./03-making-it-happen.md)
-1. [Positive Attitude](./04-positive-attitude.md)
+1. [Positive Attitude](./03-positive-attitude.md)
+1. [Making it Happen](./04-making-it-happen.md)
 1. [Emotional Intelligence](./05-emotional-intelligence.md)
 1. [Time Management](./06-time-management.md)
 
