@@ -59,7 +59,7 @@ Play LightBot and complete all levels of 'Procedures' and 'Loops'
 <dt>Self Learning Duration</dt>
 <dd>90 mins</dd>
 <dt>Lecture Duration</dt>
-<dd>45 mins</dd>
+<dd>60 mins</dd>
 <dt>Lab Tutorial Duration</dt>
 <dd>180 mins</dd>
 </dl>
@@ -187,7 +187,7 @@ Make one more Scratch game using events to demonstrate all of the following
 <dt>Self Learning Duration</dt>
 <dd>30 mins</dd>
 <dt>Lecture Duration</dt>
-<dd>45 mins</dd>
+<dd>60 mins</dd>
 <dt>Lab Tutorial Duration</dt>
 <dd>180 mins</dd>
 </dl>

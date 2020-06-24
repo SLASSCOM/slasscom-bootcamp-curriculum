@@ -1,6 +1,6 @@
 [Home](../README.md) > [Computational Thinking](./README.md) > Object Orientation
 
-# Topic: Topic Name
+# Topic: Object Orientation
 
 1. Lesson: [Introduction to OOP](#lesson-1)
 1. Lesson: [OOD and UML](#lesson-2)
@@ -16,11 +16,11 @@
 
 <dl>
 <dt>Self Learning Duration</dt>
-<dd> mins</dd>
+<dd>120 mins</dd>
 <dt>Lecture Duration</dt>
-<dd> mins</dd>
+<dd>120 mins</dd>
 <dt>Lab Tutorial Duration</dt>
-<dd> mins</dd>
+<dd>120 mins</dd>
 </dl>
 
 ### Self learning content
@@ -61,11 +61,11 @@ Create a simple program (2-3 classes) using Java or C# to demonstrate the use of
 
 <dl>
 <dt>Self Learning Duration</dt>
-<dd> mins</dd>
+<dd>0 mins</dd>
 <dt>Lecture Duration</dt>
-<dd> mins</dd>
+<dd>120 mins</dd>
 <dt>Lab Tutorial Duration</dt>
-<dd> mins</dd>
+<dd>120 mins</dd>
 </dl>
 
 ### Self learning content

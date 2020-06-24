@@ -110,7 +110,7 @@ Create a StackOverFlow account (if not existing) and answer minimum 3 questions 
 <dt>Self Learning Duration</dt>
 <dd>90 mins</dd>
 <dt>Lecture Duration</dt>
-<dd>120 mins</dd>
+<dd>90 mins</dd>
 <dt>Lab Tutorial Duration</dt>
 <dd>120 mins</dd>
 </dl>
@@ -145,7 +145,7 @@ Write 3 code snippets to demonstrate use of each of above algorithms using any l
 <dt>Self Learning Duration</dt>
 <dd>0 mins</dd>
 <dt>Lecture Duration</dt>
-<dd>120 mins</dd>
+<dd>90 mins</dd>
 <dt>Lab Tutorial Duration</dt>
 <dd>120 mins</dd>
 </dl>
