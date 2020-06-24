@@ -71,5 +71,5 @@ This repository is maintained as a community effort in the industry. If you like
 ## Related links
 
 - [Curriculum Website](https://slasscom.github.io/SLASSCOM-Bootcamp-Curriculum/)
-- [Git Repository](https://github.com/SLASSCOM/SLASSCOM-Bootcamp-Curriculum)
+- [Git Repository](https://github.com/SLASSCOM/slasscom-bootcamp-curriculum)
 - [SLASSCOM Website](https://slasscom.lk)
