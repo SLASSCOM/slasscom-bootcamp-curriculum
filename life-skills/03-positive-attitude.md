@@ -1,12 +1,11 @@
-[Home](../README.md) > [Life Skills](./README.md) > Emotional Intelligence
+[Home](../README.md) > [Life Skills](./README.md) > Positive Attitude
 
-# Topic: Emotional Intelligence
+# Topic: Positive Attitude
 
-1. Lesson: [Developing Empathy and Working with Others](#lesson-1)
-1. Lesson: [Understanding Emotions](#lesson-2)
-1. Lesson: [Managing Strong Emotions](#lesson-3)
-1. Lesson: [Developing Confidence in Self and Others](#lesson-4)
-1. Assessment: [Assessment](#assessment-1)
+1. Lesson: [Growth Mindset](#lesson-1)
+1. Lesson: [Power of Personal Attitude](#lesson-2)
+1. Lesson: [Positive life spirit: job, romance, spiritual life](#lesson-3)
+1. Lesson: [Power presence and making a First Impression](#lesson-4)
 
 ---
 
@@ -14,13 +13,13 @@
 
 ## Lesson 1
 
-> Developing Empathy and Working with Others
+> Growth Mindset
 
 <dl>
 <dt>Self Learning Duration</dt>
 <dd>0 mins</dd>
 <dt>Lecture Duration</dt>
-<dd>120 mins</dd>
+<dd>45 mins</dd>
 <dt>Lab Tutorial Duration</dt>
 <dd>0 mins</dd>
 </dl>
@@ -43,13 +42,13 @@
 
 ## Lesson 2
 
-> Understanding Emotions
+> Power of Personal Attitude
 
 <dl>
 <dt>Self Learning Duration</dt>
 <dd>0 mins</dd>
 <dt>Lecture Duration</dt>
-<dd>60 mins</dd>
+<dd>45 mins</dd>
 <dt>Lab Tutorial Duration</dt>
 <dd>0 mins</dd>
 </dl>
@@ -72,13 +71,13 @@
 
 ## Lesson 3
 
-> Managing Strong Emotions
+> Positive life spirit: job, romance, spiritual life
 
 <dl>
 <dt>Self Learning Duration</dt>
 <dd>0 mins</dd>
 <dt>Lecture Duration</dt>
-<dd>60 mins</dd>
+<dd>45 mins</dd>
 <dt>Lab Tutorial Duration</dt>
 <dd>0 mins</dd>
 </dl>
@@ -101,13 +100,13 @@
 
 ## Lesson 4
 
-> Developing Confidence in Self and Others
+> Power presence and making a First Impression
 
 <dl>
 <dt>Self Learning Duration</dt>
 <dd>0 mins</dd>
 <dt>Lecture Duration</dt>
-<dd>60 mins</dd>
+<dd>45 mins</dd>
 <dt>Lab Tutorial Duration</dt>
 <dd>0 mins</dd>
 </dl>

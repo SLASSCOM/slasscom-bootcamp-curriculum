@@ -5,14 +5,16 @@
 > Skills and attitude required for a winning career.
 
 <dl>
-<dt>Total Duration</dt>
+<dt>Duration</dt>
 <dd>12  weeks</dd>
 <dt>Lectures and Self Learning</dt>
-<dd>50  hours</dd>
+<dd>16  hours</dd>
+<dt>Self Learning</dt>
+<dd>0  hours</dd>
 <dt>Tutorials and Labs</dt>
 <dd>30  hours</dd>
 <dt>Topics</dt>
-<dd>7</dd>
+<dd>6</dd>
 </dl>
 
 ## Introduction
@@ -23,11 +25,10 @@ Do you want to learn the 21st century skills employers are looking for today? Th
 
 1. [General English](./01-general-english.md)
 1. [Communication](./02-communication.md)
-1. [Making it Happen](./03-making-it-happen.md)
-1. [Positive Attitude](./04-positive-attitude.md)
+1. [Positive Attitude](./03-positive-attitude.md)
+1. [Making it Happen](./04-making-it-happen.md)
 1. [Emotional Intelligence](./05-emotional-intelligence.md)
-1. [Team Play](./06-team-play.md)
-1. [Time Management](./07-time-management.md)
+1. [Time Management](./06-time-management.md)
 
 ## Learning Outcomes
 

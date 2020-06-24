@@ -1,12 +1,9 @@
-[Home](../README.md) > [Life Skills](./README.md) > Topic Name
+[Home](../README.md) > [Life Skills](./README.md) > Communication
 
-# Topic: Topic Name
+# Topic: Communication
 
-1. Lesson: [Lesson](#lesson-1)
-1. Lesson: [Lesson](#lesson-2)
-1. Lesson: [Lesson](#lesson-3)
-1. Lesson: [Lesson](#lesson-4)
-1. Assessment: [Assessment](#assessment-1)
+1. Lesson: [Active Listening](#lesson-1)
+1. Lesson: [Assertive Interpersonal Communication](#lesson-2)
 
 ---
 
@@ -14,7 +11,7 @@
 
 ## Lesson 1
 
-> Lesson Name
+> Active Listening
 
 <dl>
 <dt>Self Learning Duration</dt>
@@ -43,15 +40,15 @@
 
 ## Lesson 2
 
-> Lesson Name
+> Assertive Interpersonal Communication
 
 <dl>
 <dt>Self Learning Duration</dt>
-<dd> mins</dd>
+<dd>0 mins</dd>
 <dt>Lecture Duration</dt>
-<dd> mins</dd>
+<dd>60 mins</dd>
 <dt>Lab Tutorial Duration</dt>
-<dd> mins</dd>
+<dd>0 mins</dd>
 </dl>
 
 ### Self learning content

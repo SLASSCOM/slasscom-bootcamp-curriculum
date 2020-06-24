@@ -103,7 +103,8 @@ Follow through: [https://reactnative.dev/docs/getting-started](https://reactnati
 
 ### Lab and tutorials
 
-Create a hello world application using React Native. BONUS = Run it on your mobile phone!
+- Create a hello world application using React Native. BONUS = Run it on your mobile phone!
+- Group students into groups of 3 (+/- 1). These groups will be continue to do labs/tutorials together and proceed to build the Mini Project throughout the module.
 
 ---
 

@@ -19,24 +19,28 @@
 
 <dl>
 <dt>Self Learning Duration</dt>
-<dd> mins</dd>
+<dd>30 mins</dd>
 <dt>Lecture Duration</dt>
 <dd>120 mins</dd>
 <dt>Lab Tutorial Duration</dt>
-<dd> mins</dd>
+<dd>60 mins</dd>
 </dl>
 
 ### Self learning content
 
-...
+Watch videos:
+- [https://www.youtube.com/watch?v=aCe0h50hyCc](https://www.youtube.com/watch?v=aCe0h50hyCc)
+
 
 ### Lecture content
 
-...
+- Lightweight databases
+- Object persistance (Redux)
 
 ### Lab and tutorials
 
-...
+- Use local persistance to save items marked by user as Favorite
+- Read from local persistance to populate Favorites list
 
 ---
 
@@ -48,24 +52,28 @@
 
 <dl>
 <dt>Self Learning Duration</dt>
-<dd> mins</dd>
+<dd>45 mins</dd>
 <dt>Lecture Duration</dt>
 <dd>120 mins</dd>
 <dt>Lab Tutorial Duration</dt>
-<dd> mins</dd>
+<dd>60 mins</dd>
 </dl>
 
 ### Self learning content
 
-...
+Follow through:
+- [https://medium.com/dailyjs/network-layer-in-react-native-eec841f11861](https://medium.com/dailyjs/network-layer-in-react-native-eec841f11861)
+- [https://www.youtube.com/watch?v=RiogLmKQqww](https://www.youtube.com/watch?v=RiogLmKQqww)
 
 ### Lecture content
 
-...
+- Working with APIs
+- Async network communication
 
 ### Lab and tutorials
 
-...
+- Use given backend API to retrieve and display list of Products
+- Use given backend API to retrieve and display list of Promotions
 
 ---
 
@@ -77,24 +85,28 @@
 
 <dl>
 <dt>Self Learning Duration</dt>
-<dd> mins</dd>
+<dd>45 mins</dd>
 <dt>Lecture Duration</dt>
 <dd>120 mins</dd>
 <dt>Lab Tutorial Duration</dt>
-<dd> mins</dd>
+<dd>60 mins</dd>
 </dl>
 
 ### Self learning content
 
-...
+Watch videos:
+- [https://www.youtube.com/watch?v=Ikgfr9Yot1M](https://www.youtube.com/watch?v=Ikgfr9Yot1M)
+- [https://www.youtube.com/watch?v=MqLC0kOqrwk](https://www.youtube.com/watch?v=MqLC0kOqrwk)
 
 ### Lecture content
 
-...
+- Using Camera APIs
+- Using Location APIs
 
 ### Lab and tutorials
 
-...
+- Add screen to facilitate Return an item.
+- Use camera to take a picture, save it and and show it on Return item screen.
 
 ---
 
@@ -106,24 +118,25 @@
 
 <dl>
 <dt>Self Learning Duration</dt>
-<dd> mins</dd>
+<dd>50 mins</dd>
 <dt>Lecture Duration</dt>
 <dd>60 mins</dd>
 <dt>Lab Tutorial Duration</dt>
-<dd> mins</dd>
+<dd>45 mins</dd>
 </dl>
 
 ### Self learning content
 
-...
+Go through: [https://www.veracode.com/resources/webinars/mobile-application-security-trends-myths-and-answers](https://www.veracode.com/resources/webinars/mobile-application-security-trends-myths-and-answers)
 
 ### Lecture content
 
-...
+- Overview of mobile security
+- Security at rest and transit in mobile context
 
 ### Lab and tutorials
 
-...
+- Research and write a blog post about possible security threats and loopholes in a Shopping Cart app
 
 ---
 
@@ -139,20 +152,18 @@
 <dt>Lecture Duration</dt>
 <dd>90 mins</dd>
 <dt>Lab Tutorial Duration</dt>
-<dd> mins</dd>
+<dd>None</dd>
 </dl>
 
 ### Self learning content
 
-...
+- [https://www.youtube.com/watch?v=OrIIPNEjQfs](https://www.youtube.com/watch?v=OrIIPNEjQfs)
 
 ### Lecture content
 
-...
+- Working with native modules
+- Common linking issues
 
-### Lab and tutorials
-
-...
 ---
 
 ---

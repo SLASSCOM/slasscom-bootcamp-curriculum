@@ -1,95 +1,23 @@
-[Home](../README.md) > [Mobile Application Development](./README.md) > Publishing & Monitizing Applications
+[Home](../README.md) > [Mobile Application Development](./README.md) > Mini Project
 
-# Topic: Publishing & Monitizing Applications
+# Topic: Mini Project : Shopping Cart Application
 
-1. Lesson: [Distributing your app](#lesson-1)
-2. Lesson: [Platform Specific Rules & Guidelines](#lesson-2)
-3. Lesson: [Monitizing Mobile Applications](#lesson-3)
-4. Assessment: [Assessment](#assessment-1)
+Goal of the mini project is give expose students to building a complete mobile app from the scratch. This is a group assessment with ideal size of 3 students per group. 
 
----
-
----
-
-## Lesson 1
-
-> Distributing your app
-
-<dl>
-<dt>Self Learning Duration</dt>
-<dd> mins</dd>
-<dt>Lecture Duration</dt>
-<dd> mins</dd>
-<dt>Lab Tutorial Duration</dt>
-<dd> mins</dd>
-</dl>
-
-### Self learning content
-
-...
-
-### Lecture content
-
-...
-
-### Lab and tutorials
-
-...
+Build of the application is iteratively supported through Tutorial/Lab in each lesson. However students are suppose to add additional effort to complete the application outside designated Tutorial steps and time allocation.
 
 ---
 
 ---
 
-## Lesson 2
+## Milestones
 
-> Platform Specific Rules & Guidelines
+Tutorial / Lab section of each lesson makes incremental milestone to the project. These increments aligns with learnings from each lesson. 
 
-<dl>
-<dt>Self Learning Duration</dt>
-<dd> mins</dd>
-<dt>Lecture Duration</dt>
-<dd> mins</dd>
-<dt>Lab Tutorial Duration</dt>
-<dd> mins</dd>
-</dl>
+## Assessment Criteria
 
-### Self learning content
+Lecture should come up with marking scheme for the application based on milestones. It is up to the lecture to award mark in incremental basis or evaluate the final product.
 
-...
+## Evaluation
 
-### Lecture content
-
-...
-
-### Lab and tutorials
-
-...
-
----
-
----
-
-## Lesson 3
-
-> Monitizing Mobile Applications
-
-<dl>
-<dt>Self Learning Duration</dt>
-<dd> mins</dd>
-<dt>Lecture Duration</dt>
-<dd> mins</dd>
-<dt>Lab Tutorial Duration</dt>
-<dd> mins</dd>
-</dl>
-
-### Self learning content
-
-...
-
-### Lecture content
-
-...
-
-### Lab and tutorials
-
-...
+As per derived marking scheme each milestones could carry a portion of marks. Total marks for the Mini Project is 60 marks (out of 100 for the module).
