@@ -67,7 +67,7 @@ Watch videos
 
 ### Lecture content
 
-- Differenciation between native mobile apps vs hybrid/cross-platform
+- Differentiation between native mobile apps vs hybrid/cross-platform
 - Advantages and disadvantages of each platform
 
 ### Lab and tutorials
