@@ -32,7 +32,8 @@
 
 ### Lecture content
 
-...
+- Lightweight databases
+- Object persistance (Redux)
 
 ### Lab and tutorials
 
@@ -61,7 +62,8 @@
 
 ### Lecture content
 
-...
+- Working with APIs
+- Async network communication
 
 ### Lab and tutorials
 
@@ -90,7 +92,8 @@
 
 ### Lecture content
 
-...
+- Using Camera APIs
+- Using Location APIs
 
 ### Lab and tutorials
 
@@ -119,7 +122,8 @@
 
 ### Lecture content
 
-...
+- Overview of mobile security
+- Security at rest and transit in mobile context
 
 ### Lab and tutorials
 
@@ -144,7 +148,8 @@
 
 ### Self learning content
 
-...
+- Working with native modules
+- Common linking issues
 
 ### Lecture content
 
