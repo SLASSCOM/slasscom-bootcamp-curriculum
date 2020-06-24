@@ -137,12 +137,6 @@ Follow through:
 - Different tool options
 - Case studies of the above
 
-...
-
-
-
-...
-
 ---
 
 ---

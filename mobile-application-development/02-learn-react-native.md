@@ -239,11 +239,11 @@ Watch video: [https://www.youtube.com/watch?v=LdKtugH-sb8](https://www.youtube.c
 
 <dl>
 <dt>Self Learning Duration</dt>
-<dd> mins</dd>
+<dd>None</dd>
 <dt>Lecture Duration</dt>
 <dd>60 mins</dd>
 <dt>Lab Tutorial Duration</dt>
-<dd> mins</dd>
+<dd>60 mins</dd>
 </dl>
 
 ### Self learning content
