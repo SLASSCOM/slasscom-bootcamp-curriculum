@@ -5,7 +5,7 @@
 > Develop entrepreneurship capabilities.
 
 <dl>
-<dt>Total Duration</dt>
+<dt>Duration</dt>
 <dd>6 weeks</dd>
 <dt>Lectures and Self Learning</dt>
 <dd>25 hours</dd>
