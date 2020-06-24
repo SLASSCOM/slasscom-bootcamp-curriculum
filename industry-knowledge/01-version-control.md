@@ -4,11 +4,9 @@
 
 1. Lesson: [Introduction to VCS](#lesson-1)
 2. Lesson: [Common Terminology in Use](#lesson-2)
-3. Assessment: [Version Control Assessment](#assessment-1)
-4. Lesson: [Git and GitHub in Practice](#lesson-3)
-5. Lesson: [Familiarize Git Patterns](#lesson-4)
-6. Lesson: [Git Patterns in Practice](#lesson-5)
-7. Assessment: [Git and GitHub Assessment](#assessment-2)
+3. Lesson: [Git and GitHub in Practice](#lesson-3)
+4. Lesson: [Familiarize Git Patterns in Use](#lesson-4)
+5. Assessment: [Assessment](#assessment-1)
 
 ---
 
@@ -62,9 +60,9 @@ None
 
 ### Self learning content
 
-Complete the Week 1 of the following free course on Coursera before coming to class:
+Learn and try to get familiar with common usage of Git commands as instructed in this simple guide before coming to class:
 
-[coursera.org/learn/introduction-git-github](https://www.coursera.org/learn/introduction-git-github)
+[rogerdudler.github.io/git-guide](https://rogerdudler.github.io/git-guide/)
 
 ### Lecture content
 
@@ -81,17 +79,12 @@ Discuss briefly about common terminology in use:
 
 ### Lab and tutorials
 
-None
+First, learn briefly about following version control tools and create `hello-world` project using each of the tool:
 
----
+- TFS project using Azure DevOps, and
+- Git project using GitHub
 
----
-
-## Assessment 1
-
-> Version Control Systems
-
-MCQ assessment (~20 Questions) verifying the understanding of the students in purpose and terms of version control. Preferably use a gamified assessment tool such as Kahoot.
+Then, migrate the TFS project `hello-world` on Azure DevOps to your choice of Git repository, preferably GitHub.
 
 ---
 
@@ -112,9 +105,9 @@ MCQ assessment (~20 Questions) verifying the understanding of the students in pu
 
 ### Self learning content
 
-Learn and try to get familiar with common usage of Git commands as instructed in this simple guide before coming to class:
+Complete the Week 1 of the following free course on Coursera before coming to class:
 
-[rogerdudler.github.io/git-guide](https://rogerdudler.github.io/git-guide/)
+[coursera.org/learn/introduction-git-github](https://www.coursera.org/learn/introduction-git-github)
 
 ### Lecture content
 
@@ -126,12 +119,11 @@ Discuss the techniques from: [coursera.org/learn/introduction-git-github](https:
 
 ### Lab and tutorials
 
-First, learn briefly about following version control tools and create `hello-world` project using each of the tool:
+First, watch and try to get familiar with GitHub Pages to create your own Blog as illustrated in this video tutorial:
 
-- TFS project using Azure DevOps, and
-- Git project using GitHub
+[youtube.com/watch?v=RaKX4A5EiQo](https://www.youtube.com/watch?v=RaKX4A5EiQo)
 
-Then, migrate the TFS project `hello-world` on Azure DevOps to your choice of Git repository, preferably GitHub.
+Next, create a Blog on GitHub using GitHub Pages. Use the repository name as `blog` and publish all the lab and tutorial blog posts written during the course so far.
 
 ---
 
@@ -139,7 +131,7 @@ Then, migrate the TFS project `hello-world` on Azure DevOps to your choice of Gi
 
 ## Lesson 4
 
-> Familiarize Git Patterns
+> Familiarize Git Patterns in Use
 
 <dl>
 <dt>Self Learning Duration</dt>
@@ -165,71 +157,19 @@ None
 
 ### Lab and tutorials
 
-None
+Write a 200+ word Blog post regarding one of the following topics. In the blog post, include the reference as citation blog content.
+
+- How **git** is different from **subversion**
+- Why **trunk-based development** has become popular than **gitflow** branching strategy
+- How **Facebook Engineering** use Git patterns
+- What are **conventional commits** and how can it save time
 
 ---
 
 ---
 
-## Lesson 5
+## Assessment 1
 
-> Git Patterns in Practice
+> Version Control
 
-<dl>
-<dt>Self Learning Duration</dt>
-<dd> mins</dd>
-<dt>Lecture Duration</dt>
-<dd> mins</dd>
-<dt>Lab Tutorial Duration</dt>
-<dd> mins</dd>
-</dl>
-
-### Self learning content
-
-None
-
-### Lecture content
-
-Discuss how billion dollar companies and popular OSS projects around the world use Git patterns in their day-to-day engineering activities.
-
-Git Patterns:
-
-- **Conventional Commits** introduced by Angular Team
-- **GitHub Flows** introduced by GitHub and used in many OSS projects, and
-- **Release Flows** practice at Facebook Engineering and Microsoft
-
-### Lab and tutorials
-
-Make a tech talk video (~15 minutes) comparing below Git patterns with examples and publish onto YouTube. Use simple HTML code snippets to explain each of the Git patterns.
-
-Git patterns to demonstrate:
-
-- Conventional Commits
-- GitFlow Workflows using Azure DevOps, and
-- GitHub Flows on GitHub
-
-> **Tips:**
->
-> 1. Slide decks and presentations for the demo and video are not expected
-> 2. Microsoft Teams, Google Meet, or similar software can be used for screen sharing that also supports recording
-
----
-
----
-
-## Assessment 2
-
-> GitHub Pages: Create a **Hello, World** Blog
-
-First, watch and try to get familiar with GitHub Pages to create your own Blog as instructed in this video tutorial:
-
-[youtube.com/watch?v=RaKX4A5EiQo](https://www.youtube.com/watch?v=RaKX4A5EiQo)
-
-Next, create a `public` Git repository named `https://github.com/<<your-username>>/hello-world`, if you have not, and enable GitHub Pages. Use either Jekyll or DocsifyJS ([docsify.js.org](https://docsify.js.org/#/?id=docsify)) for this assessment.
-
-Blog posts to create:
-
-- Create blog posts for each YouTube video you have created in previous assessments.
-- Create blog posts for articles you have published in other media.
-
-> **Tip**: Once the blog is published, it can be accessible using the link `https://<<your-username>>.github.io/hello-world`.
+MCQ assessment (~20 Questions) verifying the understanding of the students in purpose and terms of version control. Preferably use a gamified assessment tool such as Kahoot.
