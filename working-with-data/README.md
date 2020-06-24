@@ -5,7 +5,7 @@
 > Introduce Database Management Systems and APIs.
 
 <dl>
-<dt>Total Duration</dt>
+<dt>Duration</dt>
 <dd>~ 10 weeks</dd>
 <dt>Lectures and Self Learning</dt>
 <dd>~ 50 hours</dd>

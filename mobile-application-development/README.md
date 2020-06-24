@@ -5,7 +5,7 @@
 > A hands-on approach to developing Mobile Applications
 
 <dl>
-<dt>Total Duration</dt>
+<dt>Duration</dt>
 <dd>~ 8  weeks</dd>
 <dt>Lectures</dt>
 <dd>~ 30  hours</dd>
@@ -41,10 +41,9 @@ Mobile devices have become integral parts of our lives. They improve our persona
 ## Assessments and Assessment Rationale
 
 | Assessment                                                                                             | Marks                                                                       |
-|--------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| ------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------- |
 | There will be a total of 5 Kahoot assessments to be conducted in Tutorial sessions. 20 questions each. | Each MCQ type assessment is worth 8 marks. Total of 40 marks of the module. |
 | Mini Project                                                                                           | 60 marks of the module                                                      |
 |                                                                                                        |                                                                             |
-
 
 Rationale of the assessment is to measure theoretical knowledge on continuos basis while hands-on learning is assessed with a mini project.

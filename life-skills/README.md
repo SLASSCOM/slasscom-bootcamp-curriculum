@@ -5,14 +5,16 @@
 > Skills and attitude required for a winning career.
 
 <dl>
-<dt>Total Duration</dt>
+<dt>Duration</dt>
 <dd>12  weeks</dd>
 <dt>Lectures and Self Learning</dt>
-<dd>50  hours</dd>
+<dd>16  hours</dd>
+<dt>Self Learning</dt>
+<dd>0  hours</dd>
 <dt>Tutorials and Labs</dt>
 <dd>30  hours</dd>
 <dt>Topics</dt>
-<dd>7</dd>
+<dd>6</dd>
 </dl>
 
 ## Introduction
