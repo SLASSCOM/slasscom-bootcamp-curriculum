@@ -12,7 +12,7 @@
  <dt>Self Learning</dt>
  <dd>~ 15  hours</dd>
 <dt>Tutorials and Labs</dt>
-<dd>~ 15  hours</dd>
+<dd>~ 20  hours</dd>
 <dt>Topics</dt>
 <dd>5</dd>
 </dl>
