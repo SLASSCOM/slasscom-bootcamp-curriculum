@@ -26,6 +26,7 @@ Mobile devices have become integral parts of our lives. They improve our persona
 3. [Designing Mobile Applications](./03-designing-mobile-apps.md)
 4. [Making Feature Rich Applications](./04-making-feature-rich-applications.md)
 5. [Publishing & Monitizing Applications](./05-publishing-and-monitizing-applications.md)
+6. [Mini Project](./06-mini-project.md)
 
 ## Learning Outcomes
 
