@@ -26,8 +26,7 @@ Do you want to learn the 21st century skills employers are looking for today? Th
 1. [Making it Happen](./03-making-it-happen.md)
 1. [Positive Attitude](./04-positive-attitude.md)
 1. [Emotional Intelligence](./05-emotional-intelligence.md)
-1. [Team Play](./06-team-play.md)
-1. [Time Management](./07-time-management.md)
+1. [Time Management](./06-time-management.md)
 
 ## Learning Outcomes
 

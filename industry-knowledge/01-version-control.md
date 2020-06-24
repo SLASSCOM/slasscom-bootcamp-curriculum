@@ -159,7 +159,7 @@ Write a Blog post (~200 Words) regarding one of the following topics. In the blo
 
 - How 'git' is different from 'subversion'
 - Why 'trunk-based development' has become popular than 'gitflow' branching strategy
-- How *Facebook Engineering Team* use Git patterns
+- How _Facebook Engineering Team_ use Git patterns
 - What are 'conventional commits' and how can it save time
 
 ---
