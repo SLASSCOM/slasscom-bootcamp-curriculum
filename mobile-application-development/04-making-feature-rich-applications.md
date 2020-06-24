@@ -21,7 +21,7 @@
 <dt>Self Learning Duration</dt>
 <dd> mins</dd>
 <dt>Lecture Duration</dt>
-<dd> mins</dd>
+<dd>120 mins</dd>
 <dt>Lab Tutorial Duration</dt>
 <dd> mins</dd>
 </dl>
@@ -50,7 +50,7 @@
 <dt>Self Learning Duration</dt>
 <dd> mins</dd>
 <dt>Lecture Duration</dt>
-<dd> mins</dd>
+<dd>120 mins</dd>
 <dt>Lab Tutorial Duration</dt>
 <dd> mins</dd>
 </dl>
@@ -79,7 +79,7 @@
 <dt>Self Learning Duration</dt>
 <dd> mins</dd>
 <dt>Lecture Duration</dt>
-<dd> mins</dd>
+<dd>120 mins</dd>
 <dt>Lab Tutorial Duration</dt>
 <dd> mins</dd>
 </dl>
@@ -108,7 +108,7 @@
 <dt>Self Learning Duration</dt>
 <dd> mins</dd>
 <dt>Lecture Duration</dt>
-<dd> mins</dd>
+<dd>60 mins</dd>
 <dt>Lab Tutorial Duration</dt>
 <dd> mins</dd>
 </dl>
@@ -137,7 +137,7 @@
 <dt>Self Learning Duration</dt>
 <dd> mins</dd>
 <dt>Lecture Duration</dt>
-<dd> mins</dd>
+<dd>90 mins</dd>
 <dt>Lab Tutorial Duration</dt>
 <dd> mins</dd>
 </dl>
@@ -153,3 +153,19 @@
 ### Lab and tutorials
 
 ...
+---
+
+---
+
+## Assessment 4
+
+> Making Feature Rich Applications
+
+MCQ assessment verifying the understanding of the students in the following concepts and areas. Preferably use a gamified assessment tool such as Kahoot.
+
+ - Data persistance
+ - Network communication
+ - Device specific features
+ - Security
+
+Review the answers of any common mistakes at the end of the session
