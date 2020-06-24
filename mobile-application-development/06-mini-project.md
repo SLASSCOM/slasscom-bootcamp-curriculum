@@ -12,12 +12,12 @@ Build of the application is iteratively supported through Tutorial/Lab in each l
 
 ## Milestones
 
-> Tutorial / Lab section of each lesson makes incremental milestone to the project. These increments aligns with learnings from each lesson. 
+Tutorial / Lab section of each lesson makes incremental milestone to the project. These increments aligns with learnings from each lesson. 
 
-### Assessment Criteria
+## Assessment Criteria
 
 Lecture should come up with marking scheme for the application based on milestones. It is up to the lecture to award mark in incremental basis or evaluate the final product.
 
-### Evaluation
+## Evaluation
 
 As per derived marking scheme each milestones could carry a portion of marks. Total marks for the Mini Project is 60 marks (out of 100 for the module).

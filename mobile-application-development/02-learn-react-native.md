@@ -1,6 +1,6 @@
 [Home](../README.md) > [Mobile Application Development](./README.md) > Learn React Native
 
-# Topic: Topic Name
+# Topic: Learn React Native
 
 1. Lesson: [Recap of React learnt in Web Application Development Module](#lesson-1)
 2. Lesson: [Introduction to React Native](#lesson-2)
