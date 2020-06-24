@@ -68,13 +68,11 @@ Learn and try to get familiar with common usage of Git commands as instructed in
 
 Discuss briefly about common terminology in use:
 
-- Repository, Fork, and Clone
-- Branches, Trunk, and Working Copy
-- Baselines, Labels, and Tags
+- Repository, Branches, and Trunk
+- Fork, and Clone
 - Fetch, Pull, and Push
 - Checkout, Commit
-- Merge, Conflict, Resolve
-- Forward, and Reverse Integration
+- Merge, Conflict, and Resolve
 - Pull Requests
 
 ### Lab and tutorials
@@ -157,7 +155,7 @@ None
 
 ### Lab and tutorials
 
-Write a 200+ word Blog post regarding one of the following topics. In the blog post, include the reference as citation blog content.
+Write a Blog post (~200 words) regarding one of the following topics. In the blog post, include the reference as citation blog content.
 
 - How **git** is different from **subversion**
 - Why **trunk-based development** has become popular than **gitflow** branching strategy
