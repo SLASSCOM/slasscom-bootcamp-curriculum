@@ -88,7 +88,7 @@ Watch video: [https://www.youtube.com/watch?v=AWawL5HFn64](https://www.youtube.c
 
 ### Self learning content
 
-...
+Read through: [https://rubygarage.org/blog/top-app-monetization-models](https://rubygarage.org/blog/top-app-monetization-models)
 
 ### Lecture content
 
