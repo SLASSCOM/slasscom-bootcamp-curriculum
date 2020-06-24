@@ -24,7 +24,7 @@ Mobile devices have become integral parts of our lives. They improve our persona
 ## Topics
 
 1. [Introduction to Mobile Application Development](./01-intro-to-mobile-application-development.md)
-2. [Learn React Native](./02-basics-of-react-native.md)
+2. [Learn React Native](./02-learn-react-native.md)
 3. [Designing Mobile Applications](./03-designing-mobile-apps.md)
 4. [Making Feature Rich Applications](./04-making-feature-rich-applications.md)
 5. [Publishing & Monetizing Applications](./05-publishing-and-monitizing-applications.md)
