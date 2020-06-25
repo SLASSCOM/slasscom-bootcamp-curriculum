@@ -5,7 +5,7 @@
 > Provide students the concepts and application of web application development process using the latest tools and techniques.
 
 <dl>
-<dt>Total Duration</dt>
+<dt>Duration</dt>
 <dd>~ 10 weeks</dd>
 <dt>Lectures and Self Learning</dt>
 <dd>~ 50 hours</dd>
@@ -17,7 +17,7 @@
 
 ## Introduction
 
-Web application development is the process and practice of developing web applications. In this module we will walk through technologies and tools behind web application development. 
+Web application development is the process and practice of developing web applications. In this module we will walk through technologies and tools behind web application development.
 
 ## Topics
 

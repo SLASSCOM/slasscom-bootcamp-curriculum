@@ -52,11 +52,11 @@ Write and publish a blog post comparing different mobile application platforms
 
 <dl>
 <dt>Self Learning Duration</dt>
-<dd> mins</dd>
+<dd>30 mins</dd>
 <dt>Lecture Duration</dt>
 <dd>45 mins</dd>
 <dt>Lab Tutorial Duration</dt>
-<dd> mins</dd>
+<dd>45 mins</dd>
 </dl>
 
 ### Self learning content
@@ -67,7 +67,7 @@ Watch videos
 
 ### Lecture content
 
-- Differenciation between native mobile apps vs hybrid/cross-platform
+- Differentiation between native mobile apps vs hybrid/cross-platform
 - Advantages and disadvantages of each platform
 
 ### Lab and tutorials
@@ -103,7 +103,8 @@ Follow through: [https://reactnative.dev/docs/getting-started](https://reactnati
 
 ### Lab and tutorials
 
-Create a hello world application using React Native. BONUS = Run it on your mobile phone!
+- Create a hello world application using React Native. BONUS = Run it on your mobile phone!
+- Group students into groups of 3 (+/- 1). These groups will be continue to do labs/tutorials together and proceed to build the Mini Project throughout the module.
 
 ---
 

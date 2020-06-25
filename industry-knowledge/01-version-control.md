@@ -68,23 +68,21 @@ Learn and try to get familiar with common usage of Git commands as instructed in
 
 Discuss briefly about common terminology in use:
 
-- Repository, Fork, and Clone
-- Branches, Trunk, and Working Copy
-- Baselines, Labels, and Tags
+- Repository, Branches, and Trunk
+- Fork, and Clone
 - Fetch, Pull, and Push
 - Checkout, Commit
-- Merge, Conflict, Resolve
-- Forward, and Reverse Integration
+- Merge, Conflict, and Resolve
 - Pull Requests
 
 ### Lab and tutorials
 
 First, learn briefly about following version control tools and create `hello-world` project using each of the tool:
 
-- TFS project using Azure DevOps, and
+- TFVC project using Azure DevOps, and
 - Git project using GitHub
 
-Then, migrate the TFS project `hello-world` on Azure DevOps to your choice of Git repository, preferably GitHub.
+Then, migrate the TFVC `hello-world` project on Azure DevOps to your choice of Git repository, preferably GitHub.
 
 ---
 
@@ -148,7 +146,7 @@ None
 
 ### Lecture content
 
-- Discuss what **Git patterns** are and why they are important
+- Discuss what Git patterns are and why they are important
 - Explain the differences of each Git pattern:
   - GitFlow Workflow
   - Trunk-based Development
@@ -157,12 +155,12 @@ None
 
 ### Lab and tutorials
 
-Write a 200+ word Blog post regarding one of the following topics. In the blog post, include the reference as citation blog content.
+Write a Blog post (~200 Words) regarding one of the following topics. In the blog post, include the reference as citation blog content.
 
-- How **git** is different from **subversion**
-- Why **trunk-based development** has become popular than **gitflow** branching strategy
-- How **Facebook Engineering** use Git patterns
-- What are **conventional commits** and how can it save time
+- How 'git' is different from 'subversion'
+- Why 'trunk-based development' has become popular than 'gitflow' branching strategy
+- How _Facebook Engineering Team_ use Git patterns
+- What are 'conventional commits' and how can it save time
 
 ---
 
@@ -172,4 +170,4 @@ Write a 200+ word Blog post regarding one of the following topics. In the blog p
 
 > Version Control
 
-MCQ assessment (~20 Questions) verifying the understanding of the students in purpose and terms of version control. Preferably use a gamified assessment tool such as Kahoot.
+MCQ assessment (~20 Questions) verifying the understanding of the students in purpose and terms of version control. Preferably use a gamified assessment tool such as [Kahoot](https://kahoot.com).

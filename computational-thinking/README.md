@@ -5,10 +5,12 @@
 > Introduce Computational thinking process for Problem Solving.
 
 <dl>
-<dt>Total Duration</dt>
+<dt>Duration</dt>
 <dd>~ 10 weeks</dd>
-<dt>Lectures and Self Learning</dt>
-<dd>~ 50 hours</dd>
+<dt>Lectures</dt>
+<dd>~ 30 hours</dd>
+<dt>Self Learning</dt>
+<dd>~ 20 hours</dd>
 <dt>Tutorials and Labs</dt>
 <dd>~ 50 hours</dd>
 <dt>Topics</dt>

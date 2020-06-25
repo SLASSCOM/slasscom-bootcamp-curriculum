@@ -1,12 +1,11 @@
-[Home](../README.md) > [Life Skills](./README.md) > Emotional Intelligence
+[Home](../README.md) > [Life Skills](./README.md) > Making it Happen
 
-# Topic: Emotional Intelligence
+# Topic: Making it Happen
 
-1. Lesson: [Developing Empathy and Working with Others](#lesson-1)
-1. Lesson: [Understanding Emotions](#lesson-2)
-1. Lesson: [Managing Strong Emotions](#lesson-3)
-1. Lesson: [Developing Confidence in Self and Others](#lesson-4)
-1. Assessment: [Assessment](#assessment-1)
+1. Lesson: [Goal Setting and action plan](#lesson-1)
+1. Lesson: [Problem Solving and Decision Making](#lesson-2)
+1. Lesson: [Becoming innovative in problem solving](#lesson-3)
+1. Lesson: [Being a Great Employee](#lesson-4)
 
 ---
 
@@ -14,13 +13,13 @@
 
 ## Lesson 1
 
-> Developing Empathy and Working with Others
+> Goal Setting and action plan
 
 <dl>
 <dt>Self Learning Duration</dt>
 <dd>0 mins</dd>
 <dt>Lecture Duration</dt>
-<dd>120 mins</dd>
+<dd>45 mins</dd>
 <dt>Lab Tutorial Duration</dt>
 <dd>0 mins</dd>
 </dl>
@@ -43,13 +42,13 @@
 
 ## Lesson 2
 
-> Understanding Emotions
+> Problem Solving and Decision Making
 
 <dl>
 <dt>Self Learning Duration</dt>
 <dd>0 mins</dd>
 <dt>Lecture Duration</dt>
-<dd>60 mins</dd>
+<dd>45 mins</dd>
 <dt>Lab Tutorial Duration</dt>
 <dd>0 mins</dd>
 </dl>
@@ -72,13 +71,13 @@
 
 ## Lesson 3
 
-> Managing Strong Emotions
+> Becoming innovative in problem solving
 
 <dl>
 <dt>Self Learning Duration</dt>
 <dd>0 mins</dd>
 <dt>Lecture Duration</dt>
-<dd>60 mins</dd>
+<dd>45 mins</dd>
 <dt>Lab Tutorial Duration</dt>
 <dd>0 mins</dd>
 </dl>
@@ -101,13 +100,13 @@
 
 ## Lesson 4
 
-> Developing Confidence in Self and Others
+> Being a Great Employee
 
 <dl>
 <dt>Self Learning Duration</dt>
 <dd>0 mins</dd>
 <dt>Lecture Duration</dt>
-<dd>60 mins</dd>
+<dd>45 mins</dd>
 <dt>Lab Tutorial Duration</dt>
 <dd>0 mins</dd>
 </dl>
