@@ -7,10 +7,10 @@
 <dl>
 <dt>Duration</dt>
 <dd>~ 10 weeks</dd>
-<dt>Lectures and Self Learning</dt>
-<dd>~ 50 hours</dd>
-<dt>Tutorials and Labs</dt>
-<dd>~ 50 hours</dd>
+<dt>Lectures</dt>
+<dd>~ 19 hours</dd>
+<dt>Self Learning</dt>
+<dd>~ 18 hours</dd>
 <dt>Topics</dt>
 <dd>8</dd>
 </dl>
