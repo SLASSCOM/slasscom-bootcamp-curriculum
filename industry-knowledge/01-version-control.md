@@ -31,7 +31,7 @@ None
 
 ### Lecture content
 
-Discuss the need of a version control system in software development. There is no need to teach the internal architecture behind version control models. Awareness and the values that a version control system provide are more important at this stage.
+Discuss the need of a _Version Control System_ in software development. There is no need to teach the internal architecture behind version control models. Awareness and the values that a version control system provide are more important at this stage.
 
 - Evolution of version control systems
 - Traditional models: File Locking, Version Merging, and Baselines
@@ -60,7 +60,7 @@ None
 
 ### Self learning content
 
-Learn and try to get familiar with common usage of Git commands as instructed in this simple guide before coming to class:
+Learn and try to get familiar with common usage of _Git Commands_ as instructed in this simple guide before coming to class:
 
 [rogerdudler.github.io/git-guide](https://rogerdudler.github.io/git-guide/)
 
@@ -117,7 +117,7 @@ Discuss the techniques from: [coursera.org/learn/introduction-git-github](https:
 
 ### Lab and tutorials
 
-First, watch and try to get familiar with GitHub Pages to create your own Blog as illustrated in this video tutorial:
+First, watch and try to get familiar with [GitHub Pages](https://guides.github.com/features/pages/) to create your own Blog as illustrated in this video tutorial:
 
 [youtube.com/watch?v=RaKX4A5EiQo](https://www.youtube.com/watch?v=RaKX4A5EiQo)
 
@@ -146,7 +146,7 @@ None
 
 ### Lecture content
 
-- Discuss what Git patterns are and why they are important
+- Discuss what _Git Patterns_ are and why they are important
 - Explain the differences of each Git pattern:
   - GitFlow Workflow
   - Trunk-based Development
@@ -157,10 +157,10 @@ None
 
 Write a Blog post (~200 Words) regarding one of the following topics. In the blog post, include the reference as citation blog content.
 
-- How 'git' is different from 'subversion'
-- Why 'trunk-based development' has become popular than 'gitflow' branching strategy
+- How _Git_ is different from _Subversion_
+- Why _Trunk-based development_ has become popular than _GitFlow_ branching strategy
 - How _Facebook Engineering Team_ use Git patterns
-- What are 'conventional commits' and how can it save time
+- What are _Conventional Commits_ and how can it save time
 
 ---
 
