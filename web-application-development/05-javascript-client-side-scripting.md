@@ -2,7 +2,9 @@
 
 # Topic: JavaScript - Client-side Scripting
 
-1. Lesson: [Client-side Scripting using JavaScript](#lesson-1)
+1. Lesson: [JavaScript Basics & Functions](#lesson-1)
+1. Lesson: [Array basics](#lesson-2)
+1. Lesson: [Events](#lesson-3)
 1. Assessment: [Implement shopping cart functionality](#assessment-1)
 1. Assessment: [Basic Calculator using JavaScript](#assessment-2)
 
@@ -12,15 +14,15 @@
 
 ## Lesson 1
 
-> Client-side Scripting using JavaScript
+> JavaScript Basics & Functions
 
 <dl>
 <dt>Self Learning Duration</dt>
-<dd>10 hours</dd>
-<dt>Lecture Duration</dt>
-<dd>10 * 60 mins lectures</dd>
-<dt>Lab Tutorial Duration</dt>
 <dd>600 mins</dd>
+<dt>Lecture Duration</dt>
+<dd>240 mins lectures</dd>
+<dt>Lab Tutorial Duration</dt>
+<dd>60 mins</dd>
 </dl>
 
 ### Self learning content
@@ -32,19 +34,77 @@
 
 ### Lecture content
 
-Demonstrate how to use following concepts
-- JavaScript Basics
-  - [Functions](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Functions)
-  - [Array basics](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Arrays)
-  - [Events](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events)
-- [Browser developer tools](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools)
-- Intro to Node.js & npm
+Demonstrate how to use following JavaScript concepts
+- JavaScript variable and operators
+- [Functions](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Functions)
 
 ### Lab and tutorials
 
-- 3 lab exercises to cover Functions, Array basics and Events
+- A lab exercise to cover function concepts
+- Quiz similar to [Test your skills: Functions](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Test_your_skills:_Functions)
+
+---
+
+---
+
+## Lesson 2
+
+> Array basics
+
+<dl>
+<dt>Self Learning Duration</dt>
+<dd>N/A</dd>
+<dt>Lecture Duration</dt>
+<dd>120 mins</dd>
+<dt>Lab Tutorial Duration</dt>
+<dd>120 mins</dd>
+</dl>
+
+### Self learning content
+
+N/A
+
+### Lecture content
+
+Demonstrate how to use following JavaScript concepts
+- [Array basics](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Arrays)
+
+### Lab and tutorials
+
+- A lab exercise to cover array basic concepts
+- Quiz similar to [Test your skills: Arrays](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Test_your_skills:_Arrays)
+
+---
+
+---
+
+## Lesson 3
+
+> Events
+
+<dl>
+<dt>Self Learning Duration</dt>
+<dd>N/A</dd>
+<dt>Lecture Duration</dt>
+<dd>240 mins</dd>
+<dt>Lab Tutorial Duration</dt>
+<dd>360 mins</dd>
+</dl>
+
+### Self learning content
+
+N/A
+
+### Lecture content
+
+Demonstrate how to use following JavaScript concepts
+- [Events](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events)
+
+### Lab and tutorials
+
+- A lab exercise to cover event concepts
+- Quiz similar to [JavaScript Quiz Test](https://www.w3schools.com/js/js_quiz.asp)
 - Develop [Guess the number](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/A_first_splash) game
-- Quiz similar to [JavaScript Quiz Test](https://www.w3schools.com/js/js_quiz.asp) and [Test your skills: Arrays](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Test_your_skills:_Arrays)
 
 ---
 
