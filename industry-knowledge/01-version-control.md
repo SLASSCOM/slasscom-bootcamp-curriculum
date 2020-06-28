@@ -103,7 +103,7 @@ Then, migrate the TFVC `hello-world` project on Azure DevOps to your choice of G
 
 ### Self learning content
 
-Complete the Week 1 of the following free course on Coursera before coming to class:
+Complete the _Week 1_ of the following free course on Coursera before coming to class:
 
 [coursera.org/learn/introduction-git-github](https://www.coursera.org/learn/introduction-git-github)
 
@@ -121,7 +121,7 @@ First, watch and try to get familiar with [GitHub Pages](https://guides.github.c
 
 [youtube.com/watch?v=RaKX4A5EiQo](https://www.youtube.com/watch?v=RaKX4A5EiQo)
 
-Next, create a Blog on GitHub using GitHub Pages. Use the repository name as `blog` and publish all the lab and tutorial blog posts written during the course so far.
+Next, create a Blog on GitHub using _GitHub Pages_. Use the repository name as `blog` and publish all the lab and tutorial blog posts written during the course so far.
 
 ---
 
