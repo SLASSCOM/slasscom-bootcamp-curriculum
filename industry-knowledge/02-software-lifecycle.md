@@ -33,12 +33,12 @@ None
 
 ### Lecture content
 
-Do an introduction to the fundamental process of SDLC to set the stage for the knowledge students will gain later in this module:
+Do an introduction to the fundamental process of _SDLC_ to set the stage for the knowledge students will gain later in this module:
 
 Discuss the main topics from: [https://www.youtube.com/watch?v=cY-3wdvbz6o](https://www.youtube.com/watch?v=cY-3wdvbz6o)
 
 - Different phases in SDLC
-- Results of each phase in SDLC
+- Results of each phase in SDLC, and
 - Requirements vs Specification
 
 ### Lab and tutorials
@@ -76,7 +76,7 @@ Discuss the traditional models of software development process from: [coursera.o
 - V-Model
 - Unified Process and its Variants
 - Spiral Model
-- Incremental Model
+- Incremental Model, and
 - Applying Software Development Models
 
 ### Lab and tutorials
@@ -86,7 +86,7 @@ Discuss the traditional models of software development process from: [coursera.o
 Complete the rest of the weeks of the above same course on Coursera to learn followings:
 
 - Using Agile With SDLC
-- Extreme Programming
+- Extreme Programming, and
 - Agile Variants and Lean Software Development
 
 ---
@@ -114,10 +114,10 @@ None
 
 Discuss the agile and lean models of software development process from: [coursera.org/learn/software-processes](https://www.coursera.org/learn/software-processes)
 
-- Agile Manifesto and Principles
+- Agile Frameworks
 - Scrum
 - Kanban
-- Lean Startup
+- Lean Startup, and
 - Selecting a Suitable Agile Model
 
 ### Lab and tutorials
@@ -126,7 +126,7 @@ Write a Whitepaper (~200 Words) regarding one of the following topics. In the ar
 
 - _Lean Startup_ is variation of _Prototyping Model_
 - _Big Companies_ can benefit from _Lean Startup_
-- How to run _Scrum_ within _Traditional Models_
+- How to run _Scrum_ within _Traditional Models_, or
 - Pros and cons of _Sashimi Model_
 
 ---
@@ -137,7 +137,7 @@ Write a Whitepaper (~200 Words) regarding one of the following topics. In the ar
 
 > SDLC
 
-MCQ assessment (~20 Questions) verifying the understanding of the students in purpose and terms of SDLC. Preferably use a gamified assessment tool such as [Kahoot](https://kahoot.com).
+MCQ assessment (~20 Questions) verifying the understanding of the students in purpose and terms of _SDLC_. Preferably use a gamified assessment tool such as [Kahoot](https://kahoot.com).
 
 ---
 
@@ -166,7 +166,7 @@ Complete the _Week 1_ and _Week 2_ of the following free course on Coursera befo
 
 - Discuss what _Software Design_ is and why it is important
 - Explain with examples what happens in _Design_, and
-- Further discuss how Design can be applied in various SDLC models
+- Further discuss how _Software Design_ can be applied in various _SDLCs_
 
 ### Lab and tutorials
 
@@ -174,7 +174,7 @@ Complete the _Week 1_ and _Week 2_ of the following free course on Coursera befo
 
 Complete the rest of the weeks of the above same course on Coursera to learn followings:
 
-- Interfacing with Requirements and Implementation
+- Interfacing with Requirements and Implementation, and
 - The role of Architecture in Design
 
 ---
@@ -205,7 +205,7 @@ Discuss the techniques of software design from: [coursera.org/learn/software-pro
 - Modularity
 - Coupling and Cohesion
 - Implementation
-- Deployment and Rollback
+- Deployment and Rollback, and
 - Testing Strategies
 
 ### Lab and tutorials
@@ -214,7 +214,7 @@ Write a Whitepaper (~200 Words) regarding modern software design techniques used
 
 - Netflix
 - Facebook mobile by Facebook Engineering
-- Gmail by Google
+- Gmail by Google, or
 - Microsoft's VS Code Team
 
 ---
@@ -225,4 +225,4 @@ Write a Whitepaper (~200 Words) regarding modern software design techniques used
 
 > Software Design
 
-MCQ assessment (~20 Questions) verifying the understanding of the students in purpose and terms of Software Design in the context of SDLC. Preferably use a gamified assessment tool such as [Kahoot](https://kahoot.com).
+MCQ assessment (~20 Questions) verifying the understanding of the students in purpose and terms of software design in the context of SDLC. Preferably use a gamified assessment tool such as [Kahoot](https://kahoot.com).
