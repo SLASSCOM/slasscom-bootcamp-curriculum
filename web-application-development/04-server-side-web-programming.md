@@ -25,6 +25,7 @@
 
 - Follow [Build Web APIs using ASP.NET](https://www.edx.org/course/build-web-apis-using-aspnet) course on edX
 - Read [What is Web Service](https://www.javatpoint.com/what-is-web-service) and [RESTful Web Services](https://www.javatpoint.com/restful-web-services)
+- [Optional] Follow [RESTful Web Services: A Tutorial](https://www.drdobbs.com/web-development/restful-web-services-a-tutorial/240169069)
 
 ### Lecture content
 

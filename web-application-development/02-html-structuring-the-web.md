@@ -3,8 +3,8 @@
 # Topic: HTML: Structuring the Web
 
 1. Lesson: [HTML Elements & Attributes](#lesson-1)
-2. Lesson: [Images, Tables and Lists](#lesson-2)
-3. Lesson: [Forms & Input Types](#lesson-3)
+1. Lesson: [Images, Tables and Lists](#lesson-2)
+1. Lesson: [Forms & Input Types](#lesson-3)
 1. Assessment: [Create static web pages for an online store](#assessment-1)
 
 ---
@@ -31,8 +31,9 @@ Web Application Development with HTML
 
 ### Self learning content
 
-- Follow [Introduction to Basic HTML & HTML5](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/) coding challenges by @freeCodeCamp.
-- Follow the [Create Your CV as a Webpage (html)](https://www.futurecareersbridge.net/cv-as-a-html) challenge.
+- Follow [HTML, CSS, and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers) Coursera course week 1: Introduction to HTML5
+- [Optional] Follow [Introduction to Basic HTML & HTML5](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/) coding challenges by @freeCodeCamp.
+- [Optional] Follow the [Create Your CV as a Webpage (html)](https://www.futurecareersbridge.net/cv-as-a-html) challenge.
 
 ### Lecture content
 

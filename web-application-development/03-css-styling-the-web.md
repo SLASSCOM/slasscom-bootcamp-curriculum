@@ -26,7 +26,8 @@
 
 ### Self learning content
 
-- Follow [Introduction to Basic CSS](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/) coding challenges by @freeCodeCamp.
+- Follow [HTML, CSS, and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers) Coursera course week 2: Introduction to CSS3 and week3: Coding the Static Restaurant Site
+- [Optional] Follow [Introduction to Basic CSS](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/) coding challenges by @freeCodeCamp.
 - [Optional] [HTML Styles - CSS](https://www.w3schools.com/html/html_css.asp)
 - [Optional] [Learn how to style and visually organize HTML with CSS](https://www.codecademy.com/learn/learn-css)
 
@@ -111,4 +112,4 @@ Follow [Style a CV using CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS
 
 > Style static web pages for an online store
 
-Use [Bootstrap Front-end framework](https://getbootstrap.com/) to improve static web pages created on [HTML: Structuring the Web](./02-html-structuring-the-web.md) assessment
+Use CSS and [Bootstrap Front-end framework](https://getbootstrap.com/) to improve static web pages created on [HTML: Structuring the Web](./02-html-structuring-the-web.md) assessment

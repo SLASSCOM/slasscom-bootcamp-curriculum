@@ -91,7 +91,7 @@ Lab exercises to practice xhr and promises
 
 ### Self learning content
 
-N/A
+Read [Learn web development > Common questions: Tools and setup](https://developer.mozilla.org/en-US/docs/Learn/Common_questions#Tools_and_setup)
 
 ### Lecture content
 

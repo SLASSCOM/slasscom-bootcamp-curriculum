@@ -27,8 +27,9 @@
 
 ### Self learning content
 
-- Follow [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js) on Khan Academy
-- Watch [What is JavaScript JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour](https://www.youtube.com/watch?v=W6NZfCO5SIk) or first 16 videos of [JavaScript Tutorial for Beginners](https://www.youtube.com/playlist?list=PLsyeobzWxl7qtP8Lo9TReqUMkiOp446cV)
+- Follow [HTML, CSS, and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers) Coursera course week 4: Introduction to Javascript
+- [Optional] Watch [What is JavaScript JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour](https://www.youtube.com/watch?v=W6NZfCO5SIk) or first 16 videos of [JavaScript Tutorial for Beginners](https://www.youtube.com/playlist?list=PLsyeobzWxl7qtP8Lo9TReqUMkiOp446cV)
+- [Optional] Follow [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js) on Khan Academy
 - [Optional] Follow [learn-js.org/](https://www.learn-js.org/)
 - [Optional] Basic content on [Learn the JavaScript fundamentals](https://www.codecademy.com/learn/introduction-to-javascript)
 

@@ -7,6 +7,7 @@
 1. Lesson: [State and Lifecycle](#lesson-3)
 1. Lesson: [Handling Events & Conditional Rendering](#lesson-4)
 1. Lesson: [Lists, Keys & Forms](#lesson-5)
+1. Assessment: [Assessment](#assessment-1)
 
 ---
 
@@ -165,3 +166,13 @@ Teach following React concepts with live coding or code samples.
 - Tutorial: [Intro to React with tic-tac-toe](https://reactjs.org/tutorial/tutorial.html) using the online IDE
 - Follow [Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
 - Follow [How to get started with React — a modern project-based guide for beginners](https://www.freecodecamp.org/news/getting-started-with-react-a-modern-project-based-guide-for-beginners-including-hooks-2/)
+
+---
+
+---
+
+## Assessment 1
+
+> Implement shopping cart application
+
+Implement shopping cart application using React

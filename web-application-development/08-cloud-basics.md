@@ -31,6 +31,7 @@
 - What is IaaS PaaS and SaaS
 - What is Public, Private and Hybrid cloud
 - What is serverless
+- How to use QwikLabs
 
 ### Lab and tutorials
 
