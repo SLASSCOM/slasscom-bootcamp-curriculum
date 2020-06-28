@@ -17,7 +17,7 @@ What to contribute:
 
 Below is the community practice for you to follow in contributing to develop this curriculum via GitHub web UI.
 
-- Create a GitHub account if you done have one already:
+- Create a GitHub account if you don't have one already:
   [https://github.com/](https://github.com/)
 
 - Fork the below repository into your GiHub account.
@@ -39,7 +39,7 @@ Below is the community practice for you to follow in contributing to develop thi
 
 Below is the community practice for you to follow in contributing to develop this curriculum via cloning the files to your local machine.
 
-- Create a GitHub account if you done have one already:
+- Create a GitHub account if you don't have one already:
   [https://github.com/](https://github.com/)
 
 - Fork the below repository into your GiHub account.
