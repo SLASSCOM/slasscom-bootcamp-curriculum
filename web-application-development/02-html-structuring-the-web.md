@@ -2,7 +2,9 @@
 
 # Topic: HTML: Structuring the Web
 
-1. Lesson: [Structure web application with HTML](#lesson-1)
+1. Lesson: [HTML Elements & Attributes](#lesson-1)
+2. Lesson: [Images, Tables and Lists](#lesson-2)
+3. Lesson: [Forms & Input Types](#lesson-3)
 1. Assessment: [Create static web pages for an online store](#assessment-1)
 
 ---
@@ -11,15 +13,15 @@
 
 ## Lesson 1
 
-> Structure web application with HTML
+> HTML Elements & Attributes
 
 <dl>
 <dt>Self Learning Duration</dt>
-<dd>5 hours</dd>
+<dd>120 mins</dd>
 <dt>Lecture Duration</dt>
-<dd>6 * 60 mins lectures</dd>
+<dd>120 mins lectures</dd>
 <dt>Lab Tutorial Duration</dt>
-<dd>60 mins</dd>
+<dd>N/A</dd>
 </dl>
 
 Web Application Development with HTML
@@ -34,10 +36,65 @@ Web Application Development with HTML
 
 ### Lecture content
 
-Use live code editor and teach how to structure web application with HTML
-- HTML Elements & Attributes
-- Images, Tables and Lists
-- Forms & Input Types
+Use live code editor and teach how to structure web application with HTML Elements & Attributes
+
+### Lab and tutorials
+
+N/A
+
+---
+
+---
+
+## Lesson 2
+
+> Images, Tables and Lists
+
+<dl>
+<dt>Self Learning Duration</dt>
+<dd>60 mins</dd>
+<dt>Lecture Duration</dt>
+<dd>120 mins</dd>
+<dt>Lab Tutorial Duration</dt>
+<dd>N/A</dd>
+</dl>
+
+### Self learning content
+
+N/A
+
+### Lecture content
+
+Use live code editor and teach how to structure web application with HTML Images, Tables and Lists
+
+### Lab and tutorials
+
+N/A
+
+---
+
+---
+
+## Lesson 3
+
+> Forms & Input Types
+
+<dl>
+<dt>Self Learning Duration</dt>
+<dd>120 mins</dd>
+<dt>Lecture Duration</dt>
+<dd>120 mins</dd>
+<dt>Lab Tutorial Duration</dt>
+<dd>30 mins</dd>
+</dl>
+
+### Self learning content
+
+N/A
+
+### Lecture content
+
+Use live code editor and teach how to structure web application with HTML Forms & Input Types
 
 ### Lab and tutorials
 
