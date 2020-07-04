@@ -190,7 +190,7 @@ None
 
 - With examples, discuss the importance of _Burndown Charts_ in the context of Scrum
 - Further discuss _Tracking_ techniques of Scrum:
-  - Sprint Boards
+  - Scrum Boards
   - Sprint Burndown Chart
   - Release Burndown Chart
 
