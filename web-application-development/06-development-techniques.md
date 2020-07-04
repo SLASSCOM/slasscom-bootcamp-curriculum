@@ -2,10 +2,12 @@
 
 # Topic: Development Techniques
 
-1. Lesson: [Making webpages interactive with jQuery](#lesson-1)
-1. Lesson: [Asynchronous and AJAX](#lesson-2)
+1. Lesson: [Making web pages interactive with jQuery](#lesson-1)
+1. Lesson: [Asynchronous, AJAX & Promises](#lesson-2)
+1. Lesson: [Browser developer tools & node/npm](#lesson-3)
+1. Lesson: [Web development life cycle](#lesson-4)
 1. Assessment: [Use jQuery](#assessment-1)
-1. Assessment: [Use XHR](#assessment-1)
+1. Assessment: [Use XHR](#assessment-2)
 
 ---
 
@@ -13,7 +15,7 @@
 
 ## Lesson 1
 
-> Making webpages interactive with jQuery
+> Making web pages interactive with jQuery
 
 <dl>
 <dt>Self Learning Duration</dt>
@@ -21,7 +23,7 @@
 <dt>Lecture Duration</dt>
 <dd>120 mins</dd>
 <dt>Lab Tutorial Duration</dt>
-<dd> mins</dd>
+<dd>N/A</dd>
 </dl>
 
 ### Self learning content
@@ -35,7 +37,7 @@ Teach how to do basic DOM manipulations using jQuery
 
 ### Lab and tutorials
 
-...
+N/A
 
 ---
 
@@ -43,7 +45,7 @@ Teach how to do basic DOM manipulations using jQuery
 
 ## Lesson 2
 
-> Asynchronous and AJAX 
+> Asynchronous, AJAX & Promises
 
 <dl>
 <dt>Self Learning Duration</dt>
@@ -55,8 +57,6 @@ Teach how to do basic DOM manipulations using jQuery
 </dl>
 
 ### Self learning content
-
-Video needed
 
 - Read [Introducing asynchronous JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Introducing)
 - Follow [AJAX Introduction](https://www.w3schools.com/js/js_ajax_intro.asp)
@@ -71,6 +71,71 @@ Video needed
 ### Lab and tutorials
 
 Lab exercises to practice xhr and promises
+
+---
+
+---
+
+## Lesson 3
+
+> Browser developer tools & node/npm
+
+<dl>
+<dt>Self Learning Duration</dt>
+<dd>N/A</dd>
+<dt>Lecture Duration</dt>
+<dd>90 mins</dd>
+<dt>Lab Tutorial Duration</dt>
+<dd>N/A</dd>
+</dl>
+
+### Self learning content
+
+Read [Learn web development > Common questions: Tools and setup](https://developer.mozilla.org/en-US/docs/Learn/Common_questions#Tools_and_setup)
+
+### Lecture content
+
+- [Browser developer tools](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools)
+  - The Inspector: DOM explorer and CSS editor
+  - The JavaScript debugger
+  - The JavaScript console
+  - Network and Application tabs
+- Intro to Node.js & npm
+
+### Lab and tutorials
+
+N/A
+
+---
+
+---
+
+## Lesson 4
+
+> Web development life cycle
+
+<dl>
+<dt>Self Learning Duration</dt>
+<dd>120 mins</dd>
+<dt>Lecture Duration</dt>
+<dd>120 mins</dd>
+<dt>Lab Tutorial Duration</dt>
+<dd>240 mins</dd>
+</dl>
+
+### Self learning content
+
+- Read [Web Development Life Cycle](https://www.signitysolutions.com/blog/web-development-life-cycle/)
+
+### Lecture content
+
+- Recap [Software Lifecycle](../industry-knowledge/02-software-lifecycle.md) in [Industry Knowledge](../industry-knowledge/README.md) module
+- Introduction to testing with Selenium
+- Introduction to deployments and web servers with nginx [engine x]
+
+### Lab and tutorials
+
+Lab for Selenium
 
 ---
 

@@ -2,7 +2,7 @@
 
 # Topic: Server Side Web Programming
 
-1. Lesson: [Backend Web API With C# (ASP.NET)](#lesson-1)
+1. Lesson: [Build Web APIs using ASP.NET](#lesson-1)
 
 ---
 
@@ -14,20 +14,24 @@
 
 <dl>
 <dt>Self Learning Duration</dt>
-<dd> mins</dd>
+<dd>300 mins</dd>
 <dt>Lecture Duration</dt>
-<dd> mins</dd>
+<dd>120 mins</dd>
 <dt>Lab Tutorial Duration</dt>
 <dd>120 mins</dd>
 </dl>
 
 ### Self learning content
 
-...
+- Follow [Build Web APIs using ASP.NET](https://www.edx.org/course/build-web-apis-using-aspnet) course on edX
+- Read [What is Web Service](https://www.javatpoint.com/what-is-web-service) and [RESTful Web Services](https://www.javatpoint.com/restful-web-services)
+- [Optional] Follow [RESTful Web Services: A Tutorial](https://www.drdobbs.com/web-development/restful-web-services-a-tutorial/240169069)
 
 ### Lecture content
 
-...
+- Review client/server architectures
+- Introduction to RESTful services
+- Discuss [Build Web APIs using ASP.NET](https://www.edx.org/course/build-web-apis-using-aspnet) edX course exercise and problems faced
 
 ### Lab and tutorials
 

@@ -2,7 +2,7 @@
 # Topic: Evolution and Fundamentals of Web
 
 1. Lesson: [What is the world wide web?](#lesson-1)
-2. Lesson: [Basic concepts of web applications](#lesson-2)
+1. Lesson: [Basic concepts of web applications](#lesson-2)
 
 ---
 
@@ -46,7 +46,7 @@ N/A
 <dt>Self Learning Duration</dt>
 <dd>30 mins</dd>
 <dt>Lecture Duration</dt>
-<dd>30 mins</dd>
+<dd>60 mins</dd>
 <dt>Lab Tutorial Duration</dt>
 <dd>30 mins</dd>
 </dl>
@@ -55,6 +55,8 @@ N/A
 
 - Watch [Basic concepts of web applications, how they work and the HTTP protocol](https://www.youtube.com/watch?v=RsQ1tFLwldY)  
 - Read [How the Web works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
+- Read [Learn web development > Common questions: How the Web works](https://developer.mozilla.org/en-US/docs/Learn/Common_questions#How_the_Web_works)
+
 
 ### Lecture content
 
