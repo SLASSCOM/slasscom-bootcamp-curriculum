@@ -152,6 +152,7 @@ Further discuss with examples of sprint planning, estimations, and ceremonies. P
 Discuss the main topics from: [coursera.org/learn/agile-software-development](https://www.coursera.org/learn/agile-software-development)
 
 - Sprint Planning
+- Planning Poker
 - Daily Standups
 - Retrospective
 
