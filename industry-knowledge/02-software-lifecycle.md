@@ -108,7 +108,9 @@ Complete the rest of the weeks of the above same course on Coursera to learn fol
 
 ### Self learning content
 
-None
+Learn and try to get familiar with common usage of _Agile_ as explained in this video before coming to class:
+
+[youtube.com/watch?v=jXrmTVWr4MU](https://www.youtube.com/watch?v=jXrmTVWr4MU)
 
 ### Lecture content
 
