@@ -30,7 +30,7 @@
 
 Complete the _Lesson 3_ of the below module of this course before coming to class:
 
-Software Lifecycle: 3. Lesson: [Agile Flavours of SDLC](../02-software-lifecycle/lesson-3)
+[Software Lifecycle](02-software-lifecycle): 3. Lesson: [Agile Flavours of SDLC](02-software-lifecycle#lesson-3)
 
 ### Lecture content
 
