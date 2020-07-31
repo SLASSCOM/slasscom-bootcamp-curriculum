@@ -2,7 +2,7 @@
 
 # Topic: Requirements and UX
 
-1. Lesson: [Lesson](#lesson-1)
+1. Lesson: [Introduction to User Experience](#lesson-1)
 1. Lesson: [Lesson](#lesson-2)
 1. Lesson: [Lesson](#lesson-3)
 1. Lesson: [Lesson](#lesson-4)
@@ -14,7 +14,7 @@
 
 ## Lesson 1
 
-> Lesson Name
+> Introduction to User Experience
 
 <dl>
 <dt>Self Learning Duration</dt>
@@ -30,8 +30,11 @@
 ...
 
 ### Lecture content
-
-...
+Briefing and discussion on below sub topics.
+- What is UX
+- Why it is important
+- Difference between UI & UX
+- Career Opportunities as a UX Designer
 
 ### Lab and tutorials
 
