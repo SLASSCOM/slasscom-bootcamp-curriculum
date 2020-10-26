@@ -1,6 +1,6 @@
 [Home](../README.md) > [Industry Knowledge](./README.md) > Requirements and UX
 
-# Topic: Requirements and UX
+# Topic: User Experience and UX Design
 
 1. Lesson: [Introduction to User Experience](#lesson-1)
 2. Lesson: [User Research](#lesson-2)
