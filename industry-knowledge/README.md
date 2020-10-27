@@ -28,7 +28,7 @@ This module introduces essential professional concepts a student must know to jo
 1. [Online Communities](./04-online-communities.md)
 1. [Continuous Delivery](./05-continuous-delivery.md)
 1. [Quality Assurance](./06-quality-assurance.md)
-1. [Requirements and UX](./07-requirements-and-ux.md)
+1. [User Experience and UX Design](./07-requirements-and-ux.md)
 
 ## Learning Outcomes
 
