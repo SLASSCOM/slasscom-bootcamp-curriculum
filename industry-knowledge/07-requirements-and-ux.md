@@ -32,17 +32,12 @@
 
 Learn and try to get familiar with content explained in below videos before coming to class.
 
-Mandotory:
-
-Journey into UX design - https://www.youtube.com/watch?v=oDqmp6WQgMg
-
-Optional:
-
-What Is UX Design? - A Full Overview - https://youtu.be/SRec90j6lTY
-
-What Is UX Design? (Video Guide) - https://youtu.be/v6n1i0qojws
-
-What is UI vs. UX Design? A Practical Example in Under 6 Minutes - https://youtu.be/TgqeRTwZvIo
+<dt>Mandotory:</dt>
+<dt><a href="https://www.youtube.com/watch?v=oDqmp6WQgMg">Journey into UX design</a></dt>
+<dt>Optional:</dt>
+<dt><a href="https://youtu.be/SRec90j6lTY">What Is UX Design? - A Full Overview</a></dt>
+<dt><a href="https://youtu.be/v6n1i0qojws">What Is UX Design?</a></dt> 
+<dt><a href="https://youtu.be/TgqeRTwZvIo">What is UI vs. UX Design?</a></dt>
 
 ### Lecture content
 
@@ -79,17 +74,12 @@ Describe the reasoning behind your answer.
 
 Learn and try to get familiar with content explained in below videos before coming to class.
 
-Mandotory:
-
-Uncovering Users' Mental Mode -https://youtu.be/zE3Su9tsZG8
-
-Optional:
-
-What Is UX Research, And What's Its Purpose? - https://youtu.be/6ZvEIdDGy2Q
-
-The UX Research Methods Every Designer Needs To Know - https://youtu.be/gGZGDnTY454
-
-The Top 10 UX Research Tools You Need For User Research - https://youtu.be/ejeRNNA1YB0
+<dt>Mandotory:</dt>
+<dt><a href="https://youtu.be/zE3Su9tsZG8">Uncovering Users' Mental Mode</a></dt>
+<dt>Optional:</dt>
+<dt><a href="https://youtu.be/6ZvEIdDGy2Q">What Is UX Research, And What's Its Purpose?</a></dt>
+<dt><a href="https://youtu.be/gGZGDnTY454">The UX Research Methods Every Designer Needs To Know</a></dt> 
+<dt><a href="https://youtu.be/ejeRNNA1YB0">The Top 10 UX Research Tools You Need For User Research</a></dt>
 
 ### Lecture content
 
@@ -125,13 +115,10 @@ But, before starting the design, your team has decided to perform a user researc
 
 Learn and try to get familiar with content explained in below videos before coming to class.
 
-How To Conduct UX Research Analysis (UX Design Guide) - https://youtu.be/zGCRhd3r4fE
-
-Creating Personas for User Experience Research - https://youtu.be/u44pBnAn7cM
-
-What is an Empathy Map? - https://youtu.be/QwF9a56WFWA
-
-Customer Journey Map Workshop - https://youtu.be/X7iXcP-wIkk
+<dt><a href="https://youtu.be/zGCRhd3r4fE">How To Conduct UX Research Analysis (UX Design Guide)</a></dt>
+<dt><a href="https://youtu.be/u44pBnAn7cM">Creating Personas for User Experience Research</a></dt> 
+<dt><a href="https://youtu.be/QwF9a56WFWA">What is an Empathy Map?</a></dt>
+<dt><a href="https://youtu.be/X7iXcP-wIkk">Customer Journey Map Workshop</a></dt>
 
 ### Lecture content
 
@@ -166,13 +153,10 @@ After the survey you have performed for your Food Delivery app, now you are plan
 
 Learn and try to get familiar with content explained in below videos before coming to class.
 
-What is UX Ideation? - https://youtu.be/M0YCX8nIdVU
-
-Design Thinking: Ideate - https://youtu.be/zbLxs6te5to
-
-Six Creative Ways To Brainstorm Ideas - https://youtu.be/yAidvTKX6xM
-
-Brainstorming Techniques: How to Innovate in Groups - https://youtu.be/YXZamW4-Ysk
+<dt><a href="https://youtu.be/M0YCX8nIdVU">What is UX Ideation?</a></dt>
+<dt><a href="https://youtu.be/zbLxs6te5to">Design Thinking: Ideate</a></dt> 
+<dt><a href="https://youtu.be/yAidvTKX6xM">Six Creative Ways To Brainstorm Ideas</a></dt>
+<dt><a href="https://youtu.be/YXZamW4-Ysk">Brainstorming Techniques: How to Innovate in Groups</a></dt>
 
 ### Lecture content
 
@@ -207,15 +191,11 @@ In the preparation of designing your Food Delivery app, list down three differen
 
 Learn and try to get familiar with content explained in below videos before coming to class.
 
-Design Thinking: Prototype - https://youtu.be/Q4MzT2MEDHA
-
-Prototyping Why What and How for developers - https://youtu.be/pwHtcKmwPDA
-
-Intro to Figma - Beginners guide to Figma Basics - https://youtu.be/jk1T0CdLxwU
-
-Adobe XD Basics | Top 10 Things to know when getting started - https://youtu.be/k7XcOQGbzaQ
-
-Fundamentals of visual design - https://youtu.be/gSCJMTLrW6Y
+<dt><a href="https://youtu.be/Q4MzT2MEDHA">Design Thinking: Prototype</a></dt>
+<dt><a href="https://youtu.be/pwHtcKmwPDA">Prototyping Why What and How for developers</a></dt> 
+<dt><a href="https://youtu.be/jk1T0CdLxwU">Intro to Figma - Beginners guide to Figma Basics</a></dt>
+<dt><a href="https://youtu.be/k7XcOQGbzaQ">Adobe XD Basics | Top 10 Things to know when getting started</a></dt>
+<dt><a href="https://youtu.be/gSCJMTLrW6Y">Fundamentals of visual design</a></dt>
 
 ### Lecture content
 
@@ -252,13 +232,10 @@ But, if you prefer you could produce it using Figma or Adobe XD.
 
 Learn and try to get familiar with content explained in below videos before coming to class.
 
-Usability testing - https://youtu.be/BrVnBdW6_rE
-
-Usability Testing Tips & Tools: Powerful UX Research Method - https://youtu.be/RyGFEmimwoM
-
-Usability Testing w. 5 Users - https://youtu.be/RhgUirqki50
-
-Usability Test Demo by Steve Krug - https://youtu.be/1UCDUOB_aS8
+<dt><a href="https://youtu.be/BrVnBdW6_rE">Usability testing</a></dt>
+<dt><a href="https://youtu.be/RyGFEmimwoM">Usability Testing Tips & Tools: Powerful UX Research Method</a></dt> 
+<dt><a href="https://youtu.be/RhgUirqki50">Usability Testing w. 5 Users</a></dt>
+<dt><a href="https://youtu.be/1UCDUOB_aS8">Usability Test Demo by Steve Krug</a></dt>
 
 ### Lecture content
 
