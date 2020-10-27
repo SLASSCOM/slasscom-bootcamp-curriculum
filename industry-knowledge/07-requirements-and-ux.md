@@ -1,4 +1,4 @@
-[Home](../README.md) > [Industry Knowledge](./README.md) > Requirements and UX
+[Home](../README.md) > [Industry Knowledge](./README.md) > User Experience and UX Design
 
 # Topic: User Experience and UX Design
 
@@ -8,7 +8,7 @@
 4. Lesson: [Ideate for Solution](#lesson-4)
 5. Lesson: [Prototyping and Visual Design](#lesson-5)
 6. Lesson: [Test and Iterate](#lesson-6)
-7. Lesson: [Some Instruction to Continue learning](#lesson-7)
+7. Lesson: [Some Instruction to Continue learning](#lesson-7---optional)
 1. Assessment: [Assessment](#assessment-1)
 
 ---
