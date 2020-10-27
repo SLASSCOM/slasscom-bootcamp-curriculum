@@ -48,7 +48,9 @@ This lesson will provide an "Introduction to User Experience" by discussing belo
 
 ### Lab and tutorials
 
-...
+Identify and provide example which demostrate scenarios of good user experience or bad user experience.
+
+Describe the reasoning behind your answer.
 
 ---
 
@@ -85,7 +87,10 @@ This lesson will discuss about "User Research" by discussing below sub topics.
 
 ### Lab and tutorials
 
-...
+Your company has asked your team to draft a design for a new Food Delivery mobile app similar to PickMe or UberEats.
+But, before starting the design, your team has decided to perform a user research for this.
+1. Who are the users that you can think of in this scenario?
+2. Select one user type and prepare a survey to distribute for them. 
 
 ---
 
@@ -120,7 +125,9 @@ This lesson will discuss how to analyze findings from user research and identify
 
 ### Lab and tutorials
 
-...
+After the survey you have performed for your Food Delivery app, now you are planning on preparing a Persona and User Journey Map for the user that you have selected in the previous lesson.
+1. Draft a persona for the selected user.
+2. Prepare a User Journey Map for the same user.
 
 ---
 
@@ -157,7 +164,7 @@ This lesson will discuss process of ideation for solution by discussing below su
 
 ### Lab and tutorials
 
-...
+In the preparation of designing your Food Delivery app, list down three different purposes that your users required to achieve out of your app.
 
 ---
 
@@ -195,7 +202,9 @@ This lesson will discuss about "Prototyping and Visual Design" by discussing bel
 
 ### Lab and tutorials
 
-...
+Design the login page and the menu page of your Food Delivery app and provide the design.
+Sketch drawn in a paper would be enough.
+But, if you prefer you could produce it using Figma or Adobe XD.
 
 ---
 
@@ -231,7 +240,11 @@ This lesson will discuss about "Usability Testing" by discussing below sub topic
 
 ### Lab and tutorials
 
-...
+Look at the purposes that you have listed in the answer of Lesson 4.
+Try to achieve these purpose using either PickMe or UberEats.
+List down your findings.
+1. What works as you expected
+2. What did not work as you expected
 
 ---
 
