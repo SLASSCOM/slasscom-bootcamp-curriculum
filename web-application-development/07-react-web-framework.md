@@ -172,7 +172,33 @@ Teach following React concepts with live coding or code samples.
 ---
 
 ## Assessment 1
+Create a simple TODO application using the react framework. Follow this wireframe
 
-> Implement shopping cart application
+![TODO Wireframe](https://i.imgur.com/V0taqbi.png)
 
-Implement shopping cart application using React
+#### scope
+- User should be able add todo item 
+- User should be able to enter in the title
+- User should be able to enter description
+- User should be able to select priority (low, medium and high)
+- If the title is empty, disable the "Add to ToDo List " button. 
+- Once user submit, the title and description should be cleared 
+- User should should be able to view the Todo items
+- It should have priority, description and title
+- User should be able delete the item
+
+#### Expected outcome 
+- Use proper state management (state and props)
+- Create reusable components
+- Use javascript functions - map()
+- Create responsive UI
+- Use stylings using react
+ 
+#### Instructions
+- Check given wireframe
+- You can use any css framework or npm package.
+- You can add additional features apart from the given scope.
+
+#### Delivery 
+- Use https://codesandbox.io/ to create project
+- Once you complete, send us the link
