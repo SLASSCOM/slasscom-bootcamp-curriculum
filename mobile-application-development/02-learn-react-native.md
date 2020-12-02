@@ -68,7 +68,7 @@ Follow creating UIs: [https://www.coursera.org/learn/react-native](https://www.c
 ### Lecture content
 
 - Concepts of react native
-- Introducing Navigation
+- Learn how components in React Native maps to native
 
 ### Lab and tutorials
 
@@ -149,18 +149,16 @@ Follow through:
 Digging more into React Native components
 
 - FlatList
-- Section
-- BackHandler
-- DrawerLayoutAndroid
-- PermissionsAndroid
-- ToastAndroid
+- SectionList
+- Implementing Navigation with React Native (+ explore possible navigators)
 
 ### Lab and tutorials
 
 - Create a view with list of "Products"
 - Check-in the code
 - Have all students pull the code, change background colour of the list and run in their own device
-- Using git knowledge, explore how code commits can create you check-points so you can roll back after experimenting
+- Using git knowledge, explore how code commits can create you check-points so you can roll back after experimenting.
+
 ---
 
 ---
@@ -185,6 +183,10 @@ Follow through:
 
 ### Lecture content
 
+- BackHandler
+- DrawerLayoutAndroid
+- PermissionsAndroid
+- ToastAndroid
 - ActivityIndicator
 - Dimensions
 - KeyboardAvoidingView
@@ -199,6 +201,7 @@ Follow through:
 - Add drawer navigation to the Mini project project
 - Create 2 more views with lists for "Promotions" and "Favorites"
 - Check in the code
+
 ---
 
 ---
@@ -229,6 +232,7 @@ Watch video: [https://www.youtube.com/watch?v=LdKtugH-sb8](https://www.youtube.c
 ### Lab and tutorials
 
 - Create another list for "Shopping Cart"
+
 ---
 
 ---
