@@ -98,6 +98,7 @@ Follow through: [https://reactnative.dev/docs/getting-started](https://reactnati
 
 ### Lecture content
 
+- Different development environments (Snack, Expo CLI, React Native CLI)
 - How to setup development environment
 - How to run hello world app in a simulator
 
