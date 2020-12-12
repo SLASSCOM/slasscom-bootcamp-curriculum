@@ -45,7 +45,6 @@ This lesson will provide an "Introduction to User Experience" by discussing belo
 - What is UX
 - Why it is important
 - Difference between UI & UX
-- Career Opportunities as a UX Designer
 
 ### Lab and tutorials
 
@@ -280,6 +279,7 @@ This lesson will discuss about how they can continue mastering the knowledge and
 - Articles to read
 - Some other courses to that can follow
 - Join the online UX communities
+- Career Opportunities as a UX Designer
 
 ### Lab and tutorials
 
